@@ -1,0 +1,144 @@
+{
+  "id": "spojniki-szyku-prostego",
+  "title": "Spójniki szyku prostego",
+  "level": "A1–A2",
+  "summary": "und, aber, oder, denn, sondern – spójniki, które nie zmieniają szyku.",
+  "sections": [
+    {
+      "title": "Zasada",
+      "text": "Spójniki **und** (i), **aber** (ale), **oder** (albo), **denn** (ponieważ, bo), **sondern** (lecz) stoją na **pozycji zero** – nie liczą się do miejsc w zdaniu. Po nich szyk jest **zwykły**: podmiot, czasownik…\n\nZapamiętaj skrót **ADUSO**: aber, denn, und, sondern, oder.",
+      "examples": [
+        {
+          "text": "Ich bin müde, aber ich muss arbeiten.",
+          "translation": "Jestem zmęczony, ale muszę pracować."
+        },
+        {
+          "text": "Er bleibt zu Hause, denn er ist krank.",
+          "translation": "Zostaje w domu, bo jest chory."
+        }
+      ]
+    },
+    {
+      "title": "Na co uważać",
+      "text": "- **denn** ma szyk prosty, a **weil** (też „bo”) – szyk końcowy: *…, denn ich **bin** krank* / *…, weil ich krank **bin***.\n- **sondern** występuje po przeczeniu: *Ich fahre nicht mit dem Bus, **sondern** mit dem Zug.*\n- przed **aber, denn, sondern** stawiamy przecinek, przed **und** i **oder** zwykle nie.",
+      "examples": [
+        {
+          "text": "Kommst du heute oder kommst du morgen?",
+          "translation": "Przyjdziesz dziś czy jutro?"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sp0-01",
+      "q": "Ich trinke Kaffee ___ ich esse ein Brötchen.",
+      "correct": "und",
+      "wrong": [
+        "denn",
+        "sondern",
+        "weil"
+      ],
+      "why": "und – i; szyk prosty."
+    },
+    {
+      "id": "sp0-02",
+      "q": "Er kommt nicht, ___ er hat keine Zeit.",
+      "correct": "denn",
+      "wrong": [
+        "und",
+        "sondern",
+        "oder"
+      ],
+      "why": "Przyczyna z szykiem prostym → denn."
+    },
+    {
+      "id": "sp0-03",
+      "q": "Das ist nicht mein Auto, ___ das Auto meines Vaters.",
+      "correct": "sondern",
+      "wrong": [
+        "aber",
+        "denn",
+        "oder"
+      ],
+      "why": "Po przeczeniu → sondern (lecz)."
+    },
+    {
+      "id": "sp0-04",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Ich lerne Deutsch, denn ich will in Berlin arbeiten.",
+      "wrong": [
+        "Ich lerne Deutsch, denn will ich in Berlin arbeiten.",
+        "Ich lerne Deutsch, denn ich in Berlin arbeiten will.",
+        "Ich lerne Deutsch, denn arbeiten ich will in Berlin."
+      ],
+      "why": "Po denn szyk prosty: podmiot + czasownik."
+    },
+    {
+      "id": "sp0-05",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Es regnet, aber wir gehen spazieren.",
+      "wrong": [
+        "Es regnet, aber gehen wir spazieren.",
+        "Es regnet, aber wir spazieren gehen.",
+        "Es regnet, aber spazieren wir gehen."
+      ],
+      "why": "aber nie zmienia szyku."
+    },
+    {
+      "id": "sp0-06",
+      "q": "Co oznacza skrót ADUSO?",
+      "correct": "aber, denn, und, sondern, oder",
+      "wrong": [
+        "als, dass, und, sobald, ob",
+        "aber, dann, und, sonst, oder",
+        "außerdem, deshalb, und, so, ob"
+      ],
+      "why": "Spójniki szyku prostego."
+    },
+    {
+      "id": "sp0-07",
+      "q": "Który spójnik oznacza „bo” i NIE zmienia szyku?",
+      "correct": "denn",
+      "wrong": [
+        "weil",
+        "deshalb",
+        "dass"
+      ],
+      "why": "weil – szyk końcowy, deshalb – przestawny."
+    },
+    {
+      "id": "sp0-08",
+      "q": "Möchtest du Tee ___ Kaffee?",
+      "correct": "oder",
+      "wrong": [
+        "aber",
+        "sondern",
+        "denn"
+      ],
+      "why": "Wybór → oder."
+    },
+    {
+      "id": "sp0-09",
+      "q": "Na którym miejscu stoją spójniki szyku prostego?",
+      "correct": "na pozycji zero – nie liczą się",
+      "wrong": [
+        "na pierwszym – po nich czasownik",
+        "na końcu zdania",
+        "na drugim miejscu"
+      ],
+      "why": "Po nich zdanie zaczyna się normalnie."
+    },
+    {
+      "id": "sp0-10",
+      "q": "Er ist klein, ___ er ist sehr stark.",
+      "correct": "aber",
+      "wrong": [
+        "sondern",
+        "denn",
+        "oder"
+      ],
+      "why": "Przeciwieństwo → aber."
+    }
+  ]
+}

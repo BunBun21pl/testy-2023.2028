@@ -1,0 +1,148 @@
+{
+  "id": "zaimki-osobowe",
+  "title": "Zaimki osobowe",
+  "level": "A1–A2",
+  "summary": "ich, du, er… w mianowniku, bierniku i celowniku.",
+  "sections": [
+    {
+      "title": "Odmiana",
+      "text": "- Nominativ: **ich, du, er, sie, es, wir, ihr, sie, Sie**\n- Akkusativ: **mich, dich, ihn, sie, es, uns, euch, sie, Sie**\n- Dativ: **mir, dir, ihm, ihr, ihm, uns, euch, ihnen, Ihnen**\n\n**Sie** pisane wielką literą to forma grzecznościowa (Pan, Pani, Państwo).",
+      "examples": [
+        {
+          "text": "Ich liebe dich.",
+          "translation": "Kocham cię (Akkusativ)."
+        },
+        {
+          "text": "Kannst du mir helfen?",
+          "translation": "Możesz mi pomóc (Dativ)?"
+        }
+      ]
+    },
+    {
+      "title": "Na co uważać",
+      "text": "- **er** zastępuje rzeczowniki rodzaju męskiego, także rzeczy: *Der LKW ist alt. **Er** ist kaputt.*\n- **sie** = ona albo oni, **Sie** = Pan/Pani\n- czasowniki z **Dativem**: helfen, danken, gefallen, gehören, antworten: *Ich danke **ihm**.*\n- *Wie geht es **dir**?* – Jak się masz?",
+      "examples": [
+        {
+          "text": "Das Buch gehört ihr.",
+          "translation": "Ta książka należy do niej."
+        },
+        {
+          "text": "Ich rufe ihn morgen an.",
+          "translation": "Zadzwonię do niego jutro."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "pron-01",
+      "q": "Kannst du ___ helfen? (ich)",
+      "correct": "mir",
+      "wrong": [
+        "mich",
+        "ich",
+        "mein"
+      ],
+      "why": "helfen + Dativ → mir."
+    },
+    {
+      "id": "pron-02",
+      "q": "Ich sehe ___. (er)",
+      "correct": "ihn",
+      "wrong": [
+        "ihm",
+        "er",
+        "sein"
+      ],
+      "why": "sehen + Akkusativ → ihn."
+    },
+    {
+      "id": "pron-03",
+      "q": "Ich danke ___. (sie, ona)",
+      "correct": "ihr",
+      "wrong": [
+        "sie",
+        "ihnen",
+        "ihm"
+      ],
+      "why": "danken + Dativ → ihr."
+    },
+    {
+      "id": "pron-04",
+      "q": "Wie geht es ___? (du)",
+      "correct": "dir",
+      "wrong": [
+        "dich",
+        "du",
+        "dein"
+      ],
+      "why": "Wie geht es dir? – Dativ."
+    },
+    {
+      "id": "pron-05",
+      "q": "Wir besuchen ___. (ihr)",
+      "correct": "euch",
+      "wrong": [
+        "ihr",
+        "euer",
+        "uns"
+      ],
+      "why": "Akkusativ od ihr → euch."
+    },
+    {
+      "id": "pron-06",
+      "q": "Das Auto gehört ___. (wir)",
+      "correct": "uns",
+      "wrong": [
+        "unser",
+        "wir",
+        "euch"
+      ],
+      "why": "gehören + Dativ → uns."
+    },
+    {
+      "id": "pron-07",
+      "q": "Der Computer ist neu. ___ funktioniert gut.",
+      "correct": "Er",
+      "wrong": [
+        "Es",
+        "Sie",
+        "Ihn"
+      ],
+      "why": "der Computer → er."
+    },
+    {
+      "id": "pron-08",
+      "q": "Herr Kowalski, kann ich ___ helfen?",
+      "correct": "Ihnen",
+      "wrong": [
+        "Sie",
+        "ihnen",
+        "Ihr"
+      ],
+      "why": "Forma grzecznościowa w Dativie → Ihnen."
+    },
+    {
+      "id": "pron-09",
+      "q": "Die Kinder spielen. Ich rufe ___.",
+      "correct": "sie",
+      "wrong": [
+        "ihnen",
+        "ihr",
+        "es"
+      ],
+      "why": "Akkusativ liczby mnogiej → sie."
+    },
+    {
+      "id": "pron-10",
+      "q": "Gefällt ___ das Geschenk? (er)",
+      "correct": "ihm",
+      "wrong": [
+        "ihn",
+        "er",
+        "sein"
+      ],
+      "why": "gefallen + Dativ → ihm."
+    }
+  ]
+}

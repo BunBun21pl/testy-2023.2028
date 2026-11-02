@@ -1,0 +1,150 @@
+{
+  "id": "rodzajniki-kein",
+  "title": "Rodzajniki określone, nieokreślone i przeczenie kein",
+  "level": "A1",
+  "summary": "der/die/das, ein/eine oraz kiedy mówimy kein, a kiedy nicht.",
+  "sections": [
+    {
+      "title": "Rodzajnik określony i nieokreślony (mianownik)",
+      "text": "Kolejność form: rodzaj męski – żeński – nijaki – liczba mnoga.\n\n- określony: **der** – **die** – **das** – **die**\n- nieokreślony: **ein** – **eine** – **ein** – (brak)\n\n**Nieokreślony** – rzecz nowa, wspomniana pierwszy raz, „jakiś”: *Das ist **ein** LKW.*\n**Określony** – rzecz znana, konkretna: ***Der** LKW ist neu.*",
+      "examples": [
+        {
+          "text": "Ich habe ein Auto. Das Auto ist rot.",
+          "translation": "Mam samochód. Ten samochód jest czerwony."
+        }
+      ]
+    },
+    {
+      "title": "Przeczenie kein",
+      "text": "**kein** zaprzecza **rzeczownikom bez rodzajnika albo z rodzajnikiem nieokreślonym**. Odmienia się jak *ein*, a w liczbie mnogiej ma formę **keine**:\n- *Das ist ein Problem.* → *Das ist **kein** Problem.*\n- *Ich habe eine Idee.* → *Ich habe **keine** Idee.*\n- *Ich habe Zeit.* → *Ich habe **keine** Zeit.*\n- *Wir haben Kinder.* → *Wir haben **keine** Kinder.*\nW bierniku rodzaju męskiego: *Ich habe **keinen** Hund.*",
+      "examples": [
+        {
+          "text": "Er hat keinen Führerschein.",
+          "translation": "On nie ma prawa jazdy."
+        }
+      ]
+    },
+    {
+      "title": "kein czy nicht?",
+      "text": "**nicht** zaprzecza **czasownikom, przymiotnikom, przysłówkom** i rzeczownikom z **rodzajnikiem określonym**:\n- *Ich arbeite **nicht**.*\n- *Das ist **nicht** teuer.*\n- *Das ist **nicht** der Bus nach Berlin.*",
+      "examples": [
+        {
+          "text": "Ich komme heute nicht.",
+          "translation": "Nie przyjdę dziś."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "art-01",
+      "q": "Das ist ___ Buch. (nieokreślony)",
+      "correct": "ein",
+      "wrong": [
+        "eine",
+        "einen",
+        "der"
+      ],
+      "why": "das Buch → ein."
+    },
+    {
+      "id": "art-02",
+      "q": "Ich sehe ___ Frau. ___ Frau ist Lehrerin.",
+      "correct": "eine … Die",
+      "wrong": [
+        "ein … Der",
+        "die … Eine",
+        "einen … Das"
+      ],
+      "why": "Pierwsza wzmianka → eine; potem znana → die."
+    },
+    {
+      "id": "art-03",
+      "q": "Ich habe ___ Zeit.",
+      "correct": "keine",
+      "wrong": [
+        "nicht",
+        "kein",
+        "keinen"
+      ],
+      "why": "Rzeczownik bez rodzajnika (die Zeit) → keine."
+    },
+    {
+      "id": "art-04",
+      "q": "Das ist ___ Problem.",
+      "correct": "kein",
+      "wrong": [
+        "keine",
+        "nicht",
+        "keinen"
+      ],
+      "why": "das Problem → kein."
+    },
+    {
+      "id": "art-05",
+      "q": "Er hat ___ Bruder.",
+      "correct": "keinen",
+      "wrong": [
+        "kein",
+        "keine",
+        "nicht"
+      ],
+      "why": "Biernik rodzaju męskiego → keinen."
+    },
+    {
+      "id": "art-06",
+      "q": "Ich verstehe das ___.",
+      "correct": "nicht",
+      "wrong": [
+        "kein",
+        "keine",
+        "keinen"
+      ],
+      "why": "Zaprzeczamy czasownikowi → nicht."
+    },
+    {
+      "id": "art-07",
+      "q": "Das Auto ist ___ teuer.",
+      "correct": "nicht",
+      "wrong": [
+        "kein",
+        "keine",
+        "keinen"
+      ],
+      "why": "Zaprzeczamy przymiotnikowi → nicht."
+    },
+    {
+      "id": "art-08",
+      "q": "Wir haben ___ Kinder.",
+      "correct": "keine",
+      "wrong": [
+        "kein",
+        "nicht",
+        "keinen"
+      ],
+      "why": "Liczba mnoga → keine."
+    },
+    {
+      "id": "art-09",
+      "q": "Rodzajnik określony w liczbie mnogiej to:",
+      "correct": "die",
+      "wrong": [
+        "der",
+        "das",
+        "den"
+      ],
+      "why": "die – dla wszystkich rodzajów."
+    },
+    {
+      "id": "art-10",
+      "q": "W liczbie mnogiej rodzajnik nieokreślony:",
+      "correct": "nie istnieje",
+      "wrong": [
+        "to eine",
+        "to ein",
+        "to einen"
+      ],
+      "why": "Ich habe Bücher (bez rodzajnika)."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "prateritum",
+  "title": "Czas przeszły Präteritum",
+  "level": "A2",
+  "summary": "Czas przeszły typowy dla tekstów pisanych – oraz war, hatte i modalne w mowie.",
+  "sections": [
+    {
+      "title": "Kiedy używamy",
+      "text": "Präteritum występuje głównie w **tekstach pisanych**: opowiadaniach, artykułach, raportach.\n\nW mowie używamy go przede wszystkim z **sein**, **haben** i **czasownikami modalnymi**, a resztę zwykle w Perfekcie: *Ich **war** krank und **konnte** nicht kommen.*",
+      "examples": [
+        {
+          "text": "Gestern war ich müde.",
+          "translation": "Wczoraj byłem zmęczony."
+        }
+      ]
+    },
+    {
+      "title": "Czasowniki regularne",
+      "text": "Temat + **-te** + końcówka. **ich** i **er/sie/es** nie mają dodatkowej końcówki:\n- ich mach**te**, du mach**test**, er mach**te**\n- wir mach**ten**, ihr mach**tet**, sie mach**ten**\n\nTemat na -t/-d: arbeit**ete**.",
+      "examples": [
+        {
+          "text": "Er arbeitete in einer Spedition.",
+          "translation": "Pracował w firmie spedycyjnej."
+        }
+      ]
+    },
+    {
+      "title": "Czasowniki nieregularne i modalne",
+      "text": "Nieregularne zmieniają temat, a **ich i er** też nie mają końcówki:\n- sein → **war**, haben → **hatte**, werden → **wurde**\n- gehen → **ging**, kommen → **kam**, fahren → **fuhr**, sehen → **sah**, geben → **gab**\n\nModalne – bez umlautu + **-te**: können → **konnte**, müssen → **musste**, dürfen → **durfte**, wollen → **wollte**, sollen → **sollte**, mögen → **mochte**",
+      "examples": [
+        {
+          "text": "Wir fuhren nach München.",
+          "translation": "Pojechaliśmy do Monachium."
+        },
+        {
+          "text": "Ich musste lange warten.",
+          "translation": "Musiałem długo czekać."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "prat-01",
+      "q": "Präteritum od „sein” (ich):",
+      "correct": "war",
+      "wrong": [
+        "bin",
+        "waren",
+        "gewesen"
+      ],
+      "why": "ich war."
+    },
+    {
+      "id": "prat-02",
+      "q": "Präteritum od „haben” (er):",
+      "correct": "hatte",
+      "wrong": [
+        "hat",
+        "habte",
+        "hattet"
+      ],
+      "why": "er hatte."
+    },
+    {
+      "id": "prat-03",
+      "q": "Gestern ___ wir keine Zeit. (haben)",
+      "correct": "hatten",
+      "wrong": [
+        "hatte",
+        "haben",
+        "hattet"
+      ],
+      "why": "wir hatten."
+    },
+    {
+      "id": "prat-04",
+      "q": "Ich ___ gestern lange. (arbeiten)",
+      "correct": "arbeitete",
+      "wrong": [
+        "arbeitet",
+        "arbeitte",
+        "arbeitetete"
+      ],
+      "why": "Temat na -t: arbeit + ete."
+    },
+    {
+      "id": "prat-05",
+      "q": "Präteritum od „können” (ich):",
+      "correct": "konnte",
+      "wrong": [
+        "könnte",
+        "kannte",
+        "konnt"
+      ],
+      "why": "Modalne w Präteritum tracą umlaut: konnte."
+    },
+    {
+      "id": "prat-06",
+      "q": "Präteritum od „fahren” (er):",
+      "correct": "fuhr",
+      "wrong": [
+        "fahrte",
+        "fährte",
+        "gefahren"
+      ],
+      "why": "Nieregularne: fahren → fuhr."
+    },
+    {
+      "id": "prat-07",
+      "q": "Präteritum od „gehen” (sie, ona):",
+      "correct": "ging",
+      "wrong": [
+        "gehte",
+        "gang",
+        "gegangen"
+      ],
+      "why": "gehen → ging."
+    },
+    {
+      "id": "prat-08",
+      "q": "Kiedy Präteritum jest typowe dla wszystkich czasowników?",
+      "correct": "w tekstach pisanych, np. opowiadaniach",
+      "wrong": [
+        "tylko w pytaniach",
+        "tylko w rozmowie z kolegą",
+        "w zdaniach rozkazujących"
+      ],
+      "why": "W mowie zwykle Perfekt, poza sein, haben i modalnymi."
+    },
+    {
+      "id": "prat-09",
+      "q": "Du ___ gestern nicht da. (sein)",
+      "correct": "warst",
+      "wrong": [
+        "war",
+        "wart",
+        "bist"
+      ],
+      "why": "du warst."
+    },
+    {
+      "id": "prat-10",
+      "q": "Wir ___ früh nach Hause gehen. (müssen)",
+      "correct": "mussten",
+      "wrong": [
+        "müssten",
+        "musste",
+        "mussen"
+      ],
+      "why": "wir mussten."
+    }
+  ]
+}

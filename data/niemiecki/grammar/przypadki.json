@@ -1,0 +1,150 @@
+{
+  "id": "przypadki",
+  "title": "Odmiana przez przypadki",
+  "level": "A2",
+  "summary": "Nominativ, Akkusativ, Dativ i Genitiv – pytania, rodzajniki i kiedy którego używać.",
+  "sections": [
+    {
+      "title": "Cztery przypadki",
+      "text": "- **Nominativ** (mianownik) – **wer? was?** – podmiot: ***Der** Fahrer kommt.*\n- **Akkusativ** (biernik) – **wen? was?** – dopełnienie bliższe: *Ich sehe **den** Fahrer.*\n- **Dativ** (celownik) – **wem?** – komu: *Ich helfe **dem** Fahrer.*\n- **Genitiv** (dopełniacz) – **wessen?** – czyj: *Das ist das Auto **des** Fahrers.*",
+      "examples": [
+        {
+          "text": "Ich gebe dem Kunden die Rechnung.",
+          "translation": "Daję klientowi fakturę (wem? – dem Kunden, was? – die Rechnung)."
+        }
+      ]
+    },
+    {
+      "title": "Rodzajnik określony",
+      "text": "- Nominativ: **der – die – das – die**\n- Akkusativ: **den** – die – das – die\n- Dativ: **dem – der – dem – den** (+ **-n** na końcu rzeczownika w l. mn.: den Kinder**n**)\n- Genitiv: **des – der – des – der** (+ **-s/-es** w r. męskim i nijakim: des Mann**es**)\n\nZmienia się głównie **rodzaj męski**, a w Dativie wszystkie.",
+      "examples": [
+        {
+          "text": "Ich danke den Kollegen.",
+          "translation": "Dziękuję kolegom."
+        }
+      ]
+    },
+    {
+      "title": "Rodzajnik nieokreślony",
+      "text": "- Nominativ: **ein – eine – ein**\n- Akkusativ: **einen** – eine – ein\n- Dativ: **einem – einer – einem**\n- Genitiv: **eines – einer – eines**\n\nTak samo odmieniają się **kein** i zaimki dzierżawcze (mein, dein…).",
+      "examples": [
+        {
+          "text": "Ich schreibe einer Freundin eine E-Mail.",
+          "translation": "Piszę e-mail do przyjaciółki."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "kas-01",
+      "q": "Ich sehe ___ Mann. (der Mann)",
+      "correct": "den",
+      "wrong": [
+        "der",
+        "dem",
+        "des"
+      ],
+      "why": "Akkusativ rodzaju męskiego → den."
+    },
+    {
+      "id": "kas-02",
+      "q": "Ich helfe ___ Frau. (die Frau)",
+      "correct": "der",
+      "wrong": [
+        "die",
+        "den",
+        "dem"
+      ],
+      "why": "helfen + Dativ; die → der."
+    },
+    {
+      "id": "kas-03",
+      "q": "Er gibt ___ Kind ein Buch. (das Kind)",
+      "correct": "dem",
+      "wrong": [
+        "das",
+        "den",
+        "des"
+      ],
+      "why": "Dativ rodzaju nijakiego → dem."
+    },
+    {
+      "id": "kas-04",
+      "q": "Na jakie pytanie odpowiada Dativ?",
+      "correct": "wem?",
+      "wrong": [
+        "wen?",
+        "wessen?",
+        "wer?"
+      ],
+      "why": "Dativ – komu? czemu?"
+    },
+    {
+      "id": "kas-05",
+      "q": "Na jakie pytanie odpowiada Akkusativ?",
+      "correct": "wen? was?",
+      "wrong": [
+        "wem?",
+        "wessen?",
+        "wo?"
+      ],
+      "why": "Akkusativ – kogo? co?"
+    },
+    {
+      "id": "kas-06",
+      "q": "Das ist das Auto ___ Lehrers.",
+      "correct": "des",
+      "wrong": [
+        "der",
+        "dem",
+        "den"
+      ],
+      "why": "Genitiv rodzaju męskiego → des (+ -s)."
+    },
+    {
+      "id": "kas-07",
+      "q": "Ich habe ___ Hund. (ein Hund)",
+      "correct": "einen",
+      "wrong": [
+        "ein",
+        "einem",
+        "eines"
+      ],
+      "why": "Akkusativ rodzaju męskiego → einen."
+    },
+    {
+      "id": "kas-08",
+      "q": "Wir danken ___ Kindern.",
+      "correct": "den",
+      "wrong": [
+        "die",
+        "der",
+        "dem"
+      ],
+      "why": "Dativ liczby mnogiej → den + -n."
+    },
+    {
+      "id": "kas-09",
+      "q": "Który rodzaj zmienia się w Akkusativie?",
+      "correct": "tylko męski",
+      "wrong": [
+        "tylko żeński",
+        "tylko nijaki",
+        "wszystkie"
+      ],
+      "why": "der → den, ein → einen."
+    },
+    {
+      "id": "kas-10",
+      "q": "___ Chef ist heute nicht da. (der Chef)",
+      "correct": "Der",
+      "wrong": [
+        "Den",
+        "Dem",
+        "Des"
+      ],
+      "why": "Podmiot → Nominativ."
+    }
+  ]
+}

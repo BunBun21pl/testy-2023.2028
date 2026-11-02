@@ -1,0 +1,158 @@
+{
+  "id": "perfekt",
+  "title": "Czas przeszły Perfekt",
+  "level": "A1–A2",
+  "summary": "Najczęściej używany czas przeszły w mowie: haben/sein + Partizip II.",
+  "sections": [
+    {
+      "title": "Budowa",
+      "text": "**haben** albo **sein** (odmienione, 2. miejsce) + **Partizip II** (na końcu zdania).\n*Ich **habe** gestern Fußball **gespielt**.*",
+      "examples": [
+        {
+          "text": "Wir haben Pizza gegessen.",
+          "translation": "Zjedliśmy pizzę."
+        }
+      ]
+    },
+    {
+      "title": "Partizip II",
+      "text": "- regularne: **ge- + temat + -t**: machen → **gemacht**, arbeiten → **gearbeitet**\n- nieregularne: **ge- + (zmieniony) temat + -en**: fahren → **gefahren**, sehen → **gesehen**, schreiben → **geschrieben**, trinken → **getrunken**\n- na **-ieren** – bez ge-: studieren → **studiert**, telefonieren → **telefoniert**\n- nierozdzielne (be-, ver-…) – bez ge-: **verstanden**, **besucht**\n- rozdzielne – ge w środku: **eingekauft**, **aufgestanden**",
+      "examples": [
+        {
+          "text": "Er hat lange telefoniert.",
+          "translation": "Długo rozmawiał przez telefon."
+        }
+      ]
+    },
+    {
+      "title": "haben czy sein?",
+      "text": "Większość czasowników tworzy Perfekt z **haben**.\n\nZ **sein** łączą się:\n- czasowniki **ruchu** z miejsca na miejsce: gehen, fahren, kommen, fliegen, laufen\n- **zmiany stanu**: aufstehen, einschlafen, aufwachen, sterben, werden\n- oraz **sein**, **bleiben**, **passieren**",
+      "examples": [
+        {
+          "text": "Ich bin nach Berlin gefahren.",
+          "translation": "Pojechałem do Berlina."
+        },
+        {
+          "text": "Was ist passiert?",
+          "translation": "Co się stało?"
+        },
+        {
+          "text": "Wir sind zu Hause geblieben.",
+          "translation": "Zostaliśmy w domu."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "perf-01",
+      "q": "Ich ___ gestern ein Buch gelesen.",
+      "correct": "habe",
+      "wrong": [
+        "bin",
+        "hat",
+        "war"
+      ],
+      "why": "lesen nie jest czasownikiem ruchu → haben."
+    },
+    {
+      "id": "perf-02",
+      "q": "Wir ___ mit dem Zug gefahren.",
+      "correct": "sind",
+      "wrong": [
+        "haben",
+        "hat",
+        "seid"
+      ],
+      "why": "Ruch z miejsca na miejsce → sein."
+    },
+    {
+      "id": "perf-03",
+      "q": "Partizip II od „machen”:",
+      "correct": "gemacht",
+      "wrong": [
+        "gemachen",
+        "machte",
+        "gemachtet"
+      ],
+      "why": "Regularny: ge- + mach + -t."
+    },
+    {
+      "id": "perf-04",
+      "q": "Partizip II od „schreiben”:",
+      "correct": "geschrieben",
+      "wrong": [
+        "geschreibt",
+        "schrieb",
+        "geschreiben"
+      ],
+      "why": "Nieregularny: ge- + schrieb + -en."
+    },
+    {
+      "id": "perf-05",
+      "q": "Partizip II od „studieren”:",
+      "correct": "studiert",
+      "wrong": [
+        "gestudiert",
+        "studieret",
+        "gestudieren"
+      ],
+      "why": "Czasowniki na -ieren bez ge-."
+    },
+    {
+      "id": "perf-06",
+      "q": "Er ___ um 6 Uhr aufgestanden.",
+      "correct": "ist",
+      "wrong": [
+        "hat",
+        "habe",
+        "war"
+      ],
+      "why": "aufstehen – zmiana stanu → sein."
+    },
+    {
+      "id": "perf-07",
+      "q": "Was ___ passiert?",
+      "correct": "ist",
+      "wrong": [
+        "hat",
+        "haben",
+        "wird"
+      ],
+      "why": "passieren łączy się z sein."
+    },
+    {
+      "id": "perf-08",
+      "q": "Gdzie stoi Partizip II w zdaniu?",
+      "correct": "na końcu",
+      "wrong": [
+        "na 2. miejscu",
+        "na początku",
+        "zaraz po podmiocie"
+      ],
+      "why": "Ich habe gestern Fußball gespielt."
+    },
+    {
+      "id": "perf-09",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Sie hat ihre Oma besucht.",
+      "wrong": [
+        "Sie hat ihre Oma gebesucht.",
+        "Sie ist ihre Oma besucht.",
+        "Sie hat besucht ihre Oma."
+      ],
+      "why": "besuchen jest nierozdzielne – bez ge-; Partizip na końcu."
+    },
+    {
+      "id": "perf-10",
+      "q": "Ihr ___ zu Hause geblieben.",
+      "correct": "seid",
+      "wrong": [
+        "habt",
+        "sind",
+        "hat"
+      ],
+      "why": "bleiben łączy się z sein; ihr seid."
+    }
+  ]
+}

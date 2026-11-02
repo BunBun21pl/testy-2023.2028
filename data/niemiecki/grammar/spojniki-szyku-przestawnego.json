@@ -1,0 +1,144 @@
+{
+  "id": "spojniki-szyku-przestawnego",
+  "title": "Spójniki szyku przestawnego",
+  "level": "A2",
+  "summary": "deshalb, trotzdem, dann, außerdem… – po nich od razu czasownik.",
+  "sections": [
+    {
+      "title": "Zasada",
+      "text": "Te słowa zajmują **1. miejsce** w zdaniu, więc czasownik musi stać **zaraz po nich**, a podmiot **za czasownikiem** (inwersja):\n- **deshalb / deswegen / darum** – dlatego\n- **trotzdem** – mimo to\n- **dann** – potem, wtedy\n- **danach** – potem, następnie\n- **außerdem** – poza tym\n- **sonst** – w przeciwnym razie\n- **also** – więc",
+      "examples": [
+        {
+          "text": "Ich bin krank, deshalb bleibe ich zu Hause.",
+          "translation": "Jestem chory, dlatego zostaję w domu."
+        },
+        {
+          "text": "Es regnet, trotzdem fahren wir los.",
+          "translation": "Pada, mimo to wyjeżdżamy."
+        }
+      ]
+    },
+    {
+      "title": "Porównanie",
+      "text": "- *…, **denn** ich **habe** keine Zeit.* – szyk prosty\n- *…, **deshalb** **habe** ich keine Zeit.* – szyk przestawny\n- *…, **weil** ich keine Zeit **habe**.* – szyk końcowy",
+      "examples": [
+        {
+          "text": "Beeil dich, sonst verpassen wir den Zug.",
+          "translation": "Pospiesz się, bo inaczej spóźnimy się na pociąg."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sp1-01",
+      "q": "Ich habe Hunger, deshalb ___ ich ein Brot.",
+      "correct": "esse",
+      "wrong": [
+        "ich esse",
+        "esse ich nicht",
+        "essen"
+      ],
+      "why": "Po deshalb od razu czasownik: deshalb esse ich."
+    },
+    {
+      "id": "sp1-02",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Es ist kalt, trotzdem gehen wir schwimmen.",
+      "wrong": [
+        "Es ist kalt, trotzdem wir gehen schwimmen.",
+        "Es ist kalt, trotzdem wir schwimmen gehen.",
+        "Es ist kalt, trotzdem schwimmen wir gehen."
+      ],
+      "why": "Po trotzdem: czasownik, potem podmiot."
+    },
+    {
+      "id": "sp1-03",
+      "q": "Co znaczy „trotzdem”?",
+      "correct": "mimo to",
+      "wrong": [
+        "dlatego",
+        "potem",
+        "poza tym"
+      ],
+      "why": "trotzdem = mimo to."
+    },
+    {
+      "id": "sp1-04",
+      "q": "Co znaczy „deshalb”?",
+      "correct": "dlatego",
+      "wrong": [
+        "mimo to",
+        "w przeciwnym razie",
+        "ponieważ"
+      ],
+      "why": "deshalb = deswegen = darum = dlatego."
+    },
+    {
+      "id": "sp1-05",
+      "q": "Zuerst frühstücke ich, ___ gehe ich zur Schule.",
+      "correct": "dann",
+      "wrong": [
+        "denn",
+        "weil",
+        "aber"
+      ],
+      "why": "Kolejność czynności → dann + inwersja."
+    },
+    {
+      "id": "sp1-06",
+      "q": "Lern mehr, ___ bestehst du die Prüfung nicht.",
+      "correct": "sonst",
+      "wrong": [
+        "deshalb",
+        "dann",
+        "denn"
+      ],
+      "why": "W przeciwnym razie → sonst."
+    },
+    {
+      "id": "sp1-07",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Der LKW ist kaputt, deswegen kommt die Ware später.",
+      "wrong": [
+        "Der LKW ist kaputt, deswegen die Ware kommt später.",
+        "Der LKW ist kaputt, deswegen die Ware später kommt.",
+        "Der LKW ist kaputt, deswegen später die Ware kommt."
+      ],
+      "why": "deswegen + czasownik + podmiot."
+    },
+    {
+      "id": "sp1-08",
+      "q": "Dlaczego po deshalb czasownik stoi zaraz potem?",
+      "correct": "bo deshalb zajmuje 1. miejsce, a czasownik musi być na 2.",
+      "wrong": [
+        "bo deshalb wysyła czasownik na koniec",
+        "bo deshalb jest na pozycji zero",
+        "bo to pytanie"
+      ],
+      "why": "Zasada drugiego miejsca."
+    },
+    {
+      "id": "sp1-09",
+      "q": "Ich spreche Englisch, ___ lerne ich Deutsch.",
+      "correct": "außerdem",
+      "wrong": [
+        "denn",
+        "sondern",
+        "weil"
+      ],
+      "why": "Poza tym → außerdem + inwersja."
+    },
+    {
+      "id": "sp1-10",
+      "q": "Który spójnik ma szyk przestawny?",
+      "correct": "darum",
+      "wrong": [
+        "denn",
+        "weil",
+        "und"
+      ],
+      "why": "darum = dlatego, po nim czasownik."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "czasowniki-modalne",
+  "title": "Czasowniki modalne",
+  "level": "A1–A2",
+  "summary": "können, müssen, dürfen, sollen, wollen, möchten – znaczenie, odmiana i szyk.",
+  "sections": [
+    {
+      "title": "Znaczenie",
+      "text": "- **können** – móc, umieć: *Ich kann schwimmen.*\n- **müssen** – musieć: *Ich muss arbeiten.*\n- **dürfen** – wolno, móc (pozwolenie): *Hier darf man nicht rauchen.*\n- **sollen** – mieć (coś zrobić), powinno się (polecenie kogoś innego): *Du sollst den Chef anrufen.*\n- **wollen** – chcieć (stanowczo): *Ich will Pilot werden.*\n- **möchten** – chciałbym (grzecznie): *Ich möchte einen Kaffee.*",
+      "examples": [
+        {
+          "text": "Kannst du mir helfen?",
+          "translation": "Możesz mi pomóc?"
+        }
+      ]
+    },
+    {
+      "title": "Odmiana",
+      "text": "W liczbie pojedynczej zmienia się samogłoska, a **ich** i **er/sie/es** mają **tę samą formę bez końcówki**:\n- können: ich **kann**, du **kannst**, er **kann**, wir können, ihr könnt, sie können\n- müssen: ich **muss**, du musst, er **muss**\n- dürfen: ich **darf**, du darfst, er **darf**\n- wollen: ich **will**, du willst, er **will**\n- sollen: ich **soll**, du sollst, er **soll**\n- möchten: ich **möchte**, du möchtest, er **möchte**",
+      "examples": [
+        {
+          "text": "Er muss heute länger arbeiten.",
+          "translation": "On musi dziś dłużej pracować."
+        }
+      ]
+    },
+    {
+      "title": "Szyk zdania",
+      "text": "Czasownik modalny stoi na **2. miejscu**, a drugi czasownik w **bezokoliczniku na końcu** zdania:\n*Ich **kann** heute nicht **kommen**.*\n\nUwaga: **nicht müssen** = nie musieć, a **nicht dürfen** = nie wolno.",
+      "examples": [
+        {
+          "text": "Du musst nicht kommen.",
+          "translation": "Nie musisz przychodzić."
+        },
+        {
+          "text": "Du darfst hier nicht parken.",
+          "translation": "Nie wolno ci tu parkować."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "mv-01",
+      "q": "Ich ___ gut Deutsch sprechen. (können)",
+      "correct": "kann",
+      "wrong": [
+        "kanne",
+        "könne",
+        "kannst"
+      ],
+      "why": "ich kann – bez końcówki."
+    },
+    {
+      "id": "mv-02",
+      "q": "Er ___ heute arbeiten. (müssen)",
+      "correct": "muss",
+      "wrong": [
+        "müsst",
+        "musst",
+        "müssen"
+      ],
+      "why": "er muss – bez końcówki."
+    },
+    {
+      "id": "mv-03",
+      "q": "Hier ___ man nicht rauchen.",
+      "correct": "darf",
+      "wrong": [
+        "muss",
+        "will",
+        "möchte"
+      ],
+      "why": "Zakaz: nicht dürfen = nie wolno."
+    },
+    {
+      "id": "mv-04",
+      "q": "Ich ___ einen Tee, bitte.",
+      "correct": "möchte",
+      "wrong": [
+        "will",
+        "muss",
+        "darf"
+      ],
+      "why": "Grzeczne zamówienie → möchte."
+    },
+    {
+      "id": "mv-05",
+      "q": "Gdzie stoi drugi czasownik w zdaniu z modalnym?",
+      "correct": "na końcu zdania w bezokoliczniku",
+      "wrong": [
+        "zaraz po modalnym",
+        "na początku zdania",
+        "przed podmiotem"
+      ],
+      "why": "Ich kann heute nicht kommen."
+    },
+    {
+      "id": "mv-06",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Wir wollen morgen ins Kino gehen.",
+      "wrong": [
+        "Wir wollen gehen morgen ins Kino.",
+        "Wir wollen morgen ins Kino gehst.",
+        "Wir gehen wollen morgen ins Kino."
+      ],
+      "why": "Modalny na 2. miejscu, bezokolicznik na końcu."
+    },
+    {
+      "id": "mv-07",
+      "q": "„Du musst nicht kommen” znaczy:",
+      "correct": "Nie musisz przychodzić.",
+      "wrong": [
+        "Nie wolno ci przychodzić.",
+        "Nie chcesz przyjść.",
+        "Nie możesz przyjść, bo nie umiesz."
+      ],
+      "why": "nicht müssen = nie musieć."
+    },
+    {
+      "id": "mv-08",
+      "q": "___ du mir helfen? (können)",
+      "correct": "Kannst",
+      "wrong": [
+        "Kann",
+        "Könnst",
+        "Kannt"
+      ],
+      "why": "du kannst."
+    },
+    {
+      "id": "mv-09",
+      "q": "Der Chef sagt, ich ___ ihn anrufen.",
+      "correct": "soll",
+      "wrong": [
+        "darf",
+        "will",
+        "möchte"
+      ],
+      "why": "Polecenie innej osoby → sollen."
+    },
+    {
+      "id": "mv-10",
+      "q": "Ihr ___ hier warten. (müssen)",
+      "correct": "müsst",
+      "wrong": [
+        "muss",
+        "musst",
+        "müssen"
+      ],
+      "why": "ihr müsst (w liczbie mnogiej wraca umlaut)."
+    }
+  ]
+}

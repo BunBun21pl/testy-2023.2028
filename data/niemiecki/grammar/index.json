@@ -1,3 +1,25 @@
 {
-  "lessons": ["rodzajniki-der-die-das"]
+  "lessons": [
+    "odmiana-czasownikow",
+    "czasowniki-modalne",
+    "czasowniki-rozdzielne-nierozdzielne",
+    "perfekt",
+    "prateritum",
+    "futur-1",
+    "imperativ",
+    "rodzajniki-kein",
+    "rodzajniki-der-die-das",
+    "przypadki",
+    "zaimki-osobowe",
+    "zaimki-dzierzawcze",
+    "szyk-zdania",
+    "spojniki-szyku-prostego",
+    "spojniki-szyku-przestawnego",
+    "spojniki-szyku-koncowego",
+    "stopniowanie-przymiotnikow",
+    "przyimki-z-akkusativem",
+    "przyimki-zmienne",
+    "passiv-prasens",
+    "passiv-prateritum"
+  ]
 }

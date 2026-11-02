@@ -1,0 +1,152 @@
+{
+  "id": "przyimki-zmienne",
+  "title": "Przyimki zmienne (Wechselpräpositionen)",
+  "level": "A2",
+  "summary": "an, auf, hinter, in, neben, über, unter, vor, zwischen – raz z Dativem, raz z Akkusativem.",
+  "sections": [
+    {
+      "title": "Wo? czy Wohin?",
+      "text": "Dziewięć przyimków łączy się z dwoma przypadkami:\n**an, auf, hinter, in, neben, über, unter, vor, zwischen**.\n- **Wo?** (gdzie?) – miejsce, brak zmiany położenia → **Dativ**: *Das Buch liegt auf **dem** Tisch.*\n- **Wohin?** (dokąd?) – ruch, zmiana miejsca → **Akkusativ**: *Ich lege das Buch auf **den** Tisch.*",
+      "examples": [
+        {
+          "text": "Ich bin in der Schule. (wo?)",
+          "translation": "Jestem w szkole."
+        },
+        {
+          "text": "Ich gehe in die Schule. (wohin?)",
+          "translation": "Idę do szkoły."
+        }
+      ]
+    },
+    {
+      "title": "Pary czasowników",
+      "text": "- **legen** (kłaść) → Akk / **liegen** (leżeć) → Dat\n- **stellen** (stawiać) → Akk / **stehen** (stać) → Dat\n- **setzen** (sadzać) → Akk / **sitzen** (siedzieć) → Dat\n- **hängen** – wieszać (Akk) albo wisieć (Dat)\n\nŚciągnięcia: in dem → **im**, in das → **ins**, an dem → **am**, an das → **ans**.",
+      "examples": [
+        {
+          "text": "Der Fahrer stellt die Palette neben das Regal.",
+          "translation": "Kierowca stawia paletę obok regału."
+        },
+        {
+          "text": "Die Palette steht neben dem Regal.",
+          "translation": "Paleta stoi obok regału."
+        },
+        {
+          "text": "Das Bild hängt an der Wand.",
+          "translation": "Obraz wisi na ścianie."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "wech-01",
+      "q": "Das Buch liegt auf ___ Tisch.",
+      "correct": "dem",
+      "wrong": [
+        "den",
+        "der",
+        "das"
+      ],
+      "why": "liegen – gdzie? → Dativ."
+    },
+    {
+      "id": "wech-02",
+      "q": "Ich lege das Buch auf ___ Tisch.",
+      "correct": "den",
+      "wrong": [
+        "dem",
+        "der",
+        "des"
+      ],
+      "why": "legen – dokąd? → Akkusativ."
+    },
+    {
+      "id": "wech-03",
+      "q": "Wir gehen ___ Kino.",
+      "correct": "ins",
+      "wrong": [
+        "im",
+        "in dem",
+        "am"
+      ],
+      "why": "Ruch → in das = ins."
+    },
+    {
+      "id": "wech-04",
+      "q": "Wir sind ___ Kino.",
+      "correct": "im",
+      "wrong": [
+        "ins",
+        "in das",
+        "an"
+      ],
+      "why": "Miejsce → in dem = im."
+    },
+    {
+      "id": "wech-05",
+      "q": "Kiedy po przyimku zmiennym stawiamy Akkusativ?",
+      "correct": "gdy jest ruch i pytamy wohin?",
+      "wrong": [
+        "gdy pytamy wo?",
+        "zawsze po in",
+        "gdy rzeczownik jest żeński"
+      ],
+      "why": "Wohin → Akkusativ, wo → Dativ."
+    },
+    {
+      "id": "wech-06",
+      "q": "Die Katze sitzt unter ___ Bett. (das Bett)",
+      "correct": "dem",
+      "wrong": [
+        "das",
+        "den",
+        "der"
+      ],
+      "why": "sitzen – gdzie? → Dativ, das → dem."
+    },
+    {
+      "id": "wech-07",
+      "q": "Er hängt die Jacke an ___ Wand. (die Wand)",
+      "correct": "die",
+      "wrong": [
+        "der",
+        "den",
+        "dem"
+      ],
+      "why": "Ruch (wieszać) → Akkusativ; die Wand → die."
+    },
+    {
+      "id": "wech-08",
+      "q": "Das Auto steht vor ___ Haus.",
+      "correct": "dem",
+      "wrong": [
+        "das",
+        "den",
+        "der"
+      ],
+      "why": "stehen – gdzie? → Dativ."
+    },
+    {
+      "id": "wech-09",
+      "q": "Stell die Flasche in ___ Kühlschrank! (der Kühlschrank)",
+      "correct": "den",
+      "wrong": [
+        "dem",
+        "der",
+        "das"
+      ],
+      "why": "stellen – dokąd? → Akkusativ."
+    },
+    {
+      "id": "wech-10",
+      "q": "Który przyimek NIE jest przyimkiem zmiennym?",
+      "correct": "mit",
+      "wrong": [
+        "auf",
+        "neben",
+        "zwischen"
+      ],
+      "why": "mit zawsze łączy się z Dativem."
+    }
+  ]
+}

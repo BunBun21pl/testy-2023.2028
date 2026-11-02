@@ -1,0 +1,148 @@
+{
+  "id": "zaimki-dzierzawcze",
+  "title": "Zaimki dzierżawcze",
+  "level": "A1–A2",
+  "summary": "mein, dein, sein, ihr… i ich końcówki.",
+  "sections": [
+    {
+      "title": "Formy podstawowe",
+      "text": "- ich → **mein** (mój), du → **dein** (twój)\n- er → **sein** (jego), sie → **ihr** (jej), es → **sein** (jego)\n- wir → **unser** (nasz), ihr → **euer** (wasz)\n- sie → **ihr** (ich), Sie → **Ihr** (Pana/Pani)",
+      "examples": [
+        {
+          "text": "Das ist mein Bruder.",
+          "translation": "To jest mój brat."
+        },
+        {
+          "text": "Wo ist Ihr Pass?",
+          "translation": "Gdzie jest Pana paszport?"
+        }
+      ]
+    },
+    {
+      "title": "Końcówki",
+      "text": "Zaimki dzierżawcze odmieniają się **jak ein / kein**:\n- Nominativ: mein – mein**e** – mein – mein**e** (l. mn.)\n- Akkusativ: mein**en** – mein**e** – mein – mein**e**\n- Dativ: mein**em** – mein**er** – mein**em** – mein**en**\n\n**euer** traci **e**, gdy dostaje końcówkę: *eu**re** Lehrerin, eu**ren** Chef*.\n\nUwaga: **sein** czy **ihr** zależy od **właściciela**, a końcówka od **rzeczownika**: *Anna und **ihr** Bruder*, *Tom und **seine** Schwester*.",
+      "examples": [
+        {
+          "text": "Ich besuche meine Oma.",
+          "translation": "Odwiedzam moją babcię."
+        },
+        {
+          "text": "Tom fährt mit seinem Vater.",
+          "translation": "Tom jedzie ze swoim tatą."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "poss-01",
+      "q": "Das ist ___ Schwester. (ich)",
+      "correct": "meine",
+      "wrong": [
+        "mein",
+        "meinen",
+        "meiner"
+      ],
+      "why": "die Schwester, Nominativ → meine."
+    },
+    {
+      "id": "poss-02",
+      "q": "Anna und ___ Bruder.",
+      "correct": "ihr",
+      "wrong": [
+        "sein",
+        "ihre",
+        "seinen"
+      ],
+      "why": "Właścicielka to Anna → ihr; der Bruder → bez końcówki."
+    },
+    {
+      "id": "poss-03",
+      "q": "Tom und ___ Mutter.",
+      "correct": "seine",
+      "wrong": [
+        "ihre",
+        "sein",
+        "seiner"
+      ],
+      "why": "Właściciel Tom → sein; die Mutter → seine."
+    },
+    {
+      "id": "poss-04",
+      "q": "Ich sehe ___ Vater. (du)",
+      "correct": "deinen",
+      "wrong": [
+        "dein",
+        "deine",
+        "deinem"
+      ],
+      "why": "Akkusativ rodzaju męskiego → deinen."
+    },
+    {
+      "id": "poss-05",
+      "q": "Wir fahren mit ___ Auto. (wir)",
+      "correct": "unserem",
+      "wrong": [
+        "unser",
+        "unseren",
+        "unsere"
+      ],
+      "why": "mit + Dativ, das Auto → unserem."
+    },
+    {
+      "id": "poss-06",
+      "q": "Ist das ___ Lehrerin? (ihr – wy)",
+      "correct": "eure",
+      "wrong": [
+        "euere",
+        "euer",
+        "euren"
+      ],
+      "why": "euer + -e → eure."
+    },
+    {
+      "id": "poss-07",
+      "q": "Herr Nowak, ist das ___ Koffer?",
+      "correct": "Ihr",
+      "wrong": [
+        "ihr",
+        "Ihre",
+        "sein"
+      ],
+      "why": "Forma grzecznościowa → Ihr (der Koffer)."
+    },
+    {
+      "id": "poss-08",
+      "q": "Die Kinder spielen mit ___ Hund. (sie – oni)",
+      "correct": "ihrem",
+      "wrong": [
+        "ihren",
+        "sein",
+        "ihr"
+      ],
+      "why": "mit + Dativ, der Hund → ihrem."
+    },
+    {
+      "id": "poss-09",
+      "q": "Jak odmieniają się zaimki dzierżawcze?",
+      "correct": "jak rodzajnik nieokreślony ein",
+      "wrong": [
+        "jak rodzajnik określony der",
+        "nie odmieniają się",
+        "jak przymiotniki po der"
+      ],
+      "why": "mein/meine/meinen – tak jak ein/eine/einen."
+    },
+    {
+      "id": "poss-10",
+      "q": "Ich danke ___ Eltern. (ich)",
+      "correct": "meinen",
+      "wrong": [
+        "meine",
+        "meiner",
+        "mein"
+      ],
+      "why": "Dativ liczby mnogiej → meinen."
+    }
+  ]
+}

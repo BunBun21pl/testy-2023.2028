@@ -1,0 +1,148 @@
+{
+  "id": "spojniki-szyku-koncowego",
+  "title": "Spójniki szyku końcowego",
+  "level": "A2–B1",
+  "summary": "dass, weil, wenn, ob, obwohl, als… – czasownik ucieka na sam koniec.",
+  "sections": [
+    {
+      "title": "Zasada",
+      "text": "Po tych spójnikach zaczyna się **zdanie podrzędne**, w którym **odmieniony czasownik stoi na samym końcu**:\n- **dass** – że\n- **weil** – ponieważ\n- **wenn** – jeśli, kiedy (wielokrotnie / w przyszłości)\n- **als** – kiedy (jednorazowo w przeszłości)\n- **ob** – czy\n- **obwohl** – chociaż\n- **damit** – żeby\n- **bevor** – zanim, **nachdem** – po tym jak, **während** – podczas gdy",
+      "examples": [
+        {
+          "text": "Ich weiß, dass du recht hast.",
+          "translation": "Wiem, że masz rację."
+        },
+        {
+          "text": "Er kommt nicht, weil er krank ist.",
+          "translation": "Nie przyjdzie, bo jest chory."
+        }
+      ]
+    },
+    {
+      "title": "Szczegóły",
+      "text": "- czasownik rozdzielny łączy się z powrotem: *…, weil ich früh **aufstehe**.*\n- z modalnym: modalny na końcu: *…, dass er nicht kommen **kann**.*\n- w Perfekcie: posiłkowy na końcu: *…, weil ich lange gearbeitet **habe**.*\n- gdy zdanie podrzędne stoi **na początku**, zdanie główne zaczyna się **od czasownika**: ***Wenn** ich Zeit habe, **komme** ich.*",
+      "examples": [
+        {
+          "text": "Als ich klein war, wohnte ich in Polen.",
+          "translation": "Kiedy byłem mały, mieszkałem w Polsce."
+        },
+        {
+          "text": "Weißt du, ob der Zug pünktlich ist?",
+          "translation": "Wiesz, czy pociąg jest punktualny?"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sp2-01",
+      "q": "Ich bleibe zu Hause, weil ich krank ___.",
+      "correct": "bin",
+      "wrong": [
+        "ich bin",
+        "bin ich",
+        "sein"
+      ],
+      "why": "Po weil czasownik na końcu."
+    },
+    {
+      "id": "sp2-02",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Ich glaube, dass er heute kommt.",
+      "wrong": [
+        "Ich glaube, dass er kommt heute.",
+        "Ich glaube, dass kommt er heute.",
+        "Ich glaube, dass heute kommt er."
+      ],
+      "why": "Po dass czasownik na końcu."
+    },
+    {
+      "id": "sp2-03",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Ich weiß nicht, ob sie morgen Zeit hat.",
+      "wrong": [
+        "Ich weiß nicht, ob sie hat morgen Zeit.",
+        "Ich weiß nicht, ob hat sie morgen Zeit.",
+        "Ich weiß nicht, ob sie morgen hat Zeit."
+      ],
+      "why": "ob → czasownik na końcu."
+    },
+    {
+      "id": "sp2-04",
+      "q": "___ ich ein Kind war, spielte ich oft Fußball.",
+      "correct": "Als",
+      "wrong": [
+        "Wenn",
+        "Ob",
+        "Dass"
+      ],
+      "why": "Jednorazowy okres w przeszłości → als."
+    },
+    {
+      "id": "sp2-05",
+      "q": "___ ich Zeit habe, gehe ich ins Kino.",
+      "correct": "Wenn",
+      "wrong": [
+        "Als",
+        "Ob",
+        "Denn"
+      ],
+      "why": "Warunek / powtarzalnie → wenn."
+    },
+    {
+      "id": "sp2-06",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Ich komme später, weil ich früh aufstehen muss.",
+      "wrong": [
+        "Ich komme später, weil ich muss früh aufstehen.",
+        "Ich komme später, weil ich früh muss aufstehen.",
+        "Ich komme später, weil muss ich früh aufstehen."
+      ],
+      "why": "Modalny na samym końcu."
+    },
+    {
+      "id": "sp2-07",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Wenn es regnet, bleiben wir zu Hause.",
+      "wrong": [
+        "Wenn es regnet, wir bleiben zu Hause.",
+        "Wenn regnet es, bleiben wir zu Hause.",
+        "Wenn es regnet, wir zu Hause bleiben."
+      ],
+      "why": "Po zdaniu podrzędnym zdanie główne zaczyna się od czasownika."
+    },
+    {
+      "id": "sp2-08",
+      "q": "___ es kalt ist, gehen wir spazieren.",
+      "correct": "Obwohl",
+      "wrong": [
+        "Weil",
+        "Denn",
+        "Deshalb"
+      ],
+      "why": "Mimo zimna → obwohl (chociaż)."
+    },
+    {
+      "id": "sp2-09",
+      "q": "Er sagt, dass er den Bericht schon geschrieben ___.",
+      "correct": "hat",
+      "wrong": [
+        "haben",
+        "ist",
+        "hatte geschrieben"
+      ],
+      "why": "Perfekt w zdaniu podrzędnym: posiłkowy na końcu."
+    },
+    {
+      "id": "sp2-10",
+      "q": "Który spójnik wymaga szyku końcowego?",
+      "correct": "weil",
+      "wrong": [
+        "denn",
+        "deshalb",
+        "aber"
+      ],
+      "why": "weil – czasownik na końcu."
+    }
+  ]
+}

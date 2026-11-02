@@ -1,0 +1,162 @@
+{
+  "id": "odmiana-czasownikow",
+  "title": "Odmiana czasowników w czasie teraźniejszym (Präsens)",
+  "level": "A1",
+  "summary": "Końcówki osobowe, czasowniki ze zmianą samogłoski oraz sein, haben i werden.",
+  "sections": [
+    {
+      "title": "Końcówki regularne",
+      "text": "Od bezokolicznika odcinamy **-en** (machen → mach-) i dodajemy końcówki:\n- ich mach**e**, du mach**st**, er/sie/es mach**t**\n- wir mach**en**, ihr mach**t**, sie/Sie mach**en**\n\nGdy temat kończy się na **-t** albo **-d**, dodajemy **e**: du arbeit**est**, er arbeit**et**.\nGdy kończy się na **-s, -ß, -z**, w 2. osobie jest tylko **-t**: du heiß**t**, du tanz**t**.",
+      "examples": [
+        {
+          "text": "Ich wohne in Wrocław.",
+          "translation": "Mieszkam we Wrocławiu."
+        },
+        {
+          "text": "Er arbeitet im Lager.",
+          "translation": "On pracuje w magazynie."
+        }
+      ]
+    },
+    {
+      "title": "Zmiana samogłoski (du i er/sie/es)",
+      "text": "Część czasowników nieregularnych zmienia samogłoskę tylko w **2. i 3. osobie liczby pojedynczej**:\n- **a → ä**: fahren → du f**ä**hrst, er f**ä**hrt; schlafen → er schl**ä**ft\n- **e → i**: sprechen → du spr**i**chst; geben → er g**i**bt; helfen → er h**i**lft\n- **e → ie**: sehen → du s**ie**hst; lesen → er l**ie**st",
+      "examples": [
+        {
+          "text": "Der Fahrer fährt nach Berlin.",
+          "translation": "Kierowca jedzie do Berlina."
+        },
+        {
+          "text": "Sprichst du Deutsch?",
+          "translation": "Mówisz po niemiecku?"
+        }
+      ]
+    },
+    {
+      "title": "sein, haben, werden",
+      "text": "- **sein**: ich bin, du bist, er ist, wir sind, ihr seid, sie/Sie sind\n- **haben**: ich habe, du hast, er hat, wir haben, ihr habt, sie/Sie haben\n- **werden**: ich werde, du wirst, er wird, wir werden, ihr werdet, sie/Sie werden",
+      "examples": [
+        {
+          "text": "Wir sind Schüler.",
+          "translation": "Jesteśmy uczniami."
+        },
+        {
+          "text": "Hast du Zeit?",
+          "translation": "Masz czas?"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "odm-01",
+      "q": "Wir ___ Deutsch. (lernen)",
+      "correct": "lernen",
+      "wrong": [
+        "lernt",
+        "lerne",
+        "lernst"
+      ],
+      "why": "wir → końcówka -en."
+    },
+    {
+      "id": "odm-02",
+      "q": "Du ___ sehr gut. (tanzen)",
+      "correct": "tanzt",
+      "wrong": [
+        "tanzst",
+        "tanzest",
+        "tanzen"
+      ],
+      "why": "Temat na -z → du tylko -t."
+    },
+    {
+      "id": "odm-03",
+      "q": "Er ___ im Büro. (arbeiten)",
+      "correct": "arbeitet",
+      "wrong": [
+        "arbeitt",
+        "arbeits",
+        "arbeiten"
+      ],
+      "why": "Temat na -t → dodajemy e: arbeitet."
+    },
+    {
+      "id": "odm-04",
+      "q": "___ du morgen nach Hamburg? (fahren)",
+      "correct": "Fährst",
+      "wrong": [
+        "Fahrst",
+        "Fahrt",
+        "Fähren"
+      ],
+      "why": "fahren: a → ä w 2. osobie."
+    },
+    {
+      "id": "odm-05",
+      "q": "Sie (ona) ___ ein Buch. (lesen)",
+      "correct": "liest",
+      "wrong": [
+        "lest",
+        "lesst",
+        "lese"
+      ],
+      "why": "lesen: e → ie, er/sie liest."
+    },
+    {
+      "id": "odm-06",
+      "q": "Ihr ___ zu Hause. (sein)",
+      "correct": "seid",
+      "wrong": [
+        "sind",
+        "seit",
+        "bist"
+      ],
+      "why": "ihr seid (pisane przez d)."
+    },
+    {
+      "id": "odm-07",
+      "q": "Er ___ einen Bruder. (haben)",
+      "correct": "hat",
+      "wrong": [
+        "habt",
+        "hast",
+        "habe"
+      ],
+      "why": "er hat."
+    },
+    {
+      "id": "odm-08",
+      "q": "Ich ___ Polnisch und Englisch. (sprechen)",
+      "correct": "spreche",
+      "wrong": [
+        "spriche",
+        "sprichst",
+        "sprecht"
+      ],
+      "why": "Zmiana e → i tylko w du i er/sie/es; ich spreche."
+    },
+    {
+      "id": "odm-09",
+      "q": "Du ___ Fahrer. (werden)",
+      "correct": "wirst",
+      "wrong": [
+        "werdest",
+        "wird",
+        "werdst"
+      ],
+      "why": "werden: du wirst."
+    },
+    {
+      "id": "odm-10",
+      "q": "Was ___ du? (sehen)",
+      "correct": "siehst",
+      "wrong": [
+        "sehst",
+        "siehest",
+        "sehen"
+      ],
+      "why": "sehen: e → ie, du siehst."
+    }
+  ]
+}

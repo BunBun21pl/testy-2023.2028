@@ -1,0 +1,148 @@
+{
+  "id": "przyimki-z-akkusativem",
+  "title": "Przyimki z Akkusativem",
+  "level": "A2",
+  "summary": "durch, für, gegen, ohne, um, bis, entlang – zawsze z biernikiem.",
+  "sections": [
+    {
+      "title": "Lista",
+      "text": "Po tych przyimkach rzeczownik i zaimek stoją **zawsze w Akkusativie**:\n- **durch** – przez (na wskroś): *durch den Park*\n- **für** – dla, za: *für meinen Vater*\n- **gegen** – przeciwko, około (godziny): *gegen die Wand, gegen 8 Uhr*\n- **ohne** – bez: *ohne meinen Pass*\n- **um** – wokół, o (godzinie): *um den Tisch, um 9 Uhr*\n- **bis** – do: *bis Montag*\n- **entlang** – wzdłuż, zwykle **po** rzeczowniku: *die Straße entlang*\n\nZapamiętaj: **DOGFU**: durch, ohne, gegen, für, um (+ bis, entlang).",
+      "examples": [
+        {
+          "text": "Das Geschenk ist für dich.",
+          "translation": "Prezent jest dla ciebie."
+        },
+        {
+          "text": "Wir fahren durch die Stadt.",
+          "translation": "Jedziemy przez miasto."
+        }
+      ]
+    },
+    {
+      "title": "Formy",
+      "text": "W Akkusativie zmienia się tylko rodzaj męski: **den / einen / meinen / keinen**.\n\nZaimki: mich, dich, ihn, sie, es, uns, euch, sie, Sie.",
+      "examples": [
+        {
+          "text": "Ich gehe nicht ohne ihn.",
+          "translation": "Nie pójdę bez niego."
+        },
+        {
+          "text": "Der Zug kommt gegen 10 Uhr an.",
+          "translation": "Pociąg przyjeżdża około 10."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "pakk-01",
+      "q": "Das ist für ___ Bruder. (mein)",
+      "correct": "meinen",
+      "wrong": [
+        "meinem",
+        "mein",
+        "meiner"
+      ],
+      "why": "für + Akkusativ, der Bruder → meinen."
+    },
+    {
+      "id": "pakk-02",
+      "q": "Wir gehen durch ___ Wald. (der Wald)",
+      "correct": "den",
+      "wrong": [
+        "dem",
+        "der",
+        "des"
+      ],
+      "why": "durch + Akkusativ → den."
+    },
+    {
+      "id": "pakk-03",
+      "q": "Wir fahren ohne ___ Chef. (der Chef)",
+      "correct": "den",
+      "wrong": [
+        "dem",
+        "der",
+        "des"
+      ],
+      "why": "ohne + Akkusativ, der Chef → den."
+    },
+    {
+      "id": "pakk-04",
+      "q": "Der Film beginnt ___ 20 Uhr.",
+      "correct": "um",
+      "wrong": [
+        "für",
+        "durch",
+        "ohne"
+      ],
+      "why": "o godzinie → um."
+    },
+    {
+      "id": "pakk-05",
+      "q": "Ich habe nichts gegen ___. (du)",
+      "correct": "dich",
+      "wrong": [
+        "dir",
+        "du",
+        "dein"
+      ],
+      "why": "gegen + Akkusativ → dich."
+    },
+    {
+      "id": "pakk-06",
+      "q": "Który przyimek NIE łączy się z Akkusativem?",
+      "correct": "mit",
+      "wrong": [
+        "für",
+        "ohne",
+        "durch"
+      ],
+      "why": "mit łączy się z Dativem."
+    },
+    {
+      "id": "pakk-07",
+      "q": "Wir sitzen um ___ Tisch. (der Tisch)",
+      "correct": "den",
+      "wrong": [
+        "dem",
+        "der",
+        "einem"
+      ],
+      "why": "um + Akkusativ → den."
+    },
+    {
+      "id": "pakk-08",
+      "q": "Gehen Sie die Straße ___!",
+      "correct": "entlang",
+      "wrong": [
+        "durch",
+        "um",
+        "gegen"
+      ],
+      "why": "Wzdłuż ulicy → die Straße entlang."
+    },
+    {
+      "id": "pakk-09",
+      "q": "Ich warte bis ___.",
+      "correct": "Montag",
+      "wrong": [
+        "dem Montag",
+        "den Montags",
+        "am Montag bis"
+      ],
+      "why": "bis + dzień tygodnia bez rodzajnika."
+    },
+    {
+      "id": "pakk-10",
+      "q": "Ohne ___ Pass kannst du nicht fliegen. (dein)",
+      "correct": "deinen",
+      "wrong": [
+        "deinem",
+        "dein",
+        "deiner"
+      ],
+      "why": "ohne + Akkusativ, der Pass → deinen."
+    }
+  ]
+}

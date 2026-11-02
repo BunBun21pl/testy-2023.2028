@@ -1,0 +1,154 @@
+{
+  "id": "stopniowanie-przymiotnikow",
+  "title": "Stopniowanie przymiotników",
+  "level": "A2",
+  "summary": "schnell – schneller – am schnellsten, wyjątki i porównania z als i wie.",
+  "sections": [
+    {
+      "title": "Regularne stopniowanie",
+      "text": "- stopień wyższy: **-er**: schnell → schnell**er**\n- stopień najwyższy: **am …-sten**: am schnell**sten**\n\nGdy przymiotnik kończy się na **-d, -t, -s, -ß, -z** (i często -sch), w najwyższym dodajemy **e**: am ält**esten**, am kält**esten**, am kürz**esten**, am heiß**esten**.\n\nWiele krótkich przymiotników dostaje **umlaut**: alt → **ä**lter, groß → gr**ö**ßer, jung → j**ü**nger, kalt → k**ä**lter, lang → l**ä**nger, kurz → k**ü**rzer.",
+      "examples": [
+        {
+          "text": "Der Zug ist schneller als der Bus.",
+          "translation": "Pociąg jest szybszy niż autobus."
+        },
+        {
+          "text": "Das Flugzeug ist am schnellsten.",
+          "translation": "Samolot jest najszybszy."
+        }
+      ]
+    },
+    {
+      "title": "Wyjątki",
+      "text": "- gut – **besser** – **am besten**\n- viel – **mehr** – **am meisten**\n- gern – **lieber** – **am liebsten**\n- hoch – **höher** – **am höchsten**\n- nah – **näher** – **am nächsten**",
+      "examples": [
+        {
+          "text": "Ich trinke lieber Tee als Kaffee.",
+          "translation": "Wolę herbatę niż kawę."
+        }
+      ]
+    },
+    {
+      "title": "Porównania",
+      "text": "- różne: stopień wyższy + **als**: *Berlin ist größer **als** Wrocław.*\n- takie same: **so** + przymiotnik + **wie**: *Tom ist **so** alt **wie** Anna.*",
+      "examples": [
+        {
+          "text": "Der LKW ist nicht so schnell wie das Auto.",
+          "translation": "Ciężarówka nie jest tak szybka jak samochód."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "komp-01",
+      "q": "Stopień wyższy od „gut”:",
+      "correct": "besser",
+      "wrong": [
+        "guter",
+        "güter",
+        "mehr gut"
+      ],
+      "why": "Wyjątek: gut – besser – am besten."
+    },
+    {
+      "id": "komp-02",
+      "q": "Stopień najwyższy od „viel”:",
+      "correct": "am meisten",
+      "wrong": [
+        "am vielsten",
+        "am mehrsten",
+        "am meistesten"
+      ],
+      "why": "viel – mehr – am meisten."
+    },
+    {
+      "id": "komp-03",
+      "q": "Mein Bruder ist ___ als ich. (alt)",
+      "correct": "älter",
+      "wrong": [
+        "alter",
+        "mehr alt",
+        "am ältesten"
+      ],
+      "why": "Krótki przymiotnik z umlautem: alt → älter."
+    },
+    {
+      "id": "komp-04",
+      "q": "Berlin ist größer ___ Hamburg.",
+      "correct": "als",
+      "wrong": [
+        "wie",
+        "dann",
+        "so"
+      ],
+      "why": "Stopień wyższy + als."
+    },
+    {
+      "id": "komp-05",
+      "q": "Anna ist so groß ___ Maria.",
+      "correct": "wie",
+      "wrong": [
+        "als",
+        "wenn",
+        "so"
+      ],
+      "why": "Równość: so … wie."
+    },
+    {
+      "id": "komp-06",
+      "q": "Stopień najwyższy od „kalt”:",
+      "correct": "am kältesten",
+      "wrong": [
+        "am kältsten",
+        "am kaltesten",
+        "am kälter"
+      ],
+      "why": "-t + umlaut: am kältesten."
+    },
+    {
+      "id": "komp-07",
+      "q": "Ich spiele ___ Fußball als Tennis. (gern)",
+      "correct": "lieber",
+      "wrong": [
+        "gerner",
+        "mehr gern",
+        "am liebsten"
+      ],
+      "why": "gern – lieber – am liebsten."
+    },
+    {
+      "id": "komp-08",
+      "q": "Der Mount Everest ist ___ Berg der Welt. (hoch)",
+      "correct": "der höchste",
+      "wrong": [
+        "der hochste",
+        "der höherste",
+        "am hochsten"
+      ],
+      "why": "hoch – höher – am höchsten; przed rzeczownikiem: der höchste."
+    },
+    {
+      "id": "komp-09",
+      "q": "Stopień wyższy od „schnell”:",
+      "correct": "schneller",
+      "wrong": [
+        "schnellerer",
+        "mehr schnell",
+        "schnellest"
+      ],
+      "why": "Regularnie: + -er."
+    },
+    {
+      "id": "komp-10",
+      "q": "Welcher Weg ist ___? (kurz)",
+      "correct": "am kürzesten",
+      "wrong": [
+        "am kurzsten",
+        "am kürzsten",
+        "kürzest"
+      ],
+      "why": "-z + umlaut + -esten."
+    }
+  ]
+}

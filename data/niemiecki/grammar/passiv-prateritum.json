@@ -1,0 +1,144 @@
+{
+  "id": "passiv-prateritum",
+  "title": "Strona bierna w czasie przeszłym (Passiv Präteritum)",
+  "level": "B1",
+  "summary": "wurde + Partizip II: „towar został dostarczony”.",
+  "sections": [
+    {
+      "title": "Budowa",
+      "text": "**werden** w Präteritum + **Partizip II** na końcu:\n- ich **wurde**, du **wurdest**, er/sie/es **wurde**\n- wir **wurden**, ihr **wurdet**, sie/Sie **wurden**\n\n*Die Ware **wurde** gestern **geliefert**.* – Towar został wczoraj dostarczony.",
+      "examples": [
+        {
+          "text": "Das Haus wurde 1990 gebaut.",
+          "translation": "Dom zbudowano w 1990 roku."
+        },
+        {
+          "text": "Die Container wurden im Hafen entladen.",
+          "translation": "Kontenery zostały rozładowane w porcie."
+        }
+      ]
+    },
+    {
+      "title": "Porównanie",
+      "text": "- Präsens: Das Paket **wird** geliefert. – jest dostarczane\n- Präteritum: Das Paket **wurde** geliefert. – zostało dostarczone\n- wykonawca jak w Präsens: **von + Dativ**: *Das Auto wurde **von** einem Dieb gestohlen.*",
+      "examples": [
+        {
+          "text": "Wann wurde das Paket abgeschickt?",
+          "translation": "Kiedy paczka została wysłana?"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "pv2-01",
+      "q": "Das Paket ___ gestern zugestellt.",
+      "correct": "wurde",
+      "wrong": [
+        "wird",
+        "wurden",
+        "war"
+      ],
+      "why": "Przeszłość, l. pojedyncza → wurde."
+    },
+    {
+      "id": "pv2-02",
+      "q": "Die Briefe ___ letzte Woche geschickt.",
+      "correct": "wurden",
+      "wrong": [
+        "wurde",
+        "werden",
+        "wurdet"
+      ],
+      "why": "Liczba mnoga → wurden."
+    },
+    {
+      "id": "pv2-03",
+      "q": "Jak zbudowana jest strona bierna w Präteritum?",
+      "correct": "wurde + Partizip II",
+      "wrong": [
+        "wird + Partizip II",
+        "war + bezokolicznik",
+        "hatte + Partizip II"
+      ],
+      "why": "Np. wurde gebaut."
+    },
+    {
+      "id": "pv2-04",
+      "q": "Das Auto ___ von einem Dieb gestohlen.",
+      "correct": "wurde",
+      "wrong": [
+        "wird gestern",
+        "hatte",
+        "wurden"
+      ],
+      "why": "Zdarzenie przeszłe → wurde."
+    },
+    {
+      "id": "pv2-05",
+      "q": "Zamień na Präteritum: „Die Ware wird geliefert.”",
+      "correct": "Die Ware wurde geliefert.",
+      "wrong": [
+        "Die Ware wird geliefert worden.",
+        "Die Ware war liefert.",
+        "Die Ware hat geliefert."
+      ],
+      "why": "wird → wurde."
+    },
+    {
+      "id": "pv2-06",
+      "q": "Du ___ nicht eingeladen?",
+      "correct": "wurdest",
+      "wrong": [
+        "wurde",
+        "wurdet",
+        "wirst"
+      ],
+      "why": "du wurdest."
+    },
+    {
+      "id": "pv2-07",
+      "q": "Wann ___ die Brücke gebaut?",
+      "correct": "wurde",
+      "wrong": [
+        "wurden",
+        "wird",
+        "war"
+      ],
+      "why": "Pytanie o przeszłość, die Brücke → wurde."
+    },
+    {
+      "id": "pv2-08",
+      "q": "Wir ___ zum Chef gerufen.",
+      "correct": "wurden",
+      "wrong": [
+        "wurde",
+        "werden",
+        "wurdet"
+      ],
+      "why": "wir wurden."
+    },
+    {
+      "id": "pv2-09",
+      "q": "Zamień na stronę bierną: „Der Kurier brachte das Paket.”",
+      "correct": "Das Paket wurde vom Kurier gebracht.",
+      "wrong": [
+        "Das Paket wird vom Kurier gebracht.",
+        "Das Paket wurde den Kurier gebracht.",
+        "Das Paket brachte vom Kurier."
+      ],
+      "why": "Präteritum strony czynnej → wurde + Partizip II."
+    },
+    {
+      "id": "pv2-10",
+      "q": "Die Container ___ im Hafen entladen.",
+      "correct": "wurden",
+      "wrong": [
+        "wurde",
+        "wird",
+        "wurdet"
+      ],
+      "why": "die Container – liczba mnoga → wurden."
+    }
+  ]
+}

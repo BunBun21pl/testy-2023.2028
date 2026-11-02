@@ -1,0 +1,144 @@
+{
+  "id": "szyk-zdania",
+  "title": "Szyk zdania oznajmującego i pytającego",
+  "level": "A1",
+  "summary": "Czasownik na drugim miejscu, inwersja i pytania z W-słowem albo bez.",
+  "sections": [
+    {
+      "title": "Zdanie oznajmujące",
+      "text": "Czasownik odmieniony stoi zawsze na **2. miejscu**.\n\nJeśli zdanie zaczyna się od czegoś innego niż podmiot (np. określenia czasu), podmiot przechodzi **za czasownik** – to **inwersja**:\n- *Ich **fahre** morgen nach Berlin.*\n- *Morgen **fahre** ich nach Berlin.*\n- *Nach Berlin **fahre** ich morgen.*\n\nDrugi czasownik (bezokolicznik, Partizip II, przedrostek) idzie **na koniec**.",
+      "examples": [
+        {
+          "text": "Heute habe ich keine Zeit.",
+          "translation": "Dziś nie mam czasu."
+        }
+      ]
+    },
+    {
+      "title": "Pytania",
+      "text": "- **pytanie z W-słowem** (wer, was, wo, wann, wie, warum, woher, wohin): **W-słowo + czasownik + podmiot**: *Wo **wohnst** du?*\n- **pytanie o tak/nie**: **czasownik na 1. miejscu**: ***Wohnst** du in Wrocław?*",
+      "examples": [
+        {
+          "text": "Wann beginnt der Kurs?",
+          "translation": "Kiedy zaczyna się kurs?"
+        },
+        {
+          "text": "Hast du einen Führerschein?",
+          "translation": "Masz prawo jazdy?"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "szyk-01",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Morgen gehe ich ins Kino.",
+      "wrong": [
+        "Morgen ich gehe ins Kino.",
+        "Morgen ins Kino ich gehe.",
+        "Ich morgen gehe ins Kino."
+      ],
+      "why": "Czasownik na 2. miejscu, podmiot za nim (inwersja)."
+    },
+    {
+      "id": "szyk-02",
+      "q": "Na którym miejscu stoi odmieniony czasownik w zdaniu oznajmującym?",
+      "correct": "na drugim",
+      "wrong": [
+        "na pierwszym",
+        "na końcu",
+        "zawsze zaraz po podmiocie"
+      ],
+      "why": "Zasada drugiego miejsca."
+    },
+    {
+      "id": "szyk-03",
+      "q": "Wybierz poprawne pytanie:",
+      "correct": "Wo arbeitest du?",
+      "wrong": [
+        "Wo du arbeitest?",
+        "Du arbeitest wo?",
+        "Arbeitest wo du?"
+      ],
+      "why": "W-słowo + czasownik + podmiot."
+    },
+    {
+      "id": "szyk-04",
+      "q": "Wybierz poprawne pytanie o tak/nie:",
+      "correct": "Sprichst du Englisch?",
+      "wrong": [
+        "Du sprichst Englisch?",
+        "Englisch sprichst du?",
+        "Sprichst Englisch du?"
+      ],
+      "why": "Czasownik na początku."
+    },
+    {
+      "id": "szyk-05",
+      "q": "Heute ___ wir keine Schule.",
+      "correct": "haben",
+      "wrong": [
+        "wir haben",
+        "hat",
+        "habt"
+      ],
+      "why": "Inwersja: Heute haben wir…"
+    },
+    {
+      "id": "szyk-06",
+      "q": "Ułóż: (ich / am Wochenende / arbeite)",
+      "correct": "Am Wochenende arbeite ich.",
+      "wrong": [
+        "Am Wochenende ich arbeite.",
+        "Arbeite ich am Wochenende.",
+        "Ich am Wochenende arbeite."
+      ],
+      "why": "Określenie czasu na początku → inwersja."
+    },
+    {
+      "id": "szyk-07",
+      "q": "___ kommst du? – Aus Polen.",
+      "correct": "Woher",
+      "wrong": [
+        "Wohin",
+        "Wo",
+        "Wann"
+      ],
+      "why": "Skąd → woher."
+    },
+    {
+      "id": "szyk-08",
+      "q": "___ fährst du? – Nach Berlin.",
+      "correct": "Wohin",
+      "wrong": [
+        "Woher",
+        "Wo",
+        "Wie"
+      ],
+      "why": "Dokąd → wohin."
+    },
+    {
+      "id": "szyk-09",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Gestern habe ich lange gearbeitet.",
+      "wrong": [
+        "Gestern ich habe lange gearbeitet.",
+        "Gestern habe ich gearbeitet lange.",
+        "Gestern habe gearbeitet ich lange."
+      ],
+      "why": "habe na 2. miejscu, Partizip II na końcu."
+    },
+    {
+      "id": "szyk-10",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Um 8 Uhr beginnt der Unterricht.",
+      "wrong": [
+        "Um 8 Uhr der Unterricht beginnt.",
+        "Um 8 Uhr beginnt Unterricht der.",
+        "Der Unterricht um 8 Uhr beginnt."
+      ],
+      "why": "Inwersja po określeniu czasu."
+    }
+  ]
+}

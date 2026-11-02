@@ -1,0 +1,158 @@
+{
+  "id": "czasowniki-rozdzielne-nierozdzielne",
+  "title": "Czasowniki rozdzielnie i nierozdzielnie złożone",
+  "level": "A1–A2",
+  "summary": "Dlaczego „aufstehen” rozpada się na dwie części, a „verstehen” nie.",
+  "sections": [
+    {
+      "title": "Czasowniki rozdzielnie złożone",
+      "text": "Przedrostek **odrywa się** i idzie **na koniec zdania**. Najczęstsze przedrostki: **an-, auf-, aus-, ein-, mit-, ab-, zu-, zurück-, weg-, vor-, fern-**. Przedrostek jest akcentowany.\n- auf|stehen: *Ich **stehe** um 6 Uhr **auf**.*\n- ein|kaufen: *Wir **kaufen** im Supermarkt **ein**.*\n- an|rufen: ***Rufst** du mich morgen **an**?*\n\nZ czasownikiem modalnym czasownik zostaje w całości na końcu: *Ich muss früh **aufstehen**.*",
+      "examples": [
+        {
+          "text": "Der Zug fährt um 8 Uhr ab.",
+          "translation": "Pociąg odjeżdża o 8."
+        },
+        {
+          "text": "Mach bitte das Licht aus!",
+          "translation": "Zgaś proszę światło!"
+        }
+      ]
+    },
+    {
+      "title": "Czasowniki nierozdzielnie złożone",
+      "text": "Przedrostki **be-, ge-, er-, ver-, zer-, ent-, emp-, miss-** **nigdy się nie odrywają** i nie są akcentowane.\n- verstehen: *Ich **verstehe** das nicht.*\n- bekommen: *Er **bekommt** ein Paket.*\n- erklären: *Der Lehrer **erklärt** die Regel.*",
+      "examples": [
+        {
+          "text": "Wir besuchen unsere Oma.",
+          "translation": "Odwiedzamy babcię."
+        }
+      ]
+    },
+    {
+      "title": "Perfekt",
+      "text": "- rozdzielne: **ge** wchodzi **między** przedrostek i czasownik: auf**ge**standen, ein**ge**kauft, an**ge**rufen\n- nierozdzielne: **bez ge-**: verstanden, bekommen, erklärt, besucht",
+      "examples": [
+        {
+          "text": "Ich habe heute eingekauft.",
+          "translation": "Zrobiłem dziś zakupy."
+        },
+        {
+          "text": "Hast du das verstanden?",
+          "translation": "Zrozumiałeś to?"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "trenn-01",
+      "q": "Ich ___ jeden Tag um 7 Uhr ___. (aufstehen)",
+      "correct": "stehe … auf",
+      "wrong": [
+        "aufstehe … –",
+        "stehe auf … –",
+        "auf … stehe"
+      ],
+      "why": "Przedrostek auf idzie na koniec."
+    },
+    {
+      "id": "trenn-02",
+      "q": "Wir ___ am Samstag ___. (einkaufen)",
+      "correct": "kaufen … ein",
+      "wrong": [
+        "einkaufen … –",
+        "ein … kaufen",
+        "kaufen … einkaufen"
+      ],
+      "why": "ein- odrywa się na koniec zdania."
+    },
+    {
+      "id": "trenn-03",
+      "q": "Ich ___ die Frage nicht. (verstehen)",
+      "correct": "verstehe",
+      "wrong": [
+        "stehe … ver",
+        "verstehe … ver",
+        "ver … stehe"
+      ],
+      "why": "ver- jest nierozdzielne."
+    },
+    {
+      "id": "trenn-04",
+      "q": "Który przedrostek jest NIEROZDZIELNY?",
+      "correct": "be-",
+      "wrong": [
+        "an-",
+        "auf-",
+        "mit-"
+      ],
+      "why": "be-, ge-, er-, ver-, zer-, ent-, emp-, miss- nie odrywają się."
+    },
+    {
+      "id": "trenn-05",
+      "q": "Który przedrostek jest ROZDZIELNY?",
+      "correct": "aus-",
+      "wrong": [
+        "ver-",
+        "be-",
+        "ent-"
+      ],
+      "why": "aus- odrywa się: Ich mache das Licht aus."
+    },
+    {
+      "id": "trenn-06",
+      "q": "Perfekt od „anrufen”:",
+      "correct": "angerufen",
+      "wrong": [
+        "geanrufen",
+        "anrufen",
+        "angeruft"
+      ],
+      "why": "ge- między przedrostkiem a czasownikiem."
+    },
+    {
+      "id": "trenn-07",
+      "q": "Perfekt od „bekommen”:",
+      "correct": "bekommen",
+      "wrong": [
+        "gebekommen",
+        "bekommt",
+        "begekommen"
+      ],
+      "why": "Nierozdzielne – bez ge-."
+    },
+    {
+      "id": "trenn-08",
+      "q": "Ich muss morgen früh ___.",
+      "correct": "aufstehen",
+      "wrong": [
+        "stehe auf",
+        "auf stehen",
+        "aufstehe"
+      ],
+      "why": "Z modalnym cały czasownik na końcu w bezokoliczniku."
+    },
+    {
+      "id": "trenn-09",
+      "q": "Der Bus ___ um 10 Uhr ___. (abfahren)",
+      "correct": "fährt … ab",
+      "wrong": [
+        "abfährt … –",
+        "fahrt … ab",
+        "fährt … abfahren"
+      ],
+      "why": "fahren → fährt, ab- na koniec."
+    },
+    {
+      "id": "trenn-10",
+      "q": "Perfekt od „einkaufen”:",
+      "correct": "eingekauft",
+      "wrong": [
+        "geeinkauft",
+        "eingekaufen",
+        "einkaufte"
+      ],
+      "why": "ein + ge + kauft."
+    }
+  ]
+}

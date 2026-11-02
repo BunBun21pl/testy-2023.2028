@@ -1,0 +1,140 @@
+{
+  "id": "futur-1",
+  "title": "Czas przyszły Futur I",
+  "level": "A2",
+  "summary": "werden + bezokolicznik: plany, przewidywania i przypuszczenia.",
+  "sections": [
+    {
+      "title": "Budowa",
+      "text": "**werden** (odmienione, 2. miejsce) + **bezokolicznik** (na końcu zdania).\n- ich **werde**, du **wirst**, er/sie/es **wird**\n- wir **werden**, ihr **werdet**, sie/Sie **werden**\n\n*Ich **werde** morgen nach Berlin **fahren**.*",
+      "examples": [
+        {
+          "text": "Wir werden das Paket morgen schicken.",
+          "translation": "Wyślemy paczkę jutro."
+        }
+      ]
+    },
+    {
+      "title": "Kiedy używamy",
+      "text": "- plany i obietnice: *Ich werde dir helfen.*\n- przewidywania: *Morgen wird es regnen.*\n- **przypuszczenia o teraźniejszości** (zwykle z *wohl*): *Er wird wohl krank sein.* – Pewnie jest chory.\n\nUwaga: o bliskiej przyszłości Niemcy często mówią w **Präsens** z określeniem czasu: *Morgen fahre ich nach Berlin.*",
+      "examples": [
+        {
+          "text": "Es wird bald dunkel.",
+          "translation": "Wkrótce się ściemni."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "fut-01",
+      "q": "Ich ___ morgen ins Kino gehen.",
+      "correct": "werde",
+      "wrong": [
+        "wird",
+        "werden",
+        "wirst"
+      ],
+      "why": "ich werde."
+    },
+    {
+      "id": "fut-02",
+      "q": "Du ___ das schaffen!",
+      "correct": "wirst",
+      "wrong": [
+        "wird",
+        "werdest",
+        "werdet"
+      ],
+      "why": "du wirst."
+    },
+    {
+      "id": "fut-03",
+      "q": "Gdzie stoi bezokolicznik w zdaniu w Futur I?",
+      "correct": "na końcu zdania",
+      "wrong": [
+        "na 2. miejscu",
+        "zaraz po podmiocie",
+        "na początku"
+      ],
+      "why": "Ich werde morgen nach Berlin fahren."
+    },
+    {
+      "id": "fut-04",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "Wir werden nächste Woche umziehen.",
+      "wrong": [
+        "Wir werden umziehen nächste Woche.",
+        "Wir wird nächste Woche umziehen.",
+        "Wir werden nächste Woche umgezogen."
+      ],
+      "why": "werden na 2. miejscu, bezokolicznik na końcu."
+    },
+    {
+      "id": "fut-05",
+      "q": "Er ___ wohl im Büro sein.",
+      "correct": "wird",
+      "wrong": [
+        "werdet",
+        "werde",
+        "wirst"
+      ],
+      "why": "Przypuszczenie: er wird wohl… sein."
+    },
+    {
+      "id": "fut-06",
+      "q": "Co oznacza „Sie wird wohl schlafen”?",
+      "correct": "Ona pewnie śpi.",
+      "wrong": [
+        "Ona będzie spała jutro na pewno.",
+        "Ona spała.",
+        "Ona musi spać."
+      ],
+      "why": "Futur I z wohl wyraża przypuszczenie o teraźniejszości."
+    },
+    {
+      "id": "fut-07",
+      "q": "Ihr ___ die Prüfung bestehen.",
+      "correct": "werdet",
+      "wrong": [
+        "werden",
+        "wird",
+        "wirst"
+      ],
+      "why": "ihr werdet."
+    },
+    {
+      "id": "fut-08",
+      "q": "Jak zbudowany jest Futur I?",
+      "correct": "werden + bezokolicznik",
+      "wrong": [
+        "haben + Partizip II",
+        "sein + bezokolicznik",
+        "werden + Partizip II"
+      ],
+      "why": "werden + Partizip II to strona bierna."
+    },
+    {
+      "id": "fut-09",
+      "q": "Morgen ___ es regnen.",
+      "correct": "wird",
+      "wrong": [
+        "werdet",
+        "werde",
+        "ist"
+      ],
+      "why": "es wird."
+    },
+    {
+      "id": "fut-10",
+      "q": "Które zdanie także mówi o przyszłości, choć jest w Präsens?",
+      "correct": "Morgen fahre ich nach Hamburg.",
+      "wrong": [
+        "Gestern fuhr ich nach Hamburg.",
+        "Ich bin nach Hamburg gefahren.",
+        "Ich fuhr nach Hamburg."
+      ],
+      "why": "Präsens + określenie czasu przyszłego."
+    }
+  ]
+}

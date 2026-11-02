@@ -1,0 +1,144 @@
+{
+  "id": "passiv-prasens",
+  "title": "Strona bierna w czasie teraźniejszym (Passiv Präsens)",
+  "level": "A2–B1",
+  "summary": "werden + Partizip II: „towar jest ładowany”.",
+  "sections": [
+    {
+      "title": "Budowa",
+      "text": "**werden** (odmienione w Präsens, 2. miejsce) + **Partizip II** (na końcu zdania):\n- ich werde, du wirst, er/sie/es **wird**, wir werden, ihr werdet, sie **werden**\n\n*Die Ware **wird** heute **geliefert**.* – Towar jest dziś dostarczany.\n\nStronę bierną stosujemy, gdy ważna jest **czynność**, a nie to, kto ją wykonuje – typowo w opisach procesów i instrukcjach.",
+      "examples": [
+        {
+          "text": "Hier wird Deutsch gesprochen.",
+          "translation": "Tu mówi się po niemiecku."
+        },
+        {
+          "text": "Die Pakete werden im Lager sortiert.",
+          "translation": "Paczki są sortowane w magazynie."
+        }
+      ]
+    },
+    {
+      "title": "Wykonawca i zamiana zdań",
+      "text": "Wykonawcę dodajemy przez **von + Dativ**: *Das Paket wird **vom** Kurier gebracht.*\n\nZamiana ze strony czynnej: dopełnienie w Akkusativie staje się podmiotem:\n- *Der Fahrer **lädt den LKW**.* → ***Der LKW** wird (vom Fahrer) **geladen**.*",
+      "examples": [
+        {
+          "text": "Das Auto wird von meinem Vater repariert.",
+          "translation": "Samochód jest naprawiany przez mojego tatę."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "pv1-01",
+      "q": "Das Paket ___ heute geliefert.",
+      "correct": "wird",
+      "wrong": [
+        "werden",
+        "ist",
+        "hat"
+      ],
+      "why": "Liczba pojedyncza → wird."
+    },
+    {
+      "id": "pv1-02",
+      "q": "Die Waren ___ morgen verladen.",
+      "correct": "werden",
+      "wrong": [
+        "wird",
+        "werdet",
+        "sind"
+      ],
+      "why": "Liczba mnoga → werden."
+    },
+    {
+      "id": "pv1-03",
+      "q": "Jak zbudowana jest strona bierna w Präsens?",
+      "correct": "werden + Partizip II",
+      "wrong": [
+        "haben + Partizip II",
+        "sein + bezokolicznik",
+        "werden + bezokolicznik"
+      ],
+      "why": "werden + bezokolicznik to Futur I."
+    },
+    {
+      "id": "pv1-04",
+      "q": "Hier ___ nicht geraucht.",
+      "correct": "wird",
+      "wrong": [
+        "werden",
+        "ist",
+        "hat"
+      ],
+      "why": "Bezosobowo → wird."
+    },
+    {
+      "id": "pv1-05",
+      "q": "Das Haus wird ___. (bauen)",
+      "correct": "gebaut",
+      "wrong": [
+        "bauen",
+        "baut",
+        "gebauen"
+      ],
+      "why": "Partizip II: gebaut."
+    },
+    {
+      "id": "pv1-06",
+      "q": "Jakim przyimkiem wprowadzamy wykonawcę?",
+      "correct": "von + Dativ",
+      "wrong": [
+        "durch + Dativ",
+        "mit + Akkusativ",
+        "für + Akkusativ"
+      ],
+      "why": "Das Paket wird vom Kurier gebracht."
+    },
+    {
+      "id": "pv1-07",
+      "q": "Zamień na stronę bierną: „Der Mechaniker repariert das Auto.”",
+      "correct": "Das Auto wird vom Mechaniker repariert.",
+      "wrong": [
+        "Das Auto ist vom Mechaniker repariert.",
+        "Das Auto wird den Mechaniker repariert.",
+        "Das Auto repariert vom Mechaniker."
+      ],
+      "why": "Akkusativ staje się podmiotem; werden + Partizip II."
+    },
+    {
+      "id": "pv1-08",
+      "q": "Die Briefe ___ jeden Tag sortiert.",
+      "correct": "werden",
+      "wrong": [
+        "wird",
+        "sind",
+        "worden"
+      ],
+      "why": "die Briefe – liczba mnoga."
+    },
+    {
+      "id": "pv1-09",
+      "q": "Gdzie stoi Partizip II w zdaniu w stronie biernej?",
+      "correct": "na końcu zdania",
+      "wrong": [
+        "na 2. miejscu",
+        "przed werden",
+        "na początku"
+      ],
+      "why": "Die Ware wird heute geliefert."
+    },
+    {
+      "id": "pv1-10",
+      "q": "In Polen ___ viel Kaffee getrunken.",
+      "correct": "wird",
+      "wrong": [
+        "werden",
+        "hat",
+        "ist"
+      ],
+      "why": "Bezosobowo → wird."
+    }
+  ]
+}

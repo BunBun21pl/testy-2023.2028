@@ -1,0 +1,152 @@
+{
+  "id": "imperativ",
+  "title": "Tryb rozkazujący – Imperativ",
+  "level": "A1–A2",
+  "summary": "Jak wydawać polecenia i prosić: do jednej osoby, do kilku osób i grzecznie.",
+  "sections": [
+    {
+      "title": "Trzy formy",
+      "text": "- **du** – forma du bez końcówki -st i bez zaimka: du kommst → **Komm!**, du machst → **Mach!**\n- **ihr** – forma ihr bez zaimka: ihr kommt → **Kommt!**\n- **Sie** (grzecznie) – czasownik + Sie: **Kommen Sie!**\n\nCzęsto dodajemy **bitte**: *Komm bitte!*",
+      "examples": [
+        {
+          "text": "Mach bitte die Tür zu!",
+          "translation": "Zamknij proszę drzwi!"
+        },
+        {
+          "text": "Wartet hier!",
+          "translation": "Czekajcie tutaj!"
+        },
+        {
+          "text": "Nehmen Sie Platz!",
+          "translation": "Proszę usiąść!"
+        }
+      ]
+    },
+    {
+      "title": "Na co uważać",
+      "text": "- zmiana **e → i / ie** zostaje: sprechen → **Sprich!**, lesen → **Lies!**, geben → **Gib!**, helfen → **Hilf!**\n- zmiana **a → ä** **znika**: fahren → **Fahr!** (nie: Fähr!), schlafen → **Schlaf!**\n- temat na -t/-d: **Warte!**, **Arbeite!**\n- czasowniki rozdzielne – przedrostek na koniec: **Steh auf!**, **Ruf mich an!**\n- **sein**: **Sei** ruhig! **Seid** leise! **Seien Sie** vorsichtig!",
+      "examples": [
+        {
+          "text": "Fahr vorsichtig!",
+          "translation": "Jedź ostrożnie!"
+        },
+        {
+          "text": "Sei pünktlich!",
+          "translation": "Bądź punktualny!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "imp-01",
+      "q": "Imperativ (du) od „kommen”:",
+      "correct": "Komm!",
+      "wrong": [
+        "Kommst!",
+        "Kommen!",
+        "Kommt du!"
+      ],
+      "why": "Forma du bez -st i bez zaimka."
+    },
+    {
+      "id": "imp-02",
+      "q": "Imperativ (ihr) od „warten”:",
+      "correct": "Wartet!",
+      "wrong": [
+        "Wartest!",
+        "Wart!",
+        "Warten ihr!"
+      ],
+      "why": "Forma ihr bez zaimka."
+    },
+    {
+      "id": "imp-03",
+      "q": "Imperativ (Sie) od „kommen”:",
+      "correct": "Kommen Sie!",
+      "wrong": [
+        "Kommt Sie!",
+        "Sie kommen!",
+        "Komm Sie!"
+      ],
+      "why": "Grzecznie: czasownik + Sie."
+    },
+    {
+      "id": "imp-04",
+      "q": "Imperativ (du) od „lesen”:",
+      "correct": "Lies!",
+      "wrong": [
+        "Les!",
+        "Lese!",
+        "Liest!"
+      ],
+      "why": "Zmiana e → ie zostaje."
+    },
+    {
+      "id": "imp-05",
+      "q": "Imperativ (du) od „fahren”:",
+      "correct": "Fahr!",
+      "wrong": [
+        "Fähr!",
+        "Fährst!",
+        "Fahrt du!"
+      ],
+      "why": "Zmiana a → ä znika w trybie rozkazującym."
+    },
+    {
+      "id": "imp-06",
+      "q": "Imperativ (du) od „sprechen”:",
+      "correct": "Sprich!",
+      "wrong": [
+        "Sprech!",
+        "Sprichst!",
+        "Spreche!"
+      ],
+      "why": "Zmiana e → i zostaje."
+    },
+    {
+      "id": "imp-07",
+      "q": "Imperativ (du) od „aufstehen”:",
+      "correct": "Steh auf!",
+      "wrong": [
+        "Aufsteh!",
+        "Stehst auf!",
+        "Auf steh!"
+      ],
+      "why": "Przedrostek na koniec."
+    },
+    {
+      "id": "imp-08",
+      "q": "___ ruhig, Kinder! (sein, ihr)",
+      "correct": "Seid",
+      "wrong": [
+        "Sei",
+        "Seien",
+        "Sind"
+      ],
+      "why": "ihr → Seid!"
+    },
+    {
+      "id": "imp-09",
+      "q": "___ vorsichtig, Herr Müller! (sein)",
+      "correct": "Seien Sie",
+      "wrong": [
+        "Sei",
+        "Seid",
+        "Sind Sie"
+      ],
+      "why": "Forma grzecznościowa od sein → Seien Sie!"
+    },
+    {
+      "id": "imp-10",
+      "q": "Imperativ (du) od „geben”:",
+      "correct": "Gib!",
+      "wrong": [
+        "Geb!",
+        "Gibst!",
+        "Gebe!"
+      ],
+      "why": "geben: e → i, Gib mir das!"
+    }
+  ]
+}
