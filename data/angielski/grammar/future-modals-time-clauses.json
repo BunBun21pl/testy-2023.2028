@@ -1,0 +1,152 @@
+{
+  "id": "future-modals-time-clauses",
+  "title": "Future modals i Future time clauses",
+  "level": "B1",
+  "summary": "Pewność i możliwość w przyszłości (will, might, may, could) oraz czasy po when, as soon as, until.",
+  "sections": [
+    {
+      "title": "Future modals – jak bardzo jesteśmy pewni",
+      "text": "- **will / won't** – jestem pewny: *It will be cold tomorrow.*\n- **will probably / definitely** – bardzo prawdopodobne: *She'll probably come.*\n- **might / may / could** – możliwe: *We might go to the seaside.*\n- **might not / may not** – możliwe, że nie: *He might not have time.*\n\nUwaga na szyk: *will probably* / *probably won't*.",
+      "examples": [
+        {
+          "text": "I'll definitely pass the exam.",
+          "translation": "Na pewno zdam egzamin."
+        },
+        {
+          "text": "It may rain later.",
+          "translation": "Później może padać."
+        },
+        {
+          "text": "He probably won't come.",
+          "translation": "On pewnie nie przyjdzie."
+        }
+      ]
+    },
+    {
+      "title": "Future time clauses",
+      "text": "Po spójnikach czasu **when, as soon as, before, after, until, once** oraz po **if** mówiąc o przyszłości używamy **Present Simple**, a nie *will*.\n- *I'll call you **when** I **arrive**.* (nie: when I will arrive)\n- *We won't start **until** everyone **is** here.*\n- *As soon as the truck **comes**, we'll unload it.*",
+      "examples": [
+        {
+          "text": "Before you leave, check the documents.",
+          "translation": "Zanim wyjedziesz, sprawdź dokumenty."
+        },
+        {
+          "text": "I'll wait until you finish.",
+          "translation": "Poczekam, aż skończysz."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "fm-01",
+      "q": "I'll phone you as soon as I ___ home.",
+      "correct": "get",
+      "wrong": [
+        "will get",
+        "got",
+        "am getting"
+      ],
+      "why": "Po as soon as → Present Simple."
+    },
+    {
+      "id": "fm-02",
+      "q": "We won't leave until the rain ___.",
+      "correct": "stops",
+      "wrong": [
+        "will stop",
+        "stopped",
+        "stopping"
+      ],
+      "why": "Po until → Present Simple."
+    },
+    {
+      "id": "fm-03",
+      "q": "When she ___ 18, she'll get a driving licence.",
+      "correct": "is",
+      "wrong": [
+        "will be",
+        "was",
+        "be"
+      ],
+      "why": "Po when (o przyszłości) → Present Simple."
+    },
+    {
+      "id": "fm-04",
+      "q": "I'm not sure, but I ___ go to the party.",
+      "correct": "might",
+      "wrong": [
+        "will definitely",
+        "must",
+        "shall"
+      ],
+      "why": "Brak pewności → might."
+    },
+    {
+      "id": "fm-05",
+      "q": "Wybierz poprawny szyk:",
+      "correct": "He probably won't come.",
+      "wrong": [
+        "He won't probably come.",
+        "He probably will not to come.",
+        "Probably he won't to come."
+      ],
+      "why": "probably stoi przed won't."
+    },
+    {
+      "id": "fm-06",
+      "q": "Wybierz poprawny szyk:",
+      "correct": "She'll probably be late.",
+      "wrong": [
+        "She probably'll be late.",
+        "She'll be probably late.",
+        "Probably she be late."
+      ],
+      "why": "will + probably + czasownik."
+    },
+    {
+      "id": "fm-07",
+      "q": "Które słowo wyraża największą pewność?",
+      "correct": "will definitely",
+      "wrong": [
+        "might",
+        "could",
+        "may"
+      ],
+      "why": "Definitely = na pewno."
+    },
+    {
+      "id": "fm-08",
+      "q": "After I ___ school, I want to work in logistics.",
+      "correct": "finish",
+      "wrong": [
+        "will finish",
+        "finished",
+        "am finish"
+      ],
+      "why": "Po after (o przyszłości) → Present Simple."
+    },
+    {
+      "id": "fm-09",
+      "q": "It's cloudy. It ___ rain later.",
+      "correct": "could",
+      "wrong": [
+        "can't",
+        "must",
+        "won't definitely"
+      ],
+      "why": "Możliwość → could/may/might."
+    },
+    {
+      "id": "fm-10",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "I'll tell him when I see him.",
+      "wrong": [
+        "I'll tell him when I will see him.",
+        "I tell him when I will see him.",
+        "I'll tell him when I'll see him."
+      ],
+      "why": "Po when → Present Simple, will tylko w zdaniu głównym."
+    }
+  ]
+}

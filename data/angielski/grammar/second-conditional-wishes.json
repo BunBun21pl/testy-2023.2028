@@ -1,0 +1,158 @@
+{
+  "id": "second-conditional-wishes",
+  "title": "Second conditional, I wish i If only",
+  "level": "B1–B2",
+  "summary": "Sytuacje nierealne lub mało prawdopodobne oraz życzenia dotyczące teraźniejszości i przyszłości.",
+  "sections": [
+    {
+      "title": "Second conditional",
+      "text": "Budowa: **If + Past Simple, would + bezokolicznik**.\n\nMówimy o sytuacjach **nierealnych** albo **mało prawdopodobnych** teraz lub w przyszłości:\n- *If I had a lot of money, I would buy a truck.* (nie mam pieniędzy)\n- *What would you do if you lost your job?*\n\nZ **be** w części z if często używa się **were** dla wszystkich osób: ***If I were you**, I'd take the job.* (rada)\n\nZamiast would można użyć **could** (umiałbym, mógłbym) albo **might** (może bym).",
+      "examples": [
+        {
+          "text": "If I lived in London, I would speak better English.",
+          "translation": "Gdybym mieszkał w Londynie, mówiłbym lepiej po angielsku."
+        },
+        {
+          "text": "I wouldn't do that if I were you.",
+          "translation": "Na twoim miejscu nie robiłbym tego."
+        }
+      ]
+    },
+    {
+      "title": "I wish / If only – życzenia o teraźniejszości",
+      "text": "**I wish / If only + Past Simple** – żałujemy, że coś **teraz** wygląda inaczej:\n- *I wish I had a car.* (nie mam samochodu)\n- *If only I knew the answer!* (nie znam odpowiedzi)\n- *I wish I were taller.*\n\n**I wish + could** – brak umiejętności lub możliwości: *I wish I could speak German.*\n\n*If only* wyraża to samo co *I wish*, ale mocniej.",
+      "examples": [
+        {
+          "text": "I wish I didn't have to work today.",
+          "translation": "Szkoda, że muszę dziś pracować."
+        },
+        {
+          "text": "If only I had more time!",
+          "translation": "Gdybym tylko miał więcej czasu!"
+        }
+      ]
+    },
+    {
+      "title": "I wish + would – o przyszłości i cudzym zachowaniu",
+      "text": "**I wish + someone + would** – chcemy, żeby **ktoś inny** coś zmienił, często z irytacją:\n- *I wish you would stop talking.*\n- *I wish it would stop raining.*\n\nNie mówimy *I wish I would* – o sobie używamy *I wish I could* albo Past Simple.",
+      "examples": [
+        {
+          "text": "I wish my neighbours wouldn't play loud music.",
+          "translation": "Szkoda, że sąsiedzi puszczają głośno muzykę (chciałbym, żeby przestali)."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sc-01",
+      "q": "If I ___ more time, I would learn to play the guitar.",
+      "correct": "had",
+      "wrong": [
+        "have",
+        "would have",
+        "will have"
+      ],
+      "why": "Second conditional: If + Past Simple."
+    },
+    {
+      "id": "sc-02",
+      "q": "If she studied harder, she ___ the exam.",
+      "correct": "would pass",
+      "wrong": [
+        "will pass",
+        "passed",
+        "would passed"
+      ],
+      "why": "Druga część: would + bezokolicznik."
+    },
+    {
+      "id": "sc-03",
+      "q": "If I ___ you, I'd apologise.",
+      "correct": "were",
+      "wrong": [
+        "am",
+        "would be",
+        "be"
+      ],
+      "why": "Rada: If I were you."
+    },
+    {
+      "id": "sc-04",
+      "q": "I wish I ___ a bigger flat.",
+      "correct": "had",
+      "wrong": [
+        "have",
+        "would have",
+        "will have"
+      ],
+      "why": "Życzenie o teraźniejszości → I wish + Past Simple."
+    },
+    {
+      "id": "sc-05",
+      "q": "I wish I ___ swim. Everyone else can.",
+      "correct": "could",
+      "wrong": [
+        "can",
+        "would",
+        "will"
+      ],
+      "why": "Brak umiejętności → I wish + could."
+    },
+    {
+      "id": "sc-06",
+      "q": "I wish you ___ making that noise!",
+      "correct": "would stop",
+      "wrong": [
+        "stop",
+        "stopped already",
+        "will stop"
+      ],
+      "why": "Irytacja cudzym zachowaniem → I wish + would."
+    },
+    {
+      "id": "sc-07",
+      "q": "If only I ___ the answer!",
+      "correct": "knew",
+      "wrong": [
+        "know",
+        "would know",
+        "known"
+      ],
+      "why": "If only + Past Simple – żal dotyczący teraźniejszości."
+    },
+    {
+      "id": "sc-08",
+      "q": "Which sentence is a second conditional?",
+      "correct": "If I won the lottery, I would travel.",
+      "wrong": [
+        "If I win the lottery, I will travel.",
+        "If you heat ice, it melts.",
+        "I will travel when I win."
+      ],
+      "why": "If + Past Simple, would + bezokolicznik."
+    },
+    {
+      "id": "sc-09",
+      "q": "Co oznacza „I wish I didn't live so far from school”?",
+      "correct": "mieszkam daleko i tego żałuję",
+      "wrong": [
+        "nie mieszkam daleko",
+        "wkrótce się przeprowadzę bliżej",
+        "kiedyś mieszkałem daleko"
+      ],
+      "why": "Past Simple po wish odnosi się do obecnej sytuacji."
+    },
+    {
+      "id": "sc-10",
+      "q": "What would you do if you ___ a famous person?",
+      "correct": "met",
+      "wrong": [
+        "meet",
+        "will meet",
+        "would meet"
+      ],
+      "why": "W części z if → Past Simple."
+    }
+  ]
+}

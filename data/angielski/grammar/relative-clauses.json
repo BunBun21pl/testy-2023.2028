@@ -1,0 +1,162 @@
+{
+  "id": "relative-clauses",
+  "title": "Defining and non-defining relative clauses",
+  "level": "B1–B2",
+  "summary": "Zdania względne z who, which, that, whose, where – kiedy z przecinkami, a kiedy bez.",
+  "sections": [
+    {
+      "title": "Zaimki względne",
+      "text": "Zdanie względne dodaje informację o rzeczowniku. Najczęstsze zaimki:\n- **who** – o ludziach\n- **which** – o rzeczach i zwierzętach\n- **that** – o ludziach i rzeczach (tylko w zdaniach definiujących)\n- **whose** – czyj, którego (przynależność)\n- **where** – gdzie (o miejscach), **when** – kiedy (o czasie)",
+      "examples": [
+        {
+          "text": "The driver who delivered the parcel was very polite.",
+          "translation": "Kierowca, który dostarczył paczkę, był bardzo uprzejmy."
+        },
+        {
+          "text": "This is the warehouse where I work.",
+          "translation": "To jest magazyn, w którym pracuję."
+        },
+        {
+          "text": "That's the man whose truck broke down.",
+          "translation": "To ten mężczyzna, którego ciężarówka się zepsuła."
+        }
+      ]
+    },
+    {
+      "title": "Defining – zdania definiujące (bez przecinków)",
+      "text": "Informacja jest **niezbędna** – bez niej nie wiemy, o kogo lub o co chodzi.\n\nNie stawiamy przecinków. Zamiast who/which można użyć **that**.\n\nGdy zaimek jest **dopełnieniem** (po nim stoi inny podmiot), można go pominąć:\n- The book (that) I bought is great. – „I” jest podmiotem, więc „that” można opuścić.\n- The man who lives next door is a pilot. – „who” jest podmiotem, nie można go opuścić.",
+      "examples": [
+        {
+          "text": "The pallets (that) we ordered arrived today.",
+          "translation": "Palety, które zamówiliśmy, przyjechały dziś."
+        }
+      ]
+    },
+    {
+      "title": "Non-defining – zdania niedefiniujące (z przecinkami)",
+      "text": "Informacja jest **dodatkowa** – zdanie ma sens także bez niej.\n\nZdanie oddzielamy **przecinkami**. **Nie** używamy **that** i **nie wolno** pominąć zaimka.",
+      "examples": [
+        {
+          "text": "My brother, who lives in Gdańsk, is a sailor.",
+          "translation": "Mój brat, który mieszka w Gdańsku, jest marynarzem."
+        },
+        {
+          "text": "Warsaw, which is the capital of Poland, has two airports.",
+          "translation": "Warszawa, która jest stolicą Polski, ma dwa lotniska."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "rel-01",
+      "q": "The woman ___ works in the office is my aunt.",
+      "correct": "who",
+      "wrong": [
+        "which",
+        "whose",
+        "where"
+      ],
+      "why": "O osobie, zaimek jest podmiotem → who (albo that)."
+    },
+    {
+      "id": "rel-02",
+      "q": "This is the city ___ I was born.",
+      "correct": "where",
+      "wrong": [
+        "which",
+        "who",
+        "whose"
+      ],
+      "why": "O miejscu → where."
+    },
+    {
+      "id": "rel-03",
+      "q": "I met a boy ___ father is a pilot.",
+      "correct": "whose",
+      "wrong": [
+        "who",
+        "who's",
+        "which"
+      ],
+      "why": "Przynależność (jego ojciec) → whose."
+    },
+    {
+      "id": "rel-04",
+      "q": "W którym zdaniu NIE można użyć „that”?",
+      "correct": "My car, ___ is ten years old, still works well.",
+      "wrong": [
+        "The car ___ I bought is red.",
+        "The man ___ called you is here.",
+        "The book ___ is on the desk is mine."
+      ],
+      "why": "Zdanie niedefiniujące (z przecinkami) – nie używamy that."
+    },
+    {
+      "id": "rel-05",
+      "q": "W którym zdaniu można pominąć zaimek względny?",
+      "correct": "The film which we watched was boring.",
+      "wrong": [
+        "The man who lives here is a doctor.",
+        "My mum, who is a nurse, works at night.",
+        "The truck which broke down is ours."
+      ],
+      "why": "Zaimek jest dopełnieniem (po nim podmiot „we”) i zdanie jest definiujące."
+    },
+    {
+      "id": "rel-06",
+      "q": "Które zdanie jest poprawne?",
+      "correct": "Kraków, which is in the south, is very old.",
+      "wrong": [
+        "Kraków that is in the south is very old.",
+        "Kraków, that is in the south, is very old.",
+        "Kraków, is in the south, is very old."
+      ],
+      "why": "Nazwa własna → informacja dodatkowa → przecinki i which."
+    },
+    {
+      "id": "rel-07",
+      "q": "Zdania niedefiniujące oddzielamy:",
+      "correct": "przecinkami",
+      "wrong": [
+        "nawiasami kwadratowymi",
+        "niczym",
+        "myślnikiem zawsze"
+      ],
+      "why": "Przecinki pokazują, że informacja jest dodatkowa."
+    },
+    {
+      "id": "rel-08",
+      "q": "The parcel ___ you sent hasn't arrived yet.",
+      "correct": "that",
+      "wrong": [
+        "who",
+        "whose",
+        "where"
+      ],
+      "why": "O rzeczy w zdaniu definiującym → that/which (albo można pominąć)."
+    },
+    {
+      "id": "rel-09",
+      "q": "Do you remember the day ___ we met?",
+      "correct": "when",
+      "wrong": [
+        "where",
+        "which",
+        "whose"
+      ],
+      "why": "O czasie → when."
+    },
+    {
+      "id": "rel-10",
+      "q": "Which of these is a defining relative clause?",
+      "correct": "The students who passed the exam got a prize.",
+      "wrong": [
+        "Tom, who passed the exam, got a prize.",
+        "Our teacher, who is from London, is great.",
+        "Paris, which I love, is beautiful."
+      ],
+      "why": "Bez przecinków – mówi, o których uczniów chodzi."
+    }
+  ]
+}

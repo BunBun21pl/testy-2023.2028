@@ -1,0 +1,144 @@
+{
+  "id": "future-continuous-perfect",
+  "title": "Future Continuous i Future Perfect",
+  "level": "B1–B2",
+  "summary": "Co będzie się działo w danym momencie w przyszłości, a co będzie już zrobione.",
+  "sections": [
+    {
+      "title": "Future Continuous",
+      "text": "Budowa: **will be + -ing**.\n\nCzynność, która będzie **w toku** w określonym momencie w przyszłości:\n- *This time tomorrow I'll be lying on the beach.*\n- *At 10 a.m. the driver will be loading the truck.*\n\nTakże uprzejme pytania o plany: *Will you be using the car tonight?*",
+      "examples": [
+        {
+          "text": "Don't call at 8 – we'll be having dinner.",
+          "translation": "Nie dzwoń o 8 – będziemy jedli kolację."
+        }
+      ]
+    },
+    {
+      "title": "Future Perfect",
+      "text": "Budowa: **will have + III forma**.\n\nCzynność, która będzie **zakończona przed** określonym momentem w przyszłości. Typowo z **by**:\n- *By Friday I'll have finished the project.*\n- *By 2030 they will have built the new road.*",
+      "examples": [
+        {
+          "text": "By the time you arrive, we'll have eaten.",
+          "translation": "Zanim przyjedziesz, już zjemy."
+        },
+        {
+          "text": "The parcel will have been delivered by noon.",
+          "translation": "Paczka zostanie dostarczona do południa."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "fut-01",
+      "q": "This time next week I ___ in Italy.",
+      "correct": "will be skiing",
+      "wrong": [
+        "will have skied",
+        "will ski already",
+        "am skiing now"
+      ],
+      "why": "Czynność w toku w momencie w przyszłości → Future Continuous."
+    },
+    {
+      "id": "fut-02",
+      "q": "By Monday I ___ the report.",
+      "correct": "will have finished",
+      "wrong": [
+        "will be finishing",
+        "finish",
+        "will finished"
+      ],
+      "why": "Zakończone przed terminem (by) → Future Perfect."
+    },
+    {
+      "id": "fut-03",
+      "q": "Jak zbudowany jest Future Perfect?",
+      "correct": "will have + III forma",
+      "wrong": [
+        "will be + -ing",
+        "will + III forma",
+        "have will + -ing"
+      ],
+      "why": "Np. will have done."
+    },
+    {
+      "id": "fut-04",
+      "q": "Jak zbudowany jest Future Continuous?",
+      "correct": "will be + -ing",
+      "wrong": [
+        "will have + III forma",
+        "will + -ing",
+        "be will + -ing"
+      ],
+      "why": "Np. will be working."
+    },
+    {
+      "id": "fut-05",
+      "q": "Don't phone me at 9. I ___ my driving test then.",
+      "correct": "will be taking",
+      "wrong": [
+        "will have taken",
+        "take",
+        "will took"
+      ],
+      "why": "W tym momencie będzie trwał egzamin → Future Continuous."
+    },
+    {
+      "id": "fut-06",
+      "q": "By the end of the year she ___ 10,000 km.",
+      "correct": "will have driven",
+      "wrong": [
+        "will be drive",
+        "will driven",
+        "drives"
+      ],
+      "why": "Wynik do końca roku → Future Perfect."
+    },
+    {
+      "id": "fut-07",
+      "q": "Które słowo najczęściej występuje z Future Perfect?",
+      "correct": "by",
+      "wrong": [
+        "while",
+        "now",
+        "ago"
+      ],
+      "why": "By Friday, by the time…"
+    },
+    {
+      "id": "fut-08",
+      "q": "___ the car tomorrow? I need it.",
+      "correct": "Will you be using",
+      "wrong": [
+        "Will you have used",
+        "Are you use",
+        "Will you using"
+      ],
+      "why": "Uprzejme pytanie o plany → Future Continuous."
+    },
+    {
+      "id": "fut-09",
+      "q": "When you get home, I ___ dinner. It will be ready.",
+      "correct": "will have cooked",
+      "wrong": [
+        "will be cooking",
+        "cook",
+        "have cooked"
+      ],
+      "why": "Obiad będzie już gotowy → czynność zakończona → Future Perfect."
+    },
+    {
+      "id": "fut-10",
+      "q": "In 2040 people ___ electric cars.",
+      "correct": "will be driving",
+      "wrong": [
+        "will have drive",
+        "will driving",
+        "drive will"
+      ],
+      "why": "Sytuacja w toku w przyszłości → Future Continuous."
+    }
+  ]
+}

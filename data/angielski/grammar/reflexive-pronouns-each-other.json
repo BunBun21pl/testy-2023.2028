@@ -1,0 +1,162 @@
+{
+  "id": "reflexive-pronouns-each-other",
+  "title": "Reflexive pronouns i each other",
+  "level": "B1",
+  "summary": "Zaimki zwrotne (myself, yourself…) i różnica między „sobie” a „nawzajem”.",
+  "sections": [
+    {
+      "title": "Zaimki zwrotne",
+      "text": "- I → **myself**, you → **yourself**\n- he → **himself**, she → **herself**, it → **itself**\n- we → **ourselves**, you (l.mn.) → **yourselves**, they → **themselves**\n\nUżywamy ich, gdy **podmiot i dopełnienie to ta sama osoba**: *She hurt herself.*",
+      "examples": [
+        {
+          "text": "I cut myself while cooking.",
+          "translation": "Skaleczyłem się podczas gotowania."
+        },
+        {
+          "text": "Enjoy yourselves at the party!",
+          "translation": "Bawcie się dobrze na imprezie!"
+        }
+      ]
+    },
+    {
+      "title": "Inne użycia",
+      "text": "- **dla podkreślenia** – „sam/sama”: *I fixed the truck myself.* (Sam naprawiłem ciężarówkę.)\n- **by + zaimek zwrotny** = sam, bez nikogo: *She lives by herself.*\n- utarte zwroty: *help yourself* (częstuj się), *make yourself at home* (czuj się jak u siebie)\n\nUwaga: wiele polskich czasowników z „się” w angielskim **nie** ma zaimka zwrotnego: *relax, feel, concentrate, meet, wake up, get dressed.* Mówimy *I feel tired*, a nie *I feel myself tired*.",
+      "examples": [
+        {
+          "text": "Did you paint the room yourself?",
+          "translation": "Sam pomalowałeś pokój?"
+        },
+        {
+          "text": "We met at the station.",
+          "translation": "Spotkaliśmy się na stacji (bez ourselves)."
+        }
+      ]
+    },
+    {
+      "title": "each other – nawzajem",
+      "text": "**each other** (albo **one another**) oznacza czynność **wzajemną** – każdy robi coś drugiemu.\n- *They looked at themselves in the mirror.* – każdy patrzył na siebie samego.\n- *They looked at each other.* – patrzyli na siebie nawzajem.",
+      "examples": [
+        {
+          "text": "Tom and Anna love each other.",
+          "translation": "Tom i Anna kochają się (nawzajem)."
+        },
+        {
+          "text": "We help each other with homework.",
+          "translation": "Pomagamy sobie nawzajem w lekcjach."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "refl-01",
+      "q": "She looked at ___ in the mirror.",
+      "correct": "herself",
+      "wrong": [
+        "himself",
+        "her",
+        "each other"
+      ],
+      "why": "Podmiot i dopełnienie to ta sama osoba (she) → herself."
+    },
+    {
+      "id": "refl-02",
+      "q": "We enjoyed ___ at the concert.",
+      "correct": "ourselves",
+      "wrong": [
+        "ourself",
+        "us",
+        "each other"
+      ],
+      "why": "we → ourselves (liczba mnoga, -selves)."
+    },
+    {
+      "id": "refl-03",
+      "q": "Tom and Kate send messages to ___ every day.",
+      "correct": "each other",
+      "wrong": [
+        "themselves",
+        "themself",
+        "theirselves"
+      ],
+      "why": "Wysyłają wiadomości sobie nawzajem → each other."
+    },
+    {
+      "id": "refl-04",
+      "q": "I didn't buy this cake. I made it ___.",
+      "correct": "myself",
+      "wrong": [
+        "by me",
+        "me",
+        "itself"
+      ],
+      "why": "Podkreślenie, że zrobiłem to sam → myself."
+    },
+    {
+      "id": "refl-05",
+      "q": "They're old enough to look after ___.",
+      "correct": "themselves",
+      "wrong": [
+        "theirselves",
+        "themself",
+        "each others"
+      ],
+      "why": "they → themselves."
+    },
+    {
+      "id": "refl-06",
+      "q": "Jak powiedzieć „Odpręż się”?",
+      "correct": "Relax.",
+      "wrong": [
+        "Relax yourself.",
+        "Relax you.",
+        "Relax each other."
+      ],
+      "why": "Relax nie łączy się z zaimkiem zwrotnym."
+    },
+    {
+      "id": "refl-07",
+      "q": "My grandma lives ___.",
+      "correct": "by herself",
+      "wrong": [
+        "by her",
+        "with herself",
+        "on herself"
+      ],
+      "why": "by + zaimek zwrotny = sama, bez nikogo."
+    },
+    {
+      "id": "refl-08",
+      "q": "„Częstujcie się!” po angielsku to:",
+      "correct": "Help yourselves!",
+      "wrong": [
+        "Help yourself each other!",
+        "Help you!",
+        "Help ourselves!"
+      ],
+      "why": "Do kilku osób → yourselves."
+    },
+    {
+      "id": "refl-09",
+      "q": "Which pronoun is correct for „it”?",
+      "correct": "itself",
+      "wrong": [
+        "itselves",
+        "hisself",
+        "its own"
+      ],
+      "why": "it → itself."
+    },
+    {
+      "id": "refl-10",
+      "q": "The two drivers shook hands and thanked ___.",
+      "correct": "each other",
+      "wrong": [
+        "themselves",
+        "ourselves",
+        "yourselves"
+      ],
+      "why": "Podziękowali sobie nawzajem → each other."
+    }
+  ]
+}

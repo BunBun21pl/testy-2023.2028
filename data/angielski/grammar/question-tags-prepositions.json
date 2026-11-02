@@ -1,0 +1,162 @@
+{
+  "id": "question-tags-prepositions",
+  "title": "Question tags i pytania z przyimkiem na końcu",
+  "level": "B1",
+  "summary": "„Prawda?”, „nie?” po angielsku oraz pytania typu Who are you talking to?",
+  "sections": [
+    {
+      "title": "Question tags – jak je tworzyć",
+      "text": "Question tag to krótkie pytanie na końcu zdania, jak polskie „prawda?”.\n- zdanie **twierdzące** → tag **przeczący**: *You're tired, aren't you?*\n- zdanie **przeczące** → tag **twierdzący**: *You aren't tired, are you?*\n\nW tagu powtarzamy **czasownik posiłkowy** albo modalny i **zaimek**. Gdy w zdaniu nie ma posiłkowego, używamy **do / does / did**: *She works here, doesn't she?*",
+      "examples": [
+        {
+          "text": "It's cold today, isn't it?",
+          "translation": "Zimno dziś, prawda?"
+        },
+        {
+          "text": "You didn't call him, did you?",
+          "translation": "Nie dzwoniłeś do niego, prawda?"
+        },
+        {
+          "text": "They can drive, can't they?",
+          "translation": "Umieją prowadzić, prawda?"
+        }
+      ]
+    },
+    {
+      "title": "Wyjątki",
+      "text": "- **I am** → **aren't I?**: *I'm late, aren't I?*\n- **Let's** → **shall we?**: *Let's go, shall we?*\n- tryb rozkazujący → **will you?**: *Close the door, will you?*\n- słowa przeczące (never, nobody, nothing) → tag twierdzący: *You never smoke, do you?*\n- there is → **isn't there?**",
+      "examples": [
+        {
+          "text": "Nobody called, did they?",
+          "translation": "Nikt nie dzwonił, prawda?"
+        }
+      ]
+    },
+    {
+      "title": "Pytania z przyimkiem na końcu",
+      "text": "W angielskim mówionym przyimek zwykle stoi **na końcu pytania**, a nie przed who/what:\n- *Who are you talking **to**?* (Z kim rozmawiasz?)\n- *What are you looking **for**?* (Czego szukasz?)\n- *Where are you **from**?* (Skąd jesteś?)\n- *What is this tool used **for**?* (Do czego służy to narzędzie?)",
+      "examples": [
+        {
+          "text": "Who did you go to the cinema with?",
+          "translation": "Z kim poszedłeś do kina?"
+        },
+        {
+          "text": "What are you thinking about?",
+          "translation": "O czym myślisz?"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "qt-01",
+      "q": "She's your sister, ___?",
+      "correct": "isn't she",
+      "wrong": [
+        "is she",
+        "doesn't she",
+        "wasn't she"
+      ],
+      "why": "Twierdzące z is → tag przeczący isn't she."
+    },
+    {
+      "id": "qt-02",
+      "q": "You don't like coffee, ___?",
+      "correct": "do you",
+      "wrong": [
+        "don't you",
+        "are you",
+        "aren't you"
+      ],
+      "why": "Przeczące → tag twierdzący z do."
+    },
+    {
+      "id": "qt-03",
+      "q": "He passed the exam, ___?",
+      "correct": "didn't he",
+      "wrong": [
+        "hasn't he",
+        "wasn't he",
+        "did he"
+      ],
+      "why": "Past Simple bez posiłkowego → didn't he."
+    },
+    {
+      "id": "qt-04",
+      "q": "I'm right, ___?",
+      "correct": "aren't I",
+      "wrong": [
+        "am not I",
+        "amn't I",
+        "isn't it"
+      ],
+      "why": "Wyjątek: I am → aren't I."
+    },
+    {
+      "id": "qt-05",
+      "q": "Let's start, ___?",
+      "correct": "shall we",
+      "wrong": [
+        "will we",
+        "don't we",
+        "let we"
+      ],
+      "why": "Let's → shall we."
+    },
+    {
+      "id": "qt-06",
+      "q": "Open the window, ___?",
+      "correct": "will you",
+      "wrong": [
+        "do you",
+        "don't you",
+        "are you"
+      ],
+      "why": "Tryb rozkazujący → will you."
+    },
+    {
+      "id": "qt-07",
+      "q": "They can't swim, ___?",
+      "correct": "can they",
+      "wrong": [
+        "can't they",
+        "do they",
+        "are they"
+      ],
+      "why": "Przeczące z can't → tag can they."
+    },
+    {
+      "id": "qt-08",
+      "q": "Jak zapytać „Na co czekasz?”",
+      "correct": "What are you waiting for?",
+      "wrong": [
+        "For what are you waiting?",
+        "What are you waiting?",
+        "What for you are waiting?"
+      ],
+      "why": "Przyimek na końcu pytania."
+    },
+    {
+      "id": "qt-09",
+      "q": "Who did you speak ___?",
+      "correct": "to",
+      "wrong": [
+        "at",
+        "for",
+        "on"
+      ],
+      "why": "speak to someone → Who did you speak to?"
+    },
+    {
+      "id": "qt-10",
+      "q": "You've never been to Spain, ___?",
+      "correct": "have you",
+      "wrong": [
+        "haven't you",
+        "did you",
+        "didn't you"
+      ],
+      "why": "Never ma znaczenie przeczące → tag twierdzący."
+    }
+  ]
+}

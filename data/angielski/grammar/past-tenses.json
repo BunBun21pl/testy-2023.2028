@@ -1,0 +1,158 @@
+{
+  "id": "past-tenses",
+  "title": "Past Simple, Past Continuous, Past Perfect",
+  "level": "B1",
+  "summary": "Trzy czasy przeszłe i jak ich używać razem w opowiadaniu.",
+  "sections": [
+    {
+      "title": "Past Simple",
+      "text": "Zakończona czynność w przeszłości, często z określeniem czasu (*yesterday, last week, in 2020, ago*).\n\nCzasowniki regularne: **-ed** (*worked*), nieregularne – II forma (*went, saw*). Pytania i przeczenia z **did**.",
+      "examples": [
+        {
+          "text": "I visited my grandparents last weekend.",
+          "translation": "Odwiedziłem dziadków w zeszły weekend."
+        },
+        {
+          "text": "Did you see the match?",
+          "translation": "Widziałeś mecz?"
+        }
+      ]
+    },
+    {
+      "title": "Past Continuous",
+      "text": "Budowa: **was / were + -ing**.\n- czynność w toku w danym momencie przeszłości: *At 8 p.m. I was watching TV.*\n- tło opowiadania, przerwane przez krótką czynność (Past Simple): *I was driving when my phone rang.*\n- dwie czynności trwające jednocześnie, często z **while**: *While I was cooking, he was cleaning.*",
+      "examples": [
+        {
+          "text": "It was raining when we left.",
+          "translation": "Padało, kiedy wychodziliśmy."
+        }
+      ]
+    },
+    {
+      "title": "Past Perfect",
+      "text": "Budowa: **had + III forma**.\n\nCzynność **wcześniejsza** od innej czynności w przeszłości:\n- *When we arrived, the film **had** already **started**.* (najpierw film się zaczął, potem przyjechaliśmy)\n- typowe słowa: *already, before, by the time, after, just*",
+      "examples": [
+        {
+          "text": "By the time the police came, the thief had escaped.",
+          "translation": "Zanim przyjechała policja, złodziej uciekł."
+        },
+        {
+          "text": "I had never seen the sea before that trip.",
+          "translation": "Nigdy wcześniej nie widziałem morza przed tą wycieczką."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "past-01",
+      "q": "I ___ to the cinema yesterday.",
+      "correct": "went",
+      "wrong": [
+        "was going",
+        "had gone",
+        "go"
+      ],
+      "why": "Zakończona czynność + yesterday → Past Simple."
+    },
+    {
+      "id": "past-02",
+      "q": "At 7 o'clock last night I ___ dinner.",
+      "correct": "was having",
+      "wrong": [
+        "had had",
+        "have had",
+        "am having"
+      ],
+      "why": "Czynność w toku w konkretnym momencie przeszłości → Past Continuous."
+    },
+    {
+      "id": "past-03",
+      "q": "I was having a shower when the phone ___.",
+      "correct": "rang",
+      "wrong": [
+        "was ringing",
+        "had rung",
+        "rings"
+      ],
+      "why": "Krótka czynność przerywająca dłuższą → Past Simple."
+    },
+    {
+      "id": "past-04",
+      "q": "When we got to the station, the train ___.",
+      "correct": "had already left",
+      "wrong": [
+        "already left",
+        "was leaving already",
+        "has already left"
+      ],
+      "why": "Czynność wcześniejsza od innej w przeszłości → Past Perfect."
+    },
+    {
+      "id": "past-05",
+      "q": "___ I was studying, my brother was playing games.",
+      "correct": "While",
+      "wrong": [
+        "During",
+        "When ago",
+        "Since"
+      ],
+      "why": "Dwie czynności jednocześnie → while + Past Continuous."
+    },
+    {
+      "id": "past-06",
+      "q": "Jak zbudowany jest Past Perfect?",
+      "correct": "had + III forma",
+      "wrong": [
+        "was/were + -ing",
+        "did + bezokolicznik",
+        "have + III forma"
+      ],
+      "why": "Np. had finished."
+    },
+    {
+      "id": "past-07",
+      "q": "She ___ never ___ a plane before her trip to Spain.",
+      "correct": "had … flown",
+      "wrong": [
+        "has … flown",
+        "was … flying",
+        "did … fly"
+      ],
+      "why": "Doświadczenie przed inną przeszłą czynnością → Past Perfect."
+    },
+    {
+      "id": "past-08",
+      "q": "What ___ you ___ when I called you?",
+      "correct": "were … doing",
+      "wrong": [
+        "did … do",
+        "had … done",
+        "are … doing"
+      ],
+      "why": "Czynność w toku przerwana telefonem → Past Continuous."
+    },
+    {
+      "id": "past-09",
+      "q": "By the time I woke up, everyone ___ breakfast.",
+      "correct": "had eaten",
+      "wrong": [
+        "ate",
+        "was eating",
+        "has eaten"
+      ],
+      "why": "By the time → czynność wcześniejsza → Past Perfect."
+    },
+    {
+      "id": "past-10",
+      "q": "Który czas opisuje tło opowiadania?",
+      "correct": "Past Continuous",
+      "wrong": [
+        "Past Perfect",
+        "Past Simple",
+        "Present Perfect"
+      ],
+      "why": "Np. The sun was shining and birds were singing."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "modal-verbs-deduction",
+  "title": "Modal verbs of deduction and speculation",
+  "level": "B1–B2",
+  "summary": "Jak mówić, że coś jest pewne, niemożliwe albo tylko prawdopodobne – o teraźniejszości i przeszłości.",
+  "sections": [
+    {
+      "title": "Teraźniejszość",
+      "text": "- **must** – jestem pewny, że tak: *He must be tired. He's been driving all night.*\n- **can't** – jestem pewny, że nie: *That can't be Tom. He's in London.*\n- **might / may / could** – możliwe, ale nie wiem na pewno: *She might be at home.*\n\nUwaga: przeciwieństwem **must** w dedukcji jest **can't**, a nie *mustn't*.",
+      "examples": [
+        {
+          "text": "The lights are off. They must be asleep.",
+          "translation": "Światła są zgaszone. Na pewno śpią."
+        },
+        {
+          "text": "It could be a mistake.",
+          "translation": "To może być pomyłka."
+        }
+      ]
+    },
+    {
+      "title": "Przeszłość",
+      "text": "Budowa: **modal + have + III forma**.\n- **must have** done – na pewno się stało: *He must have forgotten.*\n- **can't / couldn't have** done – na pewno się nie stało: *She can't have seen us.*\n- **might / may / could have** done – może się stało: *They might have missed the bus.*",
+      "examples": [
+        {
+          "text": "The road is wet. It must have rained.",
+          "translation": "Droga jest mokra. Musiało padać."
+        },
+        {
+          "text": "He can't have stolen it – he was with me.",
+          "translation": "On nie mógł tego ukraść – był ze mną."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "mod-01",
+      "q": "She's got a new car and a big house. She ___ earn a lot.",
+      "correct": "must",
+      "wrong": [
+        "can't",
+        "mustn't",
+        "might not"
+      ],
+      "why": "Pewność, że tak → must."
+    },
+    {
+      "id": "mod-02",
+      "q": "That ___ be Anna – she's on holiday in Spain.",
+      "correct": "can't",
+      "wrong": [
+        "mustn't",
+        "must",
+        "may"
+      ],
+      "why": "Pewność, że nie → can't."
+    },
+    {
+      "id": "mod-03",
+      "q": "I'm not sure where Tom is. He ___ be in the library.",
+      "correct": "might",
+      "wrong": [
+        "must",
+        "can't",
+        "has to"
+      ],
+      "why": "Brak pewności → might/may/could."
+    },
+    {
+      "id": "mod-04",
+      "q": "The ground is wet. It ___ during the night.",
+      "correct": "must have rained",
+      "wrong": [
+        "must rain",
+        "can't have rained",
+        "must rained"
+      ],
+      "why": "Pewność o przeszłości → must have + III forma."
+    },
+    {
+      "id": "mod-05",
+      "q": "He ___ the message – his phone was off.",
+      "correct": "can't have read",
+      "wrong": [
+        "mustn't have read",
+        "must have read",
+        "can't read"
+      ],
+      "why": "Pewność, że nie (przeszłość) → can't have + III forma."
+    },
+    {
+      "id": "mod-06",
+      "q": "They're late. They ___ the train.",
+      "correct": "might have missed",
+      "wrong": [
+        "might missed",
+        "must miss",
+        "can't have miss"
+      ],
+      "why": "Możliwość w przeszłości → might have + III forma."
+    },
+    {
+      "id": "mod-07",
+      "q": "Przeciwieństwem „must” w znaczeniu „na pewno” jest:",
+      "correct": "can't",
+      "wrong": [
+        "mustn't",
+        "needn't",
+        "don't have to"
+      ],
+      "why": "Mustn't oznacza zakaz, a nie dedukcję."
+    },
+    {
+      "id": "mod-08",
+      "q": "Które słowo NIE wyraża możliwości?",
+      "correct": "must",
+      "wrong": [
+        "might",
+        "may",
+        "could"
+      ],
+      "why": "Must wyraża pewność."
+    },
+    {
+      "id": "mod-09",
+      "q": "Jak zbudowana jest dedukcja o przeszłości?",
+      "correct": "modal + have + III forma",
+      "wrong": [
+        "modal + III forma",
+        "modal + had + III forma",
+        "modal + to + bezokolicznik"
+      ],
+      "why": "Np. must have gone."
+    },
+    {
+      "id": "mod-10",
+      "q": "You ___ be hungry – you've just had a huge lunch!",
+      "correct": "can't",
+      "wrong": [
+        "must",
+        "might",
+        "could"
+      ],
+      "why": "Pewność, że nie jesteś głodny → can't."
+    }
+  ]
+}

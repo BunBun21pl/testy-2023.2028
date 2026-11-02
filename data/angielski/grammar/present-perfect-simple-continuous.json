@@ -1,0 +1,162 @@
+{
+  "id": "present-perfect-simple-continuous",
+  "title": "Present Perfect Simple i Present Perfect Continuous",
+  "level": "B1–B2",
+  "summary": "Kiedy liczy się wynik, a kiedy czas trwania czynności, która zaczęła się w przeszłości.",
+  "sections": [
+    {
+      "title": "Present Perfect Simple",
+      "text": "Budowa: **have / has + III forma**.\n\nUżywamy, gdy ważny jest **wynik** albo **ile** zrobiliśmy:\n- *I've written three e-mails.* (ile)\n- *She has finished the report.* (wynik – raport jest gotowy)\n\nTakże z czasownikami stanu (know, like, have = mieć): *I've known him for years.*",
+      "examples": [
+        {
+          "text": "We've delivered 20 parcels today.",
+          "translation": "Dostarczyliśmy dziś 20 paczek."
+        },
+        {
+          "text": "Have you ever been to London?",
+          "translation": "Czy byłeś kiedyś w Londynie?"
+        }
+      ]
+    },
+    {
+      "title": "Present Perfect Continuous",
+      "text": "Budowa: **have / has been + -ing**.\n\nUżywamy, gdy ważna jest **sama czynność i jej trwanie**:\n- czynność trwa do teraz: *I've been waiting for an hour.*\n- czynność właśnie się skończyła i widać jej skutki: *You're red. Have you been running?*\n\nPytania o czas trwania: **How long have you been…?**",
+      "examples": [
+        {
+          "text": "I've been learning German for two years.",
+          "translation": "Uczę się niemieckiego od dwóch lat."
+        },
+        {
+          "text": "It has been raining all day.",
+          "translation": "Pada przez cały dzień."
+        }
+      ]
+    },
+    {
+      "title": "for i since",
+      "text": "- **for** + okres czasu: *for two hours, for a week, for ages*\n- **since** + punkt w czasie: *since 8 o'clock, since Monday, since 2020*",
+      "examples": [
+        {
+          "text": "He has been driving since 6 a.m.",
+          "translation": "Prowadzi od 6 rano."
+        },
+        {
+          "text": "They've lived here for ten years.",
+          "translation": "Mieszkają tu od dziesięciu lat."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "ppc-01",
+      "q": "I ___ for the bus for 30 minutes and it still hasn't come.",
+      "correct": "have been waiting",
+      "wrong": [
+        "have waited already",
+        "waited",
+        "am waiting"
+      ],
+      "why": "Czynność trwa do teraz, liczy się czas trwania → PP Continuous."
+    },
+    {
+      "id": "ppc-02",
+      "q": "She ___ three books this month.",
+      "correct": "has read",
+      "wrong": [
+        "has been reading",
+        "is reading",
+        "reads"
+      ],
+      "why": "Liczba (ile) → PP Simple."
+    },
+    {
+      "id": "ppc-03",
+      "q": "How long ___ English?",
+      "correct": "have you been learning",
+      "wrong": [
+        "are you learning",
+        "do you learn",
+        "did you learn"
+      ],
+      "why": "How long + czynność trwająca do teraz → PP Continuous."
+    },
+    {
+      "id": "ppc-04",
+      "q": "Your hands are dirty. ___ in the garden?",
+      "correct": "Have you been working",
+      "wrong": [
+        "Have you worked",
+        "Did you work",
+        "Are you working"
+      ],
+      "why": "Widoczny skutek niedawnej czynności → PP Continuous."
+    },
+    {
+      "id": "ppc-05",
+      "q": "I ___ him since primary school.",
+      "correct": "have known",
+      "wrong": [
+        "have been knowing",
+        "know",
+        "am knowing"
+      ],
+      "why": "Know to czasownik stanu – nie ma formy Continuous."
+    },
+    {
+      "id": "ppc-06",
+      "q": "We've lived in Wrocław ___ 2015.",
+      "correct": "since",
+      "wrong": [
+        "for",
+        "from",
+        "ago"
+      ],
+      "why": "Punkt w czasie → since."
+    },
+    {
+      "id": "ppc-07",
+      "q": "They have been working here ___ six months.",
+      "correct": "for",
+      "wrong": [
+        "since",
+        "during",
+        "ago"
+      ],
+      "why": "Okres czasu → for."
+    },
+    {
+      "id": "ppc-08",
+      "q": "Jak zbudowany jest Present Perfect Continuous?",
+      "correct": "have/has been + czasownik z -ing",
+      "wrong": [
+        "have/has + III forma",
+        "had been + III forma",
+        "will have + -ing"
+      ],
+      "why": "Np. I have been working."
+    },
+    {
+      "id": "ppc-09",
+      "q": "Look! I ___ my homework. Can I go out now?",
+      "correct": "have finished",
+      "wrong": [
+        "have been finishing",
+        "finish",
+        "am finishing"
+      ],
+      "why": "Liczy się wynik – praca jest skończona → PP Simple."
+    },
+    {
+      "id": "ppc-10",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "I've been cleaning the house all morning.",
+      "wrong": [
+        "I've been cleaned the house all morning.",
+        "I've cleaning the house all morning.",
+        "I've being cleaning the house all morning."
+      ],
+      "why": "have been + -ing."
+    }
+  ]
+}

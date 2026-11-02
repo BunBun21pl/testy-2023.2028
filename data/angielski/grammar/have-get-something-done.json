@@ -1,0 +1,148 @@
+{
+  "id": "have-get-something-done",
+  "title": "Have / get something done",
+  "level": "B1",
+  "summary": "Jak powiedzieć, że ktoś coś dla nas zrobił – „dałem samochód do naprawy”.",
+  "sections": [
+    {
+      "title": "Budowa i znaczenie",
+      "text": "**have + rzecz + III forma** oznacza, że **ktoś inny** wykonał usługę dla nas – zwykle za pieniądze.\n- *I cut my hair.* – sam się obciąłem.\n- *I **had** my hair **cut**.* – fryzjer mnie obciął.\n\nCzasownik **have** odmieniamy przez czasy: *I'm having my car repaired. I've had my phone fixed. I'll have the windows cleaned.*",
+      "examples": [
+        {
+          "text": "We had the house painted last summer.",
+          "translation": "Zeszłego lata pomalowano nam dom (zleciliśmy to)."
+        },
+        {
+          "text": "She's having her nails done.",
+          "translation": "Robi sobie paznokcie (u kosmetyczki)."
+        }
+      ]
+    },
+    {
+      "title": "get something done",
+      "text": "**get + rzecz + III forma** znaczy to samo, ale jest **bardziej potoczne**: *I need to get my car serviced.*\n\nTa sama konstrukcja opisuje też **coś złego**, co nas spotkało: *He had his wallet stolen.* (Ukradziono mu portfel.)",
+      "examples": [
+        {
+          "text": "Where do you get your hair cut?",
+          "translation": "Gdzie się strzyżesz?"
+        },
+        {
+          "text": "I got my bike stolen.",
+          "translation": "Ukradziono mi rower."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "hgd-01",
+      "q": "Jak powiedzieć „Dałem samochód do naprawy”?",
+      "correct": "I had my car repaired.",
+      "wrong": [
+        "I repaired my car.",
+        "I had repaired my car.",
+        "I had my car repair."
+      ],
+      "why": "have + rzecz + III forma = ktoś to dla mnie zrobił."
+    },
+    {
+      "id": "hgd-02",
+      "q": "She ___ her hair cut every month.",
+      "correct": "has",
+      "wrong": [
+        "is",
+        "does",
+        "makes"
+      ],
+      "why": "Present Simple, 3. osoba → has her hair cut."
+    },
+    {
+      "id": "hgd-03",
+      "q": "We're ___ a new kitchen fitted next week.",
+      "correct": "having",
+      "wrong": [
+        "doing",
+        "making",
+        "had"
+      ],
+      "why": "Present Continuous: are having + rzecz + III forma."
+    },
+    {
+      "id": "hgd-04",
+      "q": "I need to get my eyes ___.",
+      "correct": "tested",
+      "wrong": [
+        "test",
+        "testing",
+        "to test"
+      ],
+      "why": "get + rzecz + III forma."
+    },
+    {
+      "id": "hgd-05",
+      "q": "Która konstrukcja jest bardziej potoczna?",
+      "correct": "get something done",
+      "wrong": [
+        "have something done",
+        "be done something",
+        "make something done"
+      ],
+      "why": "Znaczenie to samo, get – mniej formalnie."
+    },
+    {
+      "id": "hgd-06",
+      "q": "He ___ his phone stolen on the bus.",
+      "correct": "had",
+      "wrong": [
+        "made",
+        "did",
+        "was"
+      ],
+      "why": "Have something done opisuje też coś złego, co się przydarzyło."
+    },
+    {
+      "id": "hgd-07",
+      "q": "Where did you have your photos ___?",
+      "correct": "printed",
+      "wrong": [
+        "print",
+        "printing",
+        "to print"
+      ],
+      "why": "have + rzecz + III forma."
+    },
+    {
+      "id": "hgd-08",
+      "q": "Wybierz poprawne zdanie:",
+      "correct": "I've just had my computer fixed.",
+      "wrong": [
+        "I've just had fixed my computer.",
+        "I've just had my computer fix.",
+        "I've just my computer had fixed."
+      ],
+      "why": "Szyk: have + rzecz + III forma."
+    },
+    {
+      "id": "hgd-09",
+      "q": "„I cut my hair” oznacza, że:",
+      "correct": "obciąłem się sam",
+      "wrong": [
+        "fryzjer mnie obciął",
+        "ktoś mnie obetnie",
+        "obcinam komuś włosy w salonie"
+      ],
+      "why": "Bez konstrukcji have something done – robię to sam."
+    },
+    {
+      "id": "hgd-10",
+      "q": "They will ___ the documents translated by a professional.",
+      "correct": "have",
+      "wrong": [
+        "make",
+        "do",
+        "be"
+      ],
+      "why": "will have + rzecz + III forma."
+    }
+  ]
+}

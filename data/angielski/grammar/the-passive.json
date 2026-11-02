@@ -1,0 +1,148 @@
+{
+  "id": "the-passive",
+  "title": "The passive – strona bierna",
+  "level": "B1",
+  "summary": "Strona bierna we wszystkich ważnych czasach i z czasownikami modalnymi.",
+  "sections": [
+    {
+      "title": "Kiedy i jak",
+      "text": "Stronę bierną stosujemy, gdy ważniejsze jest to, **co się dzieje**, niż **kto** to robi – albo gdy wykonawca jest nieznany lub oczywisty.\n\nBudowa: **be** w odpowiednim czasie + **III forma** czasownika. Wykonawcę dodajemy po **by**: *The bridge was designed **by** a famous engineer.*",
+      "examples": [
+        {
+          "text": "English is spoken all over the world.",
+          "translation": "Po angielsku mówi się na całym świecie."
+        },
+        {
+          "text": "My bike was stolen yesterday.",
+          "translation": "Wczoraj ukradziono mi rower."
+        }
+      ]
+    },
+    {
+      "title": "Formy w różnych czasach",
+      "text": "- Present Simple: **am / is / are + III**: *Cars are made here.*\n- Present Continuous: **am / is / are being + III**: *The road is being repaired.*\n- Past Simple: **was / were + III**: *The letter was sent.*\n- Present Perfect: **has / have been + III**: *The order has been delivered.*\n- Past Perfect: **had been + III**: *The goods had been checked.*\n- will: **will be + III**: *The results will be announced tomorrow.*\n- modalne: **can / must / should be + III**: *This form must be signed.*",
+      "examples": [
+        {
+          "text": "The new warehouse is being built.",
+          "translation": "Nowy magazyn jest właśnie budowany."
+        },
+        {
+          "text": "Your car will be repaired by Friday.",
+          "translation": "Twój samochód zostanie naprawiony do piątku."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "pas-01",
+      "q": "This bridge ___ in 1990.",
+      "correct": "was built",
+      "wrong": [
+        "built",
+        "is building",
+        "has built"
+      ],
+      "why": "Past Simple w stronie biernej: was + III forma."
+    },
+    {
+      "id": "pas-02",
+      "q": "Coffee ___ in Brazil.",
+      "correct": "is grown",
+      "wrong": [
+        "grows by",
+        "is growing",
+        "grown"
+      ],
+      "why": "Fakt ogólny → Present Simple: is + III forma."
+    },
+    {
+      "id": "pas-03",
+      "q": "The road ___ at the moment, so we have to take a different way.",
+      "correct": "is being repaired",
+      "wrong": [
+        "is repaired",
+        "has repaired",
+        "repairs"
+      ],
+      "why": "Teraz w toku → is being + III forma."
+    },
+    {
+      "id": "pas-04",
+      "q": "The tickets ___ already ___.",
+      "correct": "have … been sold",
+      "wrong": [
+        "have … sold",
+        "are … selling",
+        "had … sell"
+      ],
+      "why": "Present Perfect w stronie biernej: have been + III forma."
+    },
+    {
+      "id": "pas-05",
+      "q": "The results ___ next week.",
+      "correct": "will be announced",
+      "wrong": [
+        "will announce",
+        "are announce",
+        "will been announced"
+      ],
+      "why": "Przyszłość: will be + III forma."
+    },
+    {
+      "id": "pas-06",
+      "q": "This document must ___ by the manager.",
+      "correct": "be signed",
+      "wrong": [
+        "signed",
+        "sign",
+        "been signed"
+      ],
+      "why": "Po modalnym: be + III forma."
+    },
+    {
+      "id": "pas-07",
+      "q": "„Hamlet” was written ___ Shakespeare.",
+      "correct": "by",
+      "wrong": [
+        "from",
+        "of",
+        "with"
+      ],
+      "why": "Wykonawcę wprowadzamy przez by."
+    },
+    {
+      "id": "pas-08",
+      "q": "Jak zbudowana jest strona bierna?",
+      "correct": "be + III forma czasownika",
+      "wrong": [
+        "have + -ing",
+        "do + bezokolicznik",
+        "get + -ing"
+      ],
+      "why": "Czasownik be odmieniamy przez czasy."
+    },
+    {
+      "id": "pas-09",
+      "q": "When we arrived, the room ___ already ___.",
+      "correct": "had … been cleaned",
+      "wrong": [
+        "has … been cleaned",
+        "was … cleaning",
+        "had … cleaned"
+      ],
+      "why": "Wcześniejsza czynność w przeszłości → had been + III forma."
+    },
+    {
+      "id": "pas-10",
+      "q": "Wybierz zdanie w stronie biernej:",
+      "correct": "The parcels are delivered every morning.",
+      "wrong": [
+        "The courier delivers the parcels.",
+        "The courier is delivering parcels.",
+        "Deliver the parcels, please."
+      ],
+      "why": "are delivered = be + III forma."
+    }
+  ]
+}
