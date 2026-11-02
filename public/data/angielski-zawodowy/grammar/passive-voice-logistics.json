@@ -1,0 +1,37 @@
+{
+  "id": "passive-voice-logistics",
+  "title": "Strona bierna w logistyce (Passive Voice)",
+  "level": "B1",
+  "summary": "Jak opisywać procesy w magazynie i transporcie, gdy ważniejsze jest to, co się dzieje z towarem, niż kto to robi.",
+  "sections": [
+    {
+      "title": "Po co strona bierna",
+      "text": "W dokumentach, e-mailach i instrukcjach w logistyce często nie jest ważne, **kto** coś zrobił, tylko **co stało się z towarem**. Wtedy używamy strony biernej.\n\nBudowa: **be** w odpowiednim czasie + **trzecia forma czasownika** (past participle).\n\nJeśli chcemy powiedzieć, kto wykonał czynność, dodajemy **by**: *The goods were delivered by DHL.*",
+      "examples": [
+        { "text": "Active: The workers load the trucks every morning.", "translation": "Pracownicy ładują ciężarówki każdego ranka." },
+        { "text": "Passive: The trucks are loaded every morning.", "translation": "Ciężarówki są ładowane każdego ranka." }
+      ]
+    },
+    {
+      "title": "Najważniejsze czasy",
+      "text": "- Present Simple: **is / are + III forma** – *The orders are picked in zone A.*\n- Past Simple: **was / were + III forma** – *The container was delivered yesterday.*\n- Present Continuous: **is / are being + III forma** – *The shipment is being prepared now.*\n- Present Perfect: **has / have been + III forma** – *The invoice has been sent.*\n- Future / will: **will be + III forma** – *The goods will be shipped on Monday.*\n- Z czasownikami modalnymi: **must / can / should be + III forma** – *Dangerous goods must be labelled.*",
+      "examples": [
+        { "text": "The pallets are stored in the high-bay warehouse.", "translation": "Palety są składowane w magazynie wysokiego składowania." },
+        { "text": "Your order has been dispatched.", "translation": "Twoje zamówienie zostało wysłane." },
+        { "text": "The CMR consignment note must be signed by the driver.", "translation": "List przewozowy CMR musi zostać podpisany przez kierowcę." }
+      ]
+    }
+  ],
+  "questions": [
+    { "id": "pv-01", "q": "The goods ___ onto the truck every morning.", "correct": "are loaded", "wrong": ["are loading", "loaded", "is loaded"], "why": "Present Simple w stronie biernej: are + III forma (goods = liczba mnoga)." },
+    { "id": "pv-02", "q": "The container ___ to the port yesterday.", "correct": "was delivered", "wrong": ["is delivered", "has delivered", "were delivered"], "why": "„Yesterday” → Past Simple; container = liczba pojedyncza → was." },
+    { "id": "pv-03", "q": "Your order ___ right now.", "correct": "is being packed", "wrong": ["is packed", "is packing", "has been packed"], "why": "„Right now” → Present Continuous w stronie biernej: is being + III forma." },
+    { "id": "pv-04", "q": "The invoice ___ to the customer. You can check your e-mail.", "correct": "has been sent", "wrong": ["has sent", "was sending", "is sent yesterday"], "why": "Skutek widoczny teraz → Present Perfect: has been + III forma." },
+    { "id": "pv-05", "q": "Dangerous goods must ___ correctly.", "correct": "be labelled", "wrong": ["labelled", "being labelled", "to be labelled"], "why": "Po czasowniku modalnym: be + III forma." },
+    { "id": "pv-06", "q": "The shipment ___ on Monday.", "correct": "will be shipped", "wrong": ["will ship", "will shipped", "is shipping"], "why": "Przyszłość w stronie biernej: will be + III forma." },
+    { "id": "pv-07", "q": "Jakim słowem wprowadzamy wykonawcę czynności w stronie biernej?", "correct": "by", "wrong": ["from", "with", "of"], "why": "The parcel was delivered by the courier." },
+    { "id": "pv-08", "q": "Wybierz zdanie w stronie biernej:", "correct": "The pallets are stored in zone B.", "wrong": ["We store the pallets in zone B.", "The workers are storing the pallets.", "Store the pallets in zone B."], "why": "Strona bierna = be + III forma (are stored)." },
+    { "id": "pv-09", "q": "Przetłumacz: „Towar został uszkodzony podczas transportu.”", "correct": "The goods were damaged during transport.", "wrong": ["The goods damaged during transport.", "The goods have damage during transport.", "The goods was damaging during transport."], "why": "Past Simple w stronie biernej: were + damaged." },
+    { "id": "pv-10", "q": "Jak zbudowana jest strona bierna?", "correct": "be w odpowiednim czasie + trzecia forma czasownika", "wrong": ["have + forma z -ing", "do + forma podstawowa", "will + forma z -ing"], "why": "To podstawowy wzór strony biernej." }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "rodzajniki-der-die-das",
+  "title": "Rodzajniki der, die, das",
+  "level": "A1–A2",
+  "summary": "Jak zgadnąć rodzaj rzeczownika po jego znaczeniu i końcówce.",
+  "sections": [
+    {
+      "title": "Trzy rodzaje",
+      "text": "Każdy rzeczownik w języku niemieckim ma rodzaj, który pokazuje rodzajnik określony:\n- **der** – rodzaj męski (*der Fahrer* – kierowca)\n- **die** – rodzaj żeński (*die Lieferung* – dostawa)\n- **das** – rodzaj nijaki (*das Lager* – magazyn)\n\nW liczbie mnogiej rodzajnik określony to zawsze **die**: *die Fahrer, die Lieferungen, die Lager*.\n\nRodzaj trzeba zapamiętywać razem ze słówkiem, ale wiele rzeczowników da się rozpoznać po końcówce.",
+      "examples": [
+        { "text": "der LKW", "translation": "ciężarówka (rodzaj męski)" },
+        { "text": "die Palette", "translation": "paleta (rodzaj żeński)" },
+        { "text": "das Paket", "translation": "paczka (rodzaj nijaki)" }
+      ]
+    },
+    {
+      "title": "Zwykle der (rodzaj męski)",
+      "text": "- dni tygodnia, miesiące, pory roku: *der Montag, der Mai, der Winter*\n- osoby wykonujące czynność z końcówką **-er**: *der Fahrer, der Spediteur*\n- końcówki **-ling, -ismus, -or**: *der Lehrling, der Tourismus, der Motor*",
+      "examples": [
+        { "text": "der Dienstag", "translation": "wtorek" },
+        { "text": "der Fahrer", "translation": "kierowca" }
+      ]
+    },
+    {
+      "title": "Zwykle die (rodzaj żeński)",
+      "text": "- końcówki **-ung, -heit, -keit, -schaft**: *die Lieferung, die Sicherheit, die Möglichkeit, die Mannschaft*\n- końcówki **-ion, -tät, -ie, -ik**: *die Station, die Qualität, die Logistik*",
+      "examples": [
+        { "text": "die Bestellung", "translation": "zamówienie" },
+        { "text": "die Information", "translation": "informacja" }
+      ]
+    },
+    {
+      "title": "Zwykle das (rodzaj nijaki)",
+      "text": "- zdrobnienia z końcówką **-chen, -lein**: *das Mädchen, das Fräulein*\n- końcówki **-um, -ment**: *das Zentrum, das Dokument*\n- czasowniki użyte jako rzeczowniki: *das Fahren, das Essen*",
+      "examples": [
+        { "text": "das Logistikzentrum", "translation": "centrum logistyczne" },
+        { "text": "das Dokument", "translation": "dokument" }
+      ]
+    }
+  ],
+  "questions": [
+    { "id": "art-01", "q": "Wybierz rodzajnik: ___ Lieferung (dostawa)", "correct": "die", "wrong": ["der", "das", "den"], "why": "Końcówka -ung → zawsze rodzaj żeński." },
+    { "id": "art-02", "q": "Wybierz rodzajnik: ___ Fahrer (kierowca)", "correct": "der", "wrong": ["die", "das", "dem"], "why": "Osoba wykonująca czynność z końcówką -er → zwykle der." },
+    { "id": "art-03", "q": "Wybierz rodzajnik: ___ Mädchen (dziewczyna)", "correct": "das", "wrong": ["die", "der", "den"], "why": "Końcówka -chen → zawsze das, nawet gdy chodzi o dziewczynę." },
+    { "id": "art-04", "q": "Wybierz rodzajnik: ___ Zentrum (centrum)", "correct": "das", "wrong": ["der", "die", "dem"], "why": "Końcówka -um → zwykle das." },
+    { "id": "art-05", "q": "Wybierz rodzajnik: ___ Sicherheit (bezpieczeństwo)", "correct": "die", "wrong": ["der", "das", "den"], "why": "Końcówka -heit → zawsze die." },
+    { "id": "art-06", "q": "Wybierz rodzajnik: ___ Montag (poniedziałek)", "correct": "der", "wrong": ["die", "das", "dem"], "why": "Dni tygodnia są rodzaju męskiego." },
+    { "id": "art-07", "q": "Wybierz rodzajnik: ___ Information", "correct": "die", "wrong": ["der", "das", "den"], "why": "Końcówka -ion → zwykle die." },
+    { "id": "art-08", "q": "Jaki jest rodzajnik określony w liczbie mnogiej?", "correct": "zawsze die", "wrong": ["zawsze der", "zawsze das", "taki sam jak w liczbie pojedynczej"], "why": "die Fahrer, die Lieferungen, die Pakete." },
+    { "id": "art-09", "q": "Wybierz rodzajnik: ___ Dokument", "correct": "das", "wrong": ["der", "die", "den"], "why": "Końcówka -ment → zwykle das." },
+    { "id": "art-10", "q": "Która grupa rzeczowników ma rodzaj żeński?", "correct": "die Bestellung, die Qualität, die Logistik", "wrong": ["der Winter, der Mai, der Motor", "das Fahren, das Essen, das Lager", "der Fahrer, der Lehrling, der Spediteur"], "why": "Końcówki -ung, -tät, -ik → die." }
+  ]
+}

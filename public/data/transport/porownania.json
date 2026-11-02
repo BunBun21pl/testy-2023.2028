@@ -1,0 +1,139 @@
+{
+  "id": "porownania",
+  "name": "Porównania",
+  "color": "#4a6a73",
+  "questions": [
+    {
+      "id": "c-001",
+      "q": "Która gałąź transportu NIE umożliwia przewozów międzykontynentalnych?",
+      "correct": "kolejowa",
+      "wrong": [
+        "morska",
+        "lotnicza",
+        "żadna z wymienionych"
+      ],
+      "why": "Samochodowa i kolejowa nie dają transportu międzykontynentalnego."
+    },
+    {
+      "id": "c-002",
+      "q": "Która gałąź jest niezależna od warunków atmosferycznych?",
+      "correct": "przesyłowa",
+      "wrong": [
+        "lotnicza",
+        "śródlądowa",
+        "morska"
+      ],
+      "why": "Rurociągi działają niezależnie od pogody."
+    },
+    {
+      "id": "c-003",
+      "q": "Którą gałąź najlepiej wybrać do pilnego przewozu cennej przesyłki z Polski do USA?",
+      "correct": "lotniczą",
+      "wrong": [
+        "śródlądową",
+        "kolejową",
+        "przesyłową"
+      ],
+      "why": "Najszybsza na duże odległości."
+    },
+    {
+      "id": "c-004",
+      "q": "Którą gałąź najlepiej wybrać do przewozu 50 000 ton zboża z Polski do Afryki?",
+      "correct": "morską",
+      "wrong": [
+        "lotniczą",
+        "samochodową",
+        "przesyłową"
+      ],
+      "why": "Masowiec – duża ładowność i niski koszt jednostkowy."
+    },
+    {
+      "id": "c-005",
+      "q": "Którą gałąź najlepiej wybrać do przesyłu gazu ziemnego na stałe między państwami?",
+      "correct": "przesyłową",
+      "wrong": [
+        "lotniczą",
+        "samochodową",
+        "śródlądową"
+      ],
+      "why": "Gazociąg."
+    },
+    {
+      "id": "c-006",
+      "q": "Którą gałąź najlepiej wybrać do dostarczenia mebli z hurtowni do domu klienta w tym samym mieście?",
+      "correct": "samochodową",
+      "wrong": [
+        "kolejową",
+        "morską",
+        "lotniczą"
+      ],
+      "why": "Door-to-door na krótkim dystansie."
+    },
+    {
+      "id": "c-007",
+      "q": "Którą gałąź najlepiej wybrać do przewozu dużej ilości węgla z kopalni do elektrowni w innym województwie?",
+      "correct": "kolejową",
+      "wrong": [
+        "lotniczą",
+        "morską",
+        "samochodową dostawczą"
+      ],
+      "why": "Duże ilości na lądzie – kolej."
+    },
+    {
+      "id": "c-008",
+      "q": "Wysoki koszt budowy infrastruktury to wada wspólna dla transportu:",
+      "correct": "kolejowego, lotniczego i przesyłowego",
+      "wrong": [
+        "samochodowego i śródlądowego",
+        "tylko morskiego",
+        "tylko samochodowego"
+      ],
+      "why": "Wymienione w wadach tych trzech gałęzi."
+    },
+    {
+      "id": "c-009",
+      "q": "Charakter ekologiczny wymieniany jest jako zaleta transportu:",
+      "correct": "kolejowego",
+      "wrong": [
+        "samochodowego",
+        "lotniczego",
+        "żadnego"
+      ],
+      "why": "Także śródlądowego, przesyłowego i morskiego (poza awariami)."
+    },
+    {
+      "id": "c-010",
+      "q": "Uzależnienie od warunków atmosferycznych to wada transportu:",
+      "correct": "lotniczego i śródlądowego",
+      "wrong": [
+        "przesyłowego",
+        "kolejowego",
+        "rurociągowego"
+      ],
+      "why": "Kolej ma mały wpływ pogody – to jej zaleta."
+    },
+    {
+      "id": "c-011",
+      "q": "Która gałąź ma największy udział w handlu światowym?",
+      "correct": "morska",
+      "wrong": [
+        "lotnicza",
+        "kolejowa",
+        "samochodowa"
+      ],
+      "why": "Ok. 80% towarów."
+    },
+    {
+      "id": "c-012",
+      "q": "Niski jednostkowy koszt transportu to zaleta m.in. transportu:",
+      "correct": "morskiego, kolejowego i śródlądowego",
+      "wrong": [
+        "lotniczego",
+        "samochodowego",
+        "żadnego"
+      ],
+      "why": "Gałęzie o dużej ładowności."
+    }
+  ]
+}

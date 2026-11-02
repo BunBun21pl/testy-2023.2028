@@ -1,0 +1,150 @@
+{
+  "id": "przesylowy",
+  "name": "Przesyłowy",
+  "color": "#8a6532",
+  "questions": [
+    {
+      "id": "p-001",
+      "q": "Transport przesyłowy to głównie:",
+      "correct": "transport rurowy cieczy i gazów oraz przewodowy przesył energii elektrycznej",
+      "wrong": [
+        "przewóz osób koleją",
+        "przewóz kontenerów",
+        "żegluga przybrzeżna"
+      ],
+      "why": "Definicja z podręcznika."
+    },
+    {
+      "id": "p-002",
+      "q": "Cechą charakterystyczną transportu przesyłowego jest:",
+      "correct": "przystosowanie sieci wyłącznie do jednego rodzaju ładunku",
+      "wrong": [
+        "przewóz osób i ładunków",
+        "duża elastyczność tras",
+        "zależność od pogody"
+      ],
+      "why": "Np. tylko gaz, tylko woda albo tylko prąd."
+    },
+    {
+      "id": "p-003",
+      "q": "Do środków transportu przesyłowego zalicza się:",
+      "correct": "rurociągi, taśmociągi i linie przesyłowe",
+      "wrong": [
+        "barki i statki",
+        "naczepy i wagony",
+        "śmigłowce i sterowce"
+      ],
+      "why": "Wszystkie to sztuczne drogi transportowe."
+    },
+    {
+      "id": "p-004",
+      "q": "Rurociągi, taśmociągi i linie przesyłowe zalicza się do:",
+      "correct": "sztucznych dróg transportowych",
+      "wrong": [
+        "naturalnych dróg transportowych",
+        "dróg wodnych",
+        "dróg kołowych"
+      ],
+      "why": "Zapamiętaj to pojęcie."
+    },
+    {
+      "id": "p-005",
+      "q": "Taśmociągiem najczęściej przemieszcza się:",
+      "correct": "węgiel lub żwir",
+      "wrong": [
+        "energię elektryczną",
+        "gaz ziemny",
+        "wodę pitną"
+      ],
+      "why": "Ładunki sypkie."
+    },
+    {
+      "id": "p-006",
+      "q": "Linie przesyłowe wysokiego i średniego napięcia łączą:",
+      "correct": "elektrownie ze stacjami transformatorowymi",
+      "wrong": [
+        "porty z rafineriami",
+        "kopalnie z hutami",
+        "terminale z bocznicami"
+      ],
+      "why": "Służą do przesyłu energii elektrycznej."
+    },
+    {
+      "id": "p-007",
+      "q": "Transport przesyłowy dzieli się na:",
+      "correct": "rurowy i przewodowy",
+      "wrong": [
+        "liniowy i trampowy",
+        "krajowy i kontynentalny",
+        "ciężki i lekki"
+      ],
+      "why": "Diagram klasyfikacji."
+    },
+    {
+      "id": "p-008",
+      "q": "Linie łączności należą do transportu przesyłowego:",
+      "correct": "przewodowego",
+      "wrong": [
+        "rurowego",
+        "taśmowego",
+        "wodnego"
+      ],
+      "why": "Przewodowy: linie energetyczne i linie łączności."
+    },
+    {
+      "id": "p-009",
+      "q": "W którym kraju poprowadzono najdłuższą sieć rurociągów naftowych?",
+      "correct": "USA",
+      "wrong": [
+        "Polska",
+        "Japonia",
+        "Wielka Brytania"
+      ],
+      "why": "Rozbudowane sieci mają też Rosja, Kanada, Chiny, Europa Zachodnia."
+    },
+    {
+      "id": "p-010",
+      "q": "Dlaczego kraje europejskie ograniczają import surowców rurociągami z Rosji?",
+      "correct": "w związku z agresją Rosji na Ukrainę w 2022 r.",
+      "wrong": [
+        "bo rurociągi są za drogie w użytkowaniu",
+        "bo Rosja nie ma rurociągów",
+        "bo zakazało tego Prawo lotnicze"
+      ],
+      "why": "Informacja z rozdziału 14."
+    },
+    {
+      "id": "p-011",
+      "q": "Która cecha jest ZALETĄ transportu przesyłowego?",
+      "correct": "niezależność od warunków atmosferycznych",
+      "wrong": [
+        "możliwość przesyłu wielu rodzajów ładunku jedną drogą",
+        "niski koszt budowy",
+        "przewóz osób"
+      ],
+      "why": "Inne zalety: niskie koszty użytkowania, ekologiczność."
+    },
+    {
+      "id": "p-012",
+      "q": "Która cecha jest WADĄ transportu przesyłowego?",
+      "correct": "wysokie koszty budowy infrastruktury",
+      "wrong": [
+        "wysokie koszty użytkowania",
+        "zależność od pogody",
+        "duże zanieczyszczenie środowiska"
+      ],
+      "why": "Druga wada: jeden rodzaj ładunku na jedną drogę przesyłu."
+    },
+    {
+      "id": "p-013",
+      "q": "Ropociągi, gazociągi i wodociągi to przykłady:",
+      "correct": "rurociągów",
+      "wrong": [
+        "taśmociągów",
+        "linii przesyłowych",
+        "bocznic"
+      ],
+      "why": "Rurociągi cieczy i gazów."
+    }
+  ]
+}
