@@ -1,0 +1,238 @@
+{
+  "id": "kolejowy",
+  "name": "Kolejowy",
+  "color": "#7b4bb0",
+  "questions": [
+    {
+      "id": "ko-001",
+      "q": "Transport kolejowy to gałąź transportu:",
+      "correct": "lądowego, wykorzystująca własną infrastrukturę",
+      "wrong": [
+        "wodnego",
+        "powietrznego",
+        "przesyłowego"
+      ],
+      "why": "Definicja z podręcznika."
+    },
+    {
+      "id": "ko-002",
+      "q": "Czym jest tabor kolejowy?",
+      "correct": "środkami transportu kolejowego, np. lokomotywami i wagonami",
+      "wrong": [
+        "siecią torów",
+        "stacjami kolejowymi",
+        "rozkładem jazdy"
+      ],
+      "why": "Za jego stan odpowiadają instytucje kolejowe."
+    },
+    {
+      "id": "ko-003",
+      "q": "Transport kolejowy to forma transportu sztywnotorowego, co oznacza, że:",
+      "correct": "pojazdy mogą poruszać się tylko po charakterystycznym torze",
+      "wrong": [
+        "pojazdy mogą jeździć po każdej drodze",
+        "pojazdy nie potrzebują infrastruktury",
+        "przewozi tylko ładunki płynne"
+      ],
+      "why": "Np. po drodze ułożonej z szyn."
+    },
+    {
+      "id": "ko-004",
+      "q": "Transport kolejowy najczęściej wybiera się, gdy:",
+      "correct": "trzeba przewieźć bardzo duże ilości towaru",
+      "wrong": [
+        "przesyłka jest mała i pilna",
+        "odbiorca jest za oceanem",
+        "trzeba dostarczyć towar do drzwi klienta w mieście"
+      ],
+      "why": "Np. węgiel z kopalni, paliwo z rafinerii, zboże ze skupu."
+    },
+    {
+      "id": "ko-005",
+      "q": "Koleje klasyczne dwuszynowe dzielą się na:",
+      "correct": "konwencjonalne, dużych prędkości i miejskie",
+      "wrong": [
+        "publiczne i branżowe",
+        "linowe i magnetyczne",
+        "parowe i elektryczne"
+      ],
+      "why": "Podział z podręcznika."
+    },
+    {
+      "id": "ko-006",
+      "q": "Kolej wąskotorowa, normalnotorowa i szerokotorowa to rodzaje kolei:",
+      "correct": "konwencjonalnej",
+      "wrong": [
+        "niekonwencjonalnej",
+        "magnetycznej",
+        "linowej"
+      ],
+      "why": "Podział według rodzaju toru."
+    },
+    {
+      "id": "ko-007",
+      "q": "Która kolej należy do kolei niekonwencjonalnych?",
+      "correct": "magnetyczna",
+      "wrong": [
+        "normalnotorowa",
+        "szerokotorowa",
+        "wąskotorowa"
+      ],
+      "why": "Niekonwencjonalne: z taborem ogumionym, magnetyczna, jednoszynowa, linowa."
+    },
+    {
+      "id": "ko-008",
+      "q": "Ze względu na ogólną charakterystykę trasy i taboru wyróżnia się kolej:",
+      "correct": "ciężką i lekką",
+      "wrong": [
+        "publiczną i niepubliczną",
+        "parową i elektryczną",
+        "towarową i przemysłową"
+      ],
+      "why": "Kryterium: trasa i tabor."
+    },
+    {
+      "id": "ko-009",
+      "q": "Kolej użytku publicznego i niepublicznego to podział ze względu na:",
+      "correct": "liczbę użytkowników i charakter przewozów",
+      "wrong": [
+        "rodzaj toru",
+        "napęd",
+        "funkcję"
+      ],
+      "why": "Kryterium z diagramu klasyfikacji."
+    },
+    {
+      "id": "ko-010",
+      "q": "Kolej podmiejska (aglomeracyjna) to podział kolei ze względu na:",
+      "correct": "funkcję",
+      "wrong": [
+        "napęd",
+        "rodzaj toru",
+        "charakterystykę taboru"
+      ],
+      "why": "Funkcja: sieci krajowej, dalekobieżna, regionalna, lokalna, podmiejska, towarowa, przemysłowa."
+    },
+    {
+      "id": "ko-011",
+      "q": "Kolej parowa, elektryczna i grawitacyjna to podział ze względu na:",
+      "correct": "napęd",
+      "wrong": [
+        "funkcję",
+        "rodzaj toru",
+        "liczbę użytkowników"
+      ],
+      "why": "Kryterium napędu."
+    },
+    {
+      "id": "ko-012",
+      "q": "Kolej międzyregionalna to inaczej kolej:",
+      "correct": "dalekobieżna",
+      "wrong": [
+        "podmiejska",
+        "przemysłowa",
+        "linowa"
+      ],
+      "why": "Kolej międzyregionalna (dalekobieżna)."
+    },
+    {
+      "id": "ko-013",
+      "q": "Który dokument opisuje planowany rozwój polskiej sieci kolei?",
+      "correct": "Krajowy Program Kolejowy (KPK)",
+      "wrong": [
+        "Prawo lotnicze",
+        "Ustawa o transporcie drogowym",
+        "Europejski system dróg wodnych"
+      ],
+      "why": "KPK wzmacnia rolę kolei w systemie transportowym kraju."
+    },
+    {
+      "id": "ko-014",
+      "q": "Jak nazywa się strategia rozwoju PKP Intercity do 2030 r.?",
+      "correct": "Kolej Dużych Inwestycji",
+      "wrong": [
+        "Kolej Plus",
+        "Nowy Jedwabny Szlak",
+        "Pendolino 2030"
+      ],
+      "why": "Wiąże się m.in. z podziałem pociągów na trzy kategorie."
+    },
+    {
+      "id": "ko-015",
+      "q": "Do jakiej prędkości mają jeździć pociągi kategorii wysokiej w strategii PKP Intercity?",
+      "correct": "do 250 km/h",
+      "wrong": [
+        "do 160 km/h",
+        "do 200 km/h",
+        "do 320 km/h"
+      ],
+      "why": "Średnia i ekonomiczna – do 200 km/h."
+    },
+    {
+      "id": "ko-016",
+      "q": "Która kategoria pociągów PKP Intercity ma najwięcej przystanków?",
+      "correct": "ekonomiczna",
+      "wrong": [
+        "wysoka",
+        "średnia",
+        "ekspresowa"
+      ],
+      "why": "Obsługuje także mniejsze miejscowości."
+    },
+    {
+      "id": "ko-017",
+      "q": "Która cecha jest ZALETĄ transportu kolejowego?",
+      "correct": "stosunkowo niski jednostkowy koszt transportu",
+      "wrong": [
+        "dostawy door-to-door bez przeładunku",
+        "najwyższa prędkość",
+        "brak kosztów infrastruktury"
+      ],
+      "why": "Inne zalety: duża ładowność, ekologiczność, niezawodność."
+    },
+    {
+      "id": "ko-018",
+      "q": "Która cecha jest WADĄ transportu kolejowego?",
+      "correct": "wysoki koszt budowy infrastruktury",
+      "wrong": [
+        "mała ładowność",
+        "duży wpływ pogody na przewozy",
+        "brak charakteru ekologicznego"
+      ],
+      "why": "Inne wady: mała elastyczność tras, ryzyko zniszczenia towarów."
+    },
+    {
+      "id": "ko-019",
+      "q": "Kiedy przy przewozie koleją trzeba skorzystać z innego środka transportu?",
+      "correct": "gdy odbiorca nie posiada bocznicy kolejowej",
+      "wrong": [
+        "gdy towar jest ciężki",
+        "gdy pada deszcz",
+        "gdy przewóz jest krajowy"
+      ],
+      "why": "Brak bocznicy wymusza dowóz np. samochodem."
+    },
+    {
+      "id": "ko-020",
+      "q": "Jaki wpływ mają warunki atmosferyczne na przewozy kolejowe?",
+      "correct": "stosunkowo mały – to zaleta kolei",
+      "wrong": [
+        "bardzo duży – to główna wada kolei",
+        "całkowicie uniemożliwiają przewozy zimą",
+        "taki sam jak na żeglugę śródlądową"
+      ],
+      "why": "Mały wpływ pogody to zaleta transportu kolejowego."
+    },
+    {
+      "id": "ko-021",
+      "q": "Polski zespół trakcyjny dużych prędkości to:",
+      "correct": "Pendolino",
+      "wrong": [
+        "Eurostar",
+        "TGV",
+        "Shinkansen"
+      ],
+      "why": "Zdjęcie z ciekawostki o KPK."
+    }
+  ]
+}

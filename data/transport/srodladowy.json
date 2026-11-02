@@ -1,0 +1,172 @@
+{
+  "id": "srodladowy",
+  "name": "Śródlądowy",
+  "color": "#2b8a6e",
+  "questions": [
+    {
+      "id": "w-001",
+      "q": "Transport wodny śródlądowy odbywa się na:",
+      "correct": "rzekach, kanałach i jeziorach",
+      "wrong": [
+        "morzach i oceanach",
+        "wodach terytorialnych",
+        "tylko na kanałach portowych"
+      ],
+      "why": "Definicja z podręcznika."
+    },
+    {
+      "id": "w-002",
+      "q": "Dla jakiego ładunku podręcznik podaje transport śródlądowy jako najtańszy?",
+      "correct": "drewna po wycince",
+      "wrong": [
+        "kwiatów ciętych",
+        "przesyłek kurierskich",
+        "energii elektrycznej"
+      ],
+      "why": "Najtańszy środek transportu niektórych ładunków."
+    },
+    {
+      "id": "w-003",
+      "q": "Jakie środki transportu wykorzystuje się w żegludze śródlądowej?",
+      "correct": "barki i statki, silnikowe i bezsilnikowe",
+      "wrong": [
+        "naczepy i ciągniki",
+        "rurociągi",
+        "śmigłowce"
+      ],
+      "why": "Przewozy osób i ładunków."
+    },
+    {
+      "id": "w-004",
+      "q": "Dlaczego transport śródlądowy często ma charakter sezonowy?",
+      "correct": "akweny zamarzają lub mają zbyt wysoki albo zbyt niski stan wód",
+      "wrong": [
+        "w zimie nie ma ładunków",
+        "ze względu na rozkład jazdy",
+        "bo barki są drogie"
+      ],
+      "why": "Zależność od warunków atmosferycznych."
+    },
+    {
+      "id": "w-005",
+      "q": "Osią zachodnioeuropejskiego systemu dróg wodnych jest:",
+      "correct": "Ren",
+      "wrong": [
+        "Dunaj",
+        "Wisła",
+        "Łaba"
+      ],
+      "why": "Ren łączy m.in. Szwajcarię, Niemcy, Francję i Holandię."
+    },
+    {
+      "id": "w-006",
+      "q": "Kręgosłupem południowego podsystemu dróg wodnych w Europie jest:",
+      "correct": "Dunaj",
+      "wrong": [
+        "Ren",
+        "Odra",
+        "Sekwana"
+      ],
+      "why": "Łączy m.in. Niemcy, Austrię, Węgry, Serbię, Rumunię."
+    },
+    {
+      "id": "w-007",
+      "q": "Kanał łączący Ren i Dunaj to:",
+      "correct": "Ren–Men–Dunaj",
+      "wrong": [
+        "Kanał Kiloński",
+        "Kanał Sueski",
+        "Kanał Augustowski"
+      ],
+      "why": "Ma ok. 590 km."
+    },
+    {
+      "id": "w-008",
+      "q": "Które państwo ma najwięcej dróg wodnych na świecie?",
+      "correct": "Rosja",
+      "wrong": [
+        "Niemcy",
+        "Holandia",
+        "Polska"
+      ],
+      "why": "Ciekawostka z podręcznika."
+    },
+    {
+      "id": "w-009",
+      "q": "Jakie przeszkody mogą wystąpić na trasach żeglugi śródlądowej?",
+      "correct": "mielizny, mosty i śluzy",
+      "wrong": [
+        "góry lodowe i sztormy oceaniczne",
+        "korki uliczne",
+        "brak bocznic"
+      ],
+      "why": "To tzw. wąskie gardła."
+    },
+    {
+      "id": "w-010",
+      "q": "Według charakteru pracy żeglugę śródlądową dzieli się na:",
+      "correct": "kabotażową, liniową, trampową i wahadłową",
+      "wrong": [
+        "międzynarodową, krajową i przybrzeżną",
+        "konwencjonalną i niekonwencjonalną",
+        "rurową i przewodową"
+      ],
+      "why": "Jak w transporcie morskim (według charakteru)."
+    },
+    {
+      "id": "w-011",
+      "q": "Ze względu na rodzaj ładunku transport wodny śródlądowy dzieli się na:",
+      "correct": "transport towarów i transport pasażerów",
+      "wrong": [
+        "krajowy i międzynarodowy",
+        "rurowy i przewodowy",
+        "liniowy i trampowy"
+      ],
+      "why": "Diagram klasyfikacji."
+    },
+    {
+      "id": "w-012",
+      "q": "Która cecha jest ZALETĄ transportu wodnego śródlądowego?",
+      "correct": "niski jednostkowy koszt transportu",
+      "wrong": [
+        "duża prędkość",
+        "niezależność od pogody",
+        "brak wąskich gardeł"
+      ],
+      "why": "Inne zalety: towary o dużej masie, ekologiczność."
+    },
+    {
+      "id": "w-013",
+      "q": "Która cecha jest WADĄ transportu wodnego śródlądowego?",
+      "correct": "uzależnienie od warunków atmosferycznych",
+      "wrong": [
+        "wysoki jednostkowy koszt",
+        "brak możliwości przewozu ciężkich towarów",
+        "duże zanieczyszczenie powietrza"
+      ],
+      "why": "Zamarznięte rzeki, zbyt niskie lub wysokie stany wód."
+    },
+    {
+      "id": "w-014",
+      "q": "Mielizny w żegludze śródlądowej:",
+      "correct": "utrudniają żeglugę",
+      "wrong": [
+        "ułatwiają żeglugę",
+        "nie mają znaczenia",
+        "zwiększają prędkość barek"
+      ],
+      "why": "To częsta pułapka w zadaniach prawda/fałsz."
+    },
+    {
+      "id": "w-015",
+      "q": "W porównaniu ze statkami morskimi, środki transportu śródlądowego:",
+      "correct": "mają znacznie mniejsze wymagania",
+      "wrong": [
+        "mają większe wymagania",
+        "nie potrzebują załogi",
+        "pływają tylko po oceanach"
+      ],
+      "why": "Żegluga śródlądowa odbywa się w warunkach bardziej komfortowych."
+    }
+  ]
+}

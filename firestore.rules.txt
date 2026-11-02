@@ -1,0 +1,81 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function adminsPath() {
+      return /databases/$(database)/documents/config/admins;
+    }
+
+    function isAdmin() {
+      return signedIn()
+        && exists(adminsPath())
+        && request.auth.uid in get(adminsPath()).data.uids;
+    }
+
+    function validName(name) {
+      return name is string && name.size() >= 2 && name.size() <= 60;
+    }
+
+    // Lista administratorów. Pierwsza osoba, która założy konto, tworzy ten
+    // dokument i zostaje administratorem. Każda kolejna próba to już „update”,
+    // a ten jest dozwolony tylko dla administratora.
+    match /config/admins {
+      allow read: if signedIn();
+      allow create: if signedIn()
+        && request.resource.data.keys().hasOnly(['uids', 'createdAt'])
+        && request.resource.data.uids == [request.auth.uid];
+      allow update: if isAdmin()
+        && request.resource.data.keys().hasOnly(['uids', 'createdAt'])
+        && request.resource.data.uids is list
+        && request.resource.data.uids.size() > 0;
+      allow delete: if false;
+    }
+
+    // Profile uczniów
+    match /users/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+      allow create: if signedIn()
+        && request.auth.uid == uid
+        && validName(request.resource.data.displayName);
+      allow update: if signedIn()
+        && request.auth.uid == uid
+        && validName(request.resource.data.displayName)
+        && request.resource.data.email == resource.data.email;
+      allow delete: if isAdmin();
+
+      // Postępy w testach, wyniki, opanowane fiszki
+      match /{sub}/{docId} {
+        allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+        allow write: if signedIn() && request.auth.uid == uid;
+      }
+    }
+
+    // Talie fiszek – czytają wszyscy zalogowani, zmienia tylko administrator
+    match /decks/{deckId} {
+      allow read: if signedIn();
+      allow create, update: if isAdmin()
+        && request.resource.data.name is string
+        && request.resource.data.name.size() > 0
+        && request.resource.data.name.size() <= 80
+        && request.resource.data.lang in ['angielski', 'angielski-zawodowy', 'niemiecki'];
+      allow delete: if isAdmin();
+
+      match /cards/{cardId} {
+        allow read: if signedIn();
+        allow create, update: if isAdmin()
+          && request.resource.data.front is string
+          && request.resource.data.back is string
+          && request.resource.data.front.size() > 0
+          && request.resource.data.front.size() <= 200
+          && request.resource.data.back.size() > 0
+          && request.resource.data.back.size() <= 200;
+        allow delete: if isAdmin();
+      }
+    }
+  }
+}

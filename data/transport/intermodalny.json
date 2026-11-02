@@ -1,0 +1,271 @@
+{
+  "id": "intermodalny",
+  "name": "Intermodalny",
+  "color": "#b8336a",
+  "questions": [
+    {
+      "id": "i-001",
+      "q": "Transport intermodalny to przewóz ładunków z wykorzystaniem dwóch lub więcej gałęzi transportu:",
+      "correct": "w tej samej jednostce ładunkowej na całej trasie",
+      "wrong": [
+        "z przeładunkiem zawartości na każdym etapie",
+        "tylko w obrębie jednej gałęzi",
+        "bez umowy o przewóz"
+      ],
+      "why": "Kluczowa jest ta sama jednostka ładunkowa."
+    },
+    {
+      "id": "i-002",
+      "q": "Transport intermodalny wynika z umowy zawartej między klientem a:",
+      "correct": "operatorem transportu intermodalnego",
+      "wrong": [
+        "każdym przewoźnikiem osobno",
+        "portem lotniczym",
+        "zarządcą infrastruktury"
+      ],
+      "why": "Jedna umowa."
+    },
+    {
+      "id": "i-003",
+      "q": "Który element NIE jest warunkiem transportu intermodalnego?",
+      "correct": "przewóz wyłącznie jedną gałęzią transportu",
+      "wrong": [
+        "użycie środków co najmniej dwóch gałęzi",
+        "zawarcie tylko jednej umowy o przewóz",
+        "odpowiedzialność jednego wykonawcy za dostawę"
+      ],
+      "why": "Muszą być min. 2 gałęzie."
+    },
+    {
+      "id": "i-004",
+      "q": "Ile umów o przewóz zawiera się w transporcie intermodalnym?",
+      "correct": "jedną",
+      "wrong": [
+        "dwie",
+        "tyle, ile gałęzi transportu",
+        "żadnej"
+      ],
+      "why": "Jedna umowa i jeden odpowiedzialny wykonawca."
+    },
+    {
+      "id": "i-005",
+      "q": "Za przebieg dostawy w transporcie intermodalnym odpowiada:",
+      "correct": "jeden wykonawca",
+      "wrong": [
+        "każdy przewoźnik za swój odcinek",
+        "odbiorca",
+        "nadawca"
+      ],
+      "why": "Trzeci warunek transportu intermodalnego."
+    },
+    {
+      "id": "i-006",
+      "q": "Gdzie bardziej rozpowszechnione jest pojęcie transportu multimodalnego?",
+      "correct": "w USA",
+      "wrong": [
+        "w Europie",
+        "w Azji",
+        "w Afryce"
+      ],
+      "why": "Intermodalny – w Europie."
+    },
+    {
+      "id": "i-007",
+      "q": "Ze względu na odległość i dostępność środków przewozu w transporcie intermodalnym wyróżnia się przewozy:",
+      "correct": "samochodowo-kolejowe i samochodowo-wodne",
+      "wrong": [
+        "krajowe i międzynarodowe",
+        "liniowe i trampowe",
+        "rurowe i przewodowe"
+      ],
+      "why": "Diagram klasyfikacji transportu intermodalnego."
+    },
+    {
+      "id": "i-008",
+      "q": "Pod względem zasięgu wyróżnia się przewozy intermodalne:",
+      "correct": "krajowe, międzynarodowe i międzykontynentalne",
+      "wrong": [
+        "bliskie, średnie i dalekie",
+        "regularne i nieregularne",
+        "publiczne i branżowe"
+      ],
+      "why": "Diagram klasyfikacji."
+    },
+    {
+      "id": "i-009",
+      "q": "Co oznacza skrót UTI?",
+      "correct": "intermodalne jednostki transportowe",
+      "wrong": [
+        "Unia Transportu Intermodalnego",
+        "ustawa o transporcie i infrastrukturze",
+        "urządzenia transportu indywidualnego"
+      ],
+      "why": "Z franc. Unités de transport intermodal."
+    },
+    {
+      "id": "i-010",
+      "q": "Która z wymienionych NIE jest jednostką UTI?",
+      "correct": "paleta EUR luzem",
+      "wrong": [
+        "kontener wielki",
+        "nadwozie wymienne",
+        "pojemnik ACTS"
+      ],
+      "why": "UTI: kontenery wielkie, nadwozia wymienne, pojemniki ACTS, pojazdy samochodowe."
+    },
+    {
+      "id": "i-011",
+      "q": "Ile terminali intermodalnych było w Polsce w 2024 r.?",
+      "correct": "45",
+      "wrong": [
+        "12",
+        "90",
+        "150"
+      ],
+      "why": "Liczba z podręcznika."
+    },
+    {
+      "id": "i-012",
+      "q": "Który terminal intermodalny w Polsce miał największą przepustowość w 2024 r.?",
+      "correct": "Baltic Hub w Gdańsku",
+      "wrong": [
+        "Małaszewicze",
+        "Port Gdynia",
+        "Terminal w Poznaniu"
+      ],
+      "why": "Dawniej DCT Gdańsk."
+    },
+    {
+      "id": "i-013",
+      "q": "System „na barana” (piggyback) polega na tym, że:",
+      "correct": "jeden środek transportu (np. naczepa) jest przewożony na pojeździe innego rodzaju transportu (np. wagonie)",
+      "wrong": [
+        "ciężarówka jedzie po szynach na własnych kołach",
+        "kontener jest przeładowywany na statek",
+        "naczepa jest przewożona samolotem"
+      ],
+      "why": "Załadunek poziomy (ciągnikiem) lub pionowy (dźwigiem)."
+    },
+    {
+      "id": "i-014",
+      "q": "W systemie „na barana” załadunek i wyładunek naczep odbywa się:",
+      "correct": "poziomo (ciągnikiem) lub pionowo (dźwigiem)",
+      "wrong": [
+        "tylko ręcznie",
+        "wyłącznie przez furty dziobowe",
+        "przez rurociąg"
+      ],
+      "why": "Z tabeli systemów transportu kombinowanego."
+    },
+    {
+      "id": "i-015",
+      "q": "System ruchomej drogi (Ro-La) polega na przewozie:",
+      "correct": "ciężarówek z ciągnikami na niskopodłogowych wagonach kolejowych",
+      "wrong": [
+        "samych kontenerów na statkach",
+        "naczep samolotami",
+        "pasażerów autobusami"
+      ],
+      "why": "Pojazdy wjeżdżają własnym napędem przez rampę czołową."
+    },
+    {
+      "id": "i-016",
+      "q": "Skrót Ro-La pochodzi z języka niemieckiego i oznacza:",
+      "correct": "Rollende Landstrasse – ruchoma droga",
+      "wrong": [
+        "Rotierende Ladung – obrotowy ładunek",
+        "Rohr-Leitung – rurociąg",
+        "Rollende Lager – ruchomy magazyn"
+      ],
+      "why": "Ruchoma droga."
+    },
+    {
+      "id": "i-017",
+      "q": "W systemie bimodalnym:",
+      "correct": "specjalna naczepa jeździ po drodze i po szynach na wózkach wagonowych, bez przeładunku zawartości",
+      "wrong": [
+        "naczepa jest podnoszona dźwigiem na statek",
+        "ciągnik wjeżdża na wagon z naczepą",
+        "kontener jest przewożony samolotem"
+      ],
+      "why": "Siłowniki obsługuje kierowca."
+    },
+    {
+      "id": "i-018",
+      "q": "Która technologia wykorzystuje wagony z obrotową platformą i została opracowana przez francuskie konsorcjum Lohr?",
+      "correct": "Modalohr",
+      "wrong": [
+        "Megaswing",
+        "CargoBeamer",
+        "Flexiwaggon"
+      ],
+      "why": "W pełni zautomatyzowany poziomy załadunek naczep."
+    },
+    {
+      "id": "i-019",
+      "q": "Czym Flexiwaggon różni się od Modalohr?",
+      "correct": "umożliwia transport naczepy wraz z ciągnikiem siodłowym",
+      "wrong": [
+        "przewozi tylko kontenery",
+        "nie wymaga wagonów",
+        "działa tylko na statkach"
+      ],
+      "why": "Zasada działania jest podobna."
+    },
+    {
+      "id": "i-020",
+      "q": "W technologii Megaswing:",
+      "correct": "część ładowna wagonu opuszcza się, a naczepa wjeżdża tyłem",
+      "wrong": [
+        "naczepa jedzie z ciągnikiem",
+        "naczepę podnosi dźwig",
+        "ciężarówki wjeżdżają przez rampę czołową"
+      ],
+      "why": "Służy do przewozu samych naczep."
+    },
+    {
+      "id": "i-021",
+      "q": "W technologii CargoBeamer:",
+      "correct": "naczepa stoi na nasadzie przesuwanej na wagon; z drugiej strony jednocześnie można zdejmować inną naczepę",
+      "wrong": [
+        "naczepa jedzie z ciągnikiem na platformie obrotowej",
+        "cała ciężarówka jedzie na wagonie niskopodłogowym",
+        "naczepa ma własne koła kolejowe"
+      ],
+      "why": "Załadunek i rozładunek równolegle."
+    },
+    {
+      "id": "i-022",
+      "q": "Która cecha jest ZALETĄ transportu intermodalnego?",
+      "correct": "zmniejszenie degradacji środowiska, zwłaszcza zanieczyszczenia powietrza",
+      "wrong": [
+        "brak potrzeby urządzeń przeładunkowych",
+        "jedna gałąź transportu",
+        "brak terminali"
+      ],
+      "why": "Inne zalety: łączenie mocnych stron gałęzi, mniej pracy przy przeładunkach."
+    },
+    {
+      "id": "i-023",
+      "q": "Która cecha jest WADĄ transportu intermodalnego?",
+      "correct": "konieczność użycia specjalistycznych urządzeń przeładunkowych, np. suwnic i dźwigów",
+      "wrong": [
+        "duże zanieczyszczenie powietrza",
+        "brak możliwości wykorzystania kolei",
+        "wiele umów o przewóz"
+      ],
+      "why": "Terminale muszą być odpowiednio wyposażone."
+    },
+    {
+      "id": "i-024",
+      "q": "Transport intermodalny ogranicza nakład pracy przy czynnościach:",
+      "correct": "załadunkowo-rozładunkowych",
+      "wrong": [
+        "księgowych",
+        "celnych",
+        "serwisowych"
+      ],
+      "why": "W porównaniu z przewozem różnymi gałęziami bez jednostki ładunkowej."
+    }
+  ]
+}
