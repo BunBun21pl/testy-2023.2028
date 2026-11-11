@@ -1,0 +1,546 @@
+{
+  "id": "formuly-handlowe",
+  "name": "Formuły handlowe",
+  "color": "#5b8c2a",
+  "questions": [
+    {
+      "id": "fh-001",
+      "q": "Czym są Incoterms?",
+      "correct": "zbiorem międzynarodowych reguł Międzynarodowej Izby Handlowej do interpretacji głównych warunków dostaw w handlu zagranicznym",
+      "wrong": [
+        "ustawą regulującą handel zagraniczny w Polsce",
+        "konwencją celną dotyczącą karnetów TIR",
+        "cennikiem usług transportowych w UE"
+      ],
+      "why": "Definicja z notatki."
+    },
+    {
+      "id": "fh-002",
+      "q": "Kto opracował reguły Incoterms?",
+      "correct": "Międzynarodowa Izba Handlowa",
+      "wrong": [
+        "Unia Europejska",
+        "Światowa Organizacja Handlu",
+        "Ministerstwo Infrastruktury"
+      ],
+      "why": "Międzynarodowa Izba Handlowa (ICC)."
+    },
+    {
+      "id": "fh-003",
+      "q": "Czego NIE dotyczą prawa i obowiązki opisane w Incoterms?",
+      "correct": "ustalania ceny towaru",
+      "wrong": [
+        "transferu ryzyka",
+        "ubezpieczenia transportu",
+        "dokumentacji transportowo-celnej"
+      ],
+      "why": "Incoterms dotyczą pakowania, transportu, ubezpieczenia, dokumentacji, opłat i transferu ryzyka."
+    },
+    {
+      "id": "fh-004",
+      "q": "Incoterms określają prawa i obowiązki:",
+      "correct": "sprzedającego i kupującego",
+      "wrong": [
+        "przewoźnika i spedytora",
+        "kierowcy i pracodawcy",
+        "banku i klienta"
+      ],
+      "why": "Strony umowy sprzedaży."
+    },
+    {
+      "id": "fh-005",
+      "q": "Formuła FRANCO oznacza, że sprzedający:",
+      "correct": "wydaje towar kupującemu dopiero w miejscu przeznaczenia i pokrywa koszty pakowania, załadunku i nadania",
+      "wrong": [
+        "wydaje towar w swoim magazynie przewoźnikowi kupującego",
+        "nie ponosi żadnych kosztów transportu",
+        "dostarcza towar tylko do granicy"
+      ],
+      "why": "Franco = sprzedający dowozi towar na swój koszt."
+    },
+    {
+      "id": "fh-006",
+      "q": "Gdzie najczęściej stosuje się formułę FRANCO?",
+      "correct": "w transporcie lokalnym",
+      "wrong": [
+        "w transporcie międzykontynentalnym",
+        "wyłącznie w transporcie lotniczym",
+        "tylko w handlu z USA"
+      ],
+      "why": "Z notatki: stosowana głównie w transporcie lokalnym."
+    },
+    {
+      "id": "fh-007",
+      "q": "Formuła LOCO oznacza, że sprzedający:",
+      "correct": "wydaje towar przewoźnikowi przedstawionemu przez kupującego w wyznaczonym miejscu",
+      "wrong": [
+        "dostarcza towar do biura kupującego",
+        "opłaca transport do miejsca przeznaczenia",
+        "ubezpiecza towar na całej trasie"
+      ],
+      "why": "Loco = odbiór u sprzedającego."
+    },
+    {
+      "id": "fh-008",
+      "q": "Wyznaczonym miejscem w formule LOCO jest przeważnie:",
+      "correct": "magazyn sprzedającego",
+      "wrong": [
+        "biuro kupującego",
+        "port przeznaczenia",
+        "urząd celny"
+      ],
+      "why": "Najczęściej loco magazyn sprzedawcy."
+    },
+    {
+      "id": "fh-009",
+      "q": "„Loco magazyn sprzedawcy” oznacza, że:",
+      "correct": "sprzedający wydaje towar do dyspozycji przewoźnika podstawionego przez kupującego",
+      "wrong": [
+        "sprzedający dowozi towar do magazynu kupującego",
+        "kupujący płaci tylko za magazynowanie",
+        "towar zostaje u sprzedawcy na stałe"
+      ],
+      "why": "Transport organizuje kupujący."
+    },
+    {
+      "id": "fh-010",
+      "q": "„Franco biuro firmy” oznacza, że:",
+      "correct": "sprzedający dostarcza towar bezpośrednio do biura firmy kupującego wskazanego w umowie",
+      "wrong": [
+        "kupujący odbiera towar z biura sprzedającego",
+        "towar jest wysyłany pocztą bez opłat",
+        "przewoźnik zostawia towar w porcie"
+      ],
+      "why": "Franco = dostawa do wskazanego miejsca."
+    },
+    {
+      "id": "fh-011",
+      "q": "Firma z Poznania sprzedaje meble i sama dowozi je klientowi pod wskazany adres na swój koszt. Która formuła pasuje?",
+      "correct": "franco",
+      "wrong": [
+        "loco",
+        "EXW",
+        "FAS"
+      ],
+      "why": "Sprzedający dostarcza do miejsca przeznaczenia."
+    },
+    {
+      "id": "fh-012",
+      "q": "Klient przysyła swoją ciężarówkę po towar do magazynu sprzedawcy. Która formuła pasuje?",
+      "correct": "loco magazyn sprzedawcy",
+      "wrong": [
+        "franco biuro firmy",
+        "CIF",
+        "DDP"
+      ],
+      "why": "Towar wydany przewoźnikowi kupującego w magazynie sprzedawcy."
+    },
+    {
+      "id": "fh-013",
+      "q": "W jakim celu powstały formuły RAFTD?",
+      "correct": "do regulacji handlu zagranicznego USA",
+      "wrong": [
+        "do regulacji handlu kontenerowego w UE",
+        "jako uzupełnienie Incoterms 2020",
+        "do regulacji przewozów pocztowych"
+      ],
+      "why": "RAFTD – amerykańskie definicje handlu zagranicznego."
+    },
+    {
+      "id": "fh-014",
+      "q": "Formuły handlowe stworzone dla handlu zagranicznego USA to:",
+      "correct": "RAFTD",
+      "wrong": [
+        "Combiterms",
+        "uzanse",
+        "Incoterms"
+      ],
+      "why": "Z notatki."
+    },
+    {
+      "id": "fh-015",
+      "q": "Czym są formuły Combiterms?",
+      "correct": "uzupełnieniem Incoterms 2020",
+      "wrong": [
+        "zastępstwem Incoterms w UE",
+        "przepisami prawa obligatoryjnego",
+        "amerykańskimi formułami handlowymi"
+      ],
+      "why": "Z notatki: uzupełnienie Incoterms 2020."
+    },
+    {
+      "id": "fh-016",
+      "q": "Z jakim rodzajem handlu są związane Combiterms?",
+      "correct": "z handlem kontenerowym",
+      "wrong": [
+        "z handlem paliwami rurociągami",
+        "z handlem detalicznym",
+        "z przesyłkami pocztowymi"
+      ],
+      "why": "Combiterms są związane z handlem kontenerowym."
+    },
+    {
+      "id": "fh-017",
+      "q": "W porównaniu z Incoterms reguły Combiterms są:",
+      "correct": "bardziej szczegółowe",
+      "wrong": [
+        "mniej szczegółowe",
+        "obowiązkowe",
+        "starsze o 100 lat"
+      ],
+      "why": "Cecha z notatki."
+    },
+    {
+      "id": "fh-018",
+      "q": "Jaki charakter mają Combiterms?",
+      "correct": "fakultatywny (dobrowolny), podobnie jak Incoterms",
+      "wrong": [
+        "obowiązkowy w całej UE",
+        "obowiązkowy tylko w USA",
+        "karny"
+      ],
+      "why": "Strony same decydują, czy je stosują."
+    },
+    {
+      "id": "fh-019",
+      "q": "W jakich przewozach stosuje się reguły Combiterms?",
+      "correct": "w przewozach międzykontynentalnych",
+      "wrong": [
+        "wyłącznie w przewozach miejskich",
+        "tylko w transporcie rurociągowym",
+        "w przewozach osób"
+      ],
+      "why": "Kontenery ułatwiają przewóz i zmniejszają koszty."
+    },
+    {
+      "id": "fh-020",
+      "q": "Dlaczego Combiterms stosuje się w przewozach międzykontynentalnych?",
+      "correct": "bo kontenery ułatwiają przewóz i zmniejszają koszty transportu",
+      "wrong": [
+        "bo są obowiązkowe na morzu",
+        "bo zastępują konosament",
+        "bo dotyczą tylko lotnictwa"
+      ],
+      "why": "Uzasadnienie z notatki."
+    },
+    {
+      "id": "fh-021",
+      "q": "Która cecha NIE dotyczy Combiterms?",
+      "correct": "są obowiązkowe dla wszystkich przewoźników",
+      "wrong": [
+        "są zbiorem terminów handlowych podobnych do Incoterms i RAFTD",
+        "są bardziej szczegółowe niż Incoterms",
+        "są związane z handlem kontenerowym"
+      ],
+      "why": "Combiterms są dobrowolne."
+    },
+    {
+      "id": "fh-022",
+      "q": "Czym są uzanse?",
+      "correct": "zwyczajami handlowymi przyjętymi przez grupę ludzi i potwierdzonymi przez Izbę Handlową jako zalecane",
+      "wrong": [
+        "ustawami uchwalonymi przez Sejm",
+        "dokumentami celnymi",
+        "rodzajem kontenerów"
+      ],
+      "why": "Definicja z notatki."
+    },
+    {
+      "id": "fh-023",
+      "q": "Których zagadnień dotyczą uzanse?",
+      "correct": "warunków przewozu, kosztów i zasad dotyczących konosamentów",
+      "wrong": [
+        "czasu pracy kierowców",
+        "przewozu towarów niebezpiecznych",
+        "rejestracji pojazdów"
+      ],
+      "why": "Z notatki."
+    },
+    {
+      "id": "fh-024",
+      "q": "W którym transporcie obowiązują uzanse i zwyczaje lokalne?",
+      "correct": "w transporcie morskim",
+      "wrong": [
+        "w transporcie lotniczym",
+        "w transporcie kolejowym",
+        "w transporcie przesyłowym"
+      ],
+      "why": "Morski – uzanse i zwyczaje lokalne."
+    },
+    {
+      "id": "fh-025",
+      "q": "Czym zazwyczaj są regulowane przewozy lądowe i lotnicze?",
+      "correct": "przepisami prawa obligatoryjnego – regulaminami przewozu i taryfami",
+      "wrong": [
+        "wyłącznie uzansami",
+        "zwyczajami lokalnymi portów",
+        "formułami RAFTD"
+      ],
+      "why": "Z notatki."
+    },
+    {
+      "id": "fh-026",
+      "q": "Jak brzmi polska nazwa formuły EXW?",
+      "correct": "Odbiór w zakładzie sprzedającego",
+      "wrong": [
+        "Dostawa do przewoźnika",
+        "Dostawa do miejsca",
+        "Koszt i fracht"
+      ],
+      "why": "EXW = Ex Works."
+    },
+    {
+      "id": "fh-027",
+      "q": "Formuła „Dostawa wzdłuż burty statku” to:",
+      "correct": "FAS",
+      "wrong": [
+        "FOB",
+        "FCA",
+        "CFR"
+      ],
+      "why": "FAS = Free Alongside Ship."
+    },
+    {
+      "id": "fh-028",
+      "q": "Formuła „Dostawa na pokład statku” to:",
+      "correct": "FOB",
+      "wrong": [
+        "FAS",
+        "CIF",
+        "DAP"
+      ],
+      "why": "FOB = Free On Board."
+    },
+    {
+      "id": "fh-029",
+      "q": "Formuła „Przewóz opłacony do…” to:",
+      "correct": "CPT",
+      "wrong": [
+        "CIP",
+        "CFR",
+        "DAP"
+      ],
+      "why": "CPT = Carriage Paid To."
+    },
+    {
+      "id": "fh-030",
+      "q": "Formuła „Dostawa do miejsca z rozładunkiem” to:",
+      "correct": "DPU",
+      "wrong": [
+        "DAP",
+        "DDP",
+        "CIP"
+      ],
+      "why": "DPU = Delivered at Place Unloaded."
+    },
+    {
+      "id": "fh-031",
+      "q": "Formuła „Dostawa z opłaconym cłem” to:",
+      "correct": "DDP",
+      "wrong": [
+        "DAP",
+        "DPU",
+        "CIF"
+      ],
+      "why": "DDP = Delivered Duty Paid."
+    },
+    {
+      "id": "fh-032",
+      "q": "Jak brzmi polska nazwa formuły CIP?",
+      "correct": "Przewóz i ubezpieczenie opłacone do…",
+      "wrong": [
+        "Koszt, ubezpieczenie i fracht",
+        "Przewóz opłacony do…",
+        "Dostawa do przewoźnika"
+      ],
+      "why": "CIP = Carriage and Insurance Paid To."
+    },
+    {
+      "id": "fh-033",
+      "q": "Do której grupy należy FCA?",
+      "correct": "F",
+      "wrong": [
+        "E",
+        "C",
+        "D"
+      ],
+      "why": "Grupa F: FCA, FAS, FOB."
+    },
+    {
+      "id": "fh-034",
+      "q": "W której formule kupujący płaci za załadunek u sprzedającego?",
+      "correct": "EXW",
+      "wrong": [
+        "FCA",
+        "FOB",
+        "DAP"
+      ],
+      "why": "W tabeli tylko EXW ma K w tej kolumnie."
+    },
+    {
+      "id": "fh-035",
+      "q": "W której formule kupujący odpowiada za odprawę eksportową?",
+      "correct": "EXW",
+      "wrong": [
+        "FCA",
+        "FAS",
+        "CPT"
+      ],
+      "why": "We wszystkich pozostałych odprawę eksportową robi sprzedający."
+    },
+    {
+      "id": "fh-036",
+      "q": "W których formułach sprzedający ma obowiązek ubezpieczenia?",
+      "correct": "CIP i CIF",
+      "wrong": [
+        "CPT i CFR",
+        "FOB i FAS",
+        "DAP i DDP"
+      ],
+      "why": "W pozostałych formułach w kolumnie ubezpieczenia jest „–” (brak obowiązku)."
+    },
+    {
+      "id": "fh-037",
+      "q": "Co oznacza „–” w kolumnie „Ubezpieczenie” w tabeli?",
+      "correct": "brak obowiązku – strony mogą się umówić",
+      "wrong": [
+        "ubezpieczenie jest zakazane",
+        "ubezpieczenie płaci przewoźnik",
+        "ubezpieczenie jest zawsze po stronie sprzedającego"
+      ],
+      "why": "Legenda tabeli."
+    },
+    {
+      "id": "fh-038",
+      "q": "W której formule sprzedający płaci za rozładunek w miejscu przeznaczenia?",
+      "correct": "DPU",
+      "wrong": [
+        "DAP",
+        "DDP",
+        "CIF"
+      ],
+      "why": "W tabeli tylko DPU ma S w kolumnie rozładunku."
+    },
+    {
+      "id": "fh-039",
+      "q": "W której formule sprzedający płaci odprawę importową i cło?",
+      "correct": "DDP",
+      "wrong": [
+        "DPU",
+        "DAP",
+        "CIP"
+      ],
+      "why": "Tylko DDP ma S w ostatniej kolumnie."
+    },
+    {
+      "id": "fh-040",
+      "q": "Kto płaci transport główny w formule FOB?",
+      "correct": "kupujący",
+      "wrong": [
+        "sprzedający",
+        "przewoźnik z własnej kieszeni",
+        "port"
+      ],
+      "why": "Grupa F (oraz EXW) – transport główny po stronie kupującego."
+    },
+    {
+      "id": "fh-041",
+      "q": "Kto płaci transport główny w formule CFR?",
+      "correct": "sprzedający",
+      "wrong": [
+        "kupujący",
+        "ubezpieczyciel",
+        "bank"
+      ],
+      "why": "Grupy C i D – transport główny płaci sprzedający."
+    },
+    {
+      "id": "fh-042",
+      "q": "W formule FAS załadunek na statek opłaca:",
+      "correct": "kupujący",
+      "wrong": [
+        "sprzedający",
+        "kapitan statku",
+        "nikt"
+      ],
+      "why": "FAS kończy się wzdłuż burty – załadunek należy do kupującego."
+    },
+    {
+      "id": "fh-043",
+      "q": "W formule FOB załadunek na statek opłaca:",
+      "correct": "sprzedający",
+      "wrong": [
+        "kupujący",
+        "armator zawsze",
+        "ubezpieczyciel"
+      ],
+      "why": "FOB = na pokład – załadunek po stronie sprzedającego."
+    },
+    {
+      "id": "fh-044",
+      "q": "W formule CFR ryzyko przechodzi na kupującego:",
+      "correct": "po załadunku na statek w porcie nadania",
+      "wrong": [
+        "w porcie przeznaczenia",
+        "po odprawie importowej",
+        "w zakładzie sprzedającego"
+      ],
+      "why": "Mimo że sprzedający opłaca fracht, ryzyko przechodzi wcześniej."
+    },
+    {
+      "id": "fh-045",
+      "q": "W formule DAP ryzyko przechodzi na kupującego:",
+      "correct": "w miejscu przeznaczenia, przed rozładunkiem",
+      "wrong": [
+        "po załadunku na statek",
+        "w zakładzie sprzedającego",
+        "po rozładunku"
+      ],
+      "why": "DAP – rozładunek należy do kupującego."
+    },
+    {
+      "id": "fh-046",
+      "q": "W formule DPU ryzyko przechodzi na kupującego:",
+      "correct": "po rozładunku w miejscu przeznaczenia",
+      "wrong": [
+        "przed rozładunkiem",
+        "po załadunku u sprzedającego",
+        "w porcie nadania"
+      ],
+      "why": "DPU – sprzedający rozładowuje."
+    },
+    {
+      "id": "fh-047",
+      "q": "Przy FCA z dostawą w zakładzie sprzedającego ryzyko przechodzi:",
+      "correct": "po załadunku towaru na środek transportu kupującego",
+      "wrong": [
+        "po dotarciu do portu przeznaczenia",
+        "przed załadunkiem",
+        "po odprawie importowej"
+      ],
+      "why": "Uwaga z dopisku pod tabelą."
+    },
+    {
+      "id": "fh-048",
+      "q": "Według tabeli, w których formułach „morski” oznacza zastosowanie tylko do transportu morskiego i śródlądowego?",
+      "correct": "FAS, FOB, CFR, CIF",
+      "wrong": [
+        "FCA, CPT, CIP, DAP",
+        "EXW, DDP, DPU, DAP",
+        "FOB, FCA, CIF, CIP"
+      ],
+      "why": "Pozostałe formuły – każdy rodzaj transportu."
+    },
+    {
+      "id": "fh-049",
+      "q": "W formułach DAP i DDP rozładunek środka transportu należy do:",
+      "correct": "kupującego, chyba że umowa przewozu stanowi inaczej",
+      "wrong": [
+        "zawsze do sprzedającego",
+        "przewoźnika",
+        "urzędu celnego"
+      ],
+      "why": "Dopisek pod tabelą."
+    }
+  ]
+}
