@@ -1,0 +1,218 @@
+{
+  "id": "third-conditional-past-regrets",
+  "title": "Third conditional, I wish i If only (past regrets)",
+  "level": "B1–B2",
+  "summary": "Gdybanie o przeszłości, żal za tym, co się stało, i jak odróżnić third conditional od second conditional.",
+  "sections": [
+    {
+      "title": "Third conditional",
+      "text": "Budowa: **If + Past Perfect (had + III forma), would have + III forma**.\n\nMówimy o przeszłości, **której już nie da się zmienić** – wyobrażamy sobie, co by było, gdyby wydarzyło się coś innego:\n- *If I **had studied**, I **would have passed** the exam.* (nie uczyłem się i nie zdałem)\n- *If we **hadn't missed** the bus, we **wouldn't have been** late.*\n\nZamiast *would have* można użyć **could have** (mógłbym) albo **might have** (może bym).\n\nUwaga na skrót **'d**: w części z *if* to **had**, w drugiej części to **would**:\n*If I**'d** (had) known, I**'d** (would) have helped you.*",
+      "examples": [
+        {
+          "text": "If you had told me, I would have helped you.",
+          "translation": "Gdybyś mi powiedział, pomógłbym ci (ale nie powiedziałeś)."
+        },
+        {
+          "text": "If the driver had slowed down, the accident wouldn't have happened.",
+          "translation": "Gdyby kierowca zwolnił, do wypadku by nie doszło."
+        },
+        {
+          "text": "We could have won if we had played better.",
+          "translation": "Moglibyśmy wygrać, gdybyśmy zagrali lepiej."
+        }
+      ]
+    },
+    {
+      "title": "I wish / If only + Past Perfect – żal za przeszłością",
+      "text": "Gdy żałujemy czegoś, co **już się stało** (albo nie stało), używamy **I wish / If only + Past Perfect**:\n- *I wish I **had studied** harder.* – Żałuję, że nie uczyłem się więcej.\n- *I wish I **hadn't eaten** so much.* – Żałuję, że tyle zjadłem.\n- *If only we **had left** earlier!* – Gdybyśmy tylko wyszli wcześniej!\n\n*If only* znaczy to samo co *I wish*, ale brzmi mocniej i bardziej emocjonalnie.\n\nPamiętaj o odwróceniu: żałujesz, że coś **zrobiłeś** → w zdaniu jest przeczenie (*I wish I hadn't…*); żałujesz, że czegoś **nie zrobiłeś** → zdanie twierdzące (*I wish I had…*).",
+      "examples": [
+        {
+          "text": "I wish I had bought that jacket.",
+          "translation": "Żałuję, że nie kupiłem tej kurtki."
+        },
+        {
+          "text": "If only I hadn't said that!",
+          "translation": "Gdybym tylko tego nie powiedział!"
+        }
+      ]
+    },
+    {
+      "title": "Second czy third conditional – jak rozpoznać?",
+      "text": "**1. Sprawdź formę czasownika po if:**\n- **Past Simple** (*If I had, If I knew, If I were*) → **second**\n- **had + III forma** (*If I had had, If I had known*) → **third**\n\n**2. Sprawdź drugą część zdania:**\n- **would + bezokolicznik** (*would buy*) → **second**\n- **would have + III forma** (*would have bought*) → **third**\n\n**3. Zapytaj, o jaki czas chodzi:**\n- second: teraźniejszość lub przyszłość – sytuacja nierealna **teraz** (*If I had a car now…*)\n- third: przeszłość – coś, co **już się wydarzyło** inaczej (*If I had had a car yesterday…*)\n\n**4. Szukaj słów-wskazówek:** *now, today, tomorrow, one day* → zwykle second; *yesterday, last week, in 2020, when I was a child* → third.\n\nTa sama zasada działa przy **I wish**: *I wish I **knew*** (teraz nie wiem) / *I wish I **had known*** (wtedy nie wiedziałem).\n\nPułapka: *If I **had** a car* to second conditional (had = mieć w Past Simple). Third conditional to *If I **had had** a car*.",
+      "examples": [
+        {
+          "text": "Second: If I had more money, I would buy a new phone.",
+          "translation": "Gdybym miał więcej pieniędzy (teraz), kupiłbym nowy telefon."
+        },
+        {
+          "text": "Third: If I had had more money, I would have bought a new phone.",
+          "translation": "Gdybym miał więcej pieniędzy (wtedy), kupiłbym nowy telefon."
+        },
+        {
+          "text": "Second: If I were you, I would apologise.",
+          "translation": "Na twoim miejscu przeprosiłbym (rada teraz)."
+        },
+        {
+          "text": "Third: If I had been there, I would have apologised.",
+          "translation": "Gdybym tam był, przeprosiłbym (ale mnie nie było)."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "tc-01",
+      "q": "If I ___ earlier, I wouldn't have missed the train.",
+      "correct": "had got up",
+      "wrong": [
+        "got up",
+        "would get up",
+        "have got up"
+      ],
+      "why": "Third conditional: If + Past Perfect."
+    },
+    {
+      "id": "tc-02",
+      "q": "If she had asked me, I ___ her.",
+      "correct": "would have helped",
+      "wrong": [
+        "would help",
+        "will help",
+        "had helped"
+      ],
+      "why": "Druga część third conditional: would have + III forma."
+    },
+    {
+      "id": "tc-03",
+      "q": "If we hadn't taken a taxi, we ___ late.",
+      "correct": "would have been",
+      "wrong": [
+        "would be",
+        "were",
+        "had been"
+      ],
+      "why": "Przeszłość, której nie da się zmienić → would have + III forma."
+    },
+    {
+      "id": "tc-04",
+      "q": "I wish I ___ to the party last night. Everyone says it was great.",
+      "correct": "had gone",
+      "wrong": [
+        "went",
+        "would go",
+        "have gone"
+      ],
+      "why": "Żal za przeszłością → I wish + Past Perfect."
+    },
+    {
+      "id": "tc-05",
+      "q": "If only I ___ so much money last weekend!",
+      "correct": "hadn't spent",
+      "wrong": [
+        "didn't spend",
+        "wouldn't spend",
+        "haven't spent"
+      ],
+      "why": "Żałuję, że wydałem → przeczenie + Past Perfect."
+    },
+    {
+      "id": "tc-06",
+      "q": "Który to typ: „If I had a bike, I would ride to school.”?",
+      "correct": "second conditional",
+      "wrong": [
+        "third conditional",
+        "first conditional",
+        "zero conditional"
+      ],
+      "why": "If + Past Simple (had = miałem), would + bezokolicznik → teraźniejszość."
+    },
+    {
+      "id": "tc-07",
+      "q": "Który to typ: „If I had had a bike, I would have ridden to school.”?",
+      "correct": "third conditional",
+      "wrong": [
+        "second conditional",
+        "first conditional",
+        "to zdanie jest błędne"
+      ],
+      "why": "If + had + III forma, would have + III → przeszłość."
+    },
+    {
+      "id": "tc-08",
+      "q": "Co oznacza „'d” w zdaniu „If I'd known, I'd have called you”?",
+      "correct": "najpierw had, potem would",
+      "wrong": [
+        "najpierw would, potem had",
+        "w obu miejscach would",
+        "w obu miejscach had"
+      ],
+      "why": "W części z if → had, w drugiej części → would."
+    },
+    {
+      "id": "tc-09",
+      "q": "„I wish I knew the answer.” oznacza, że:",
+      "correct": "teraz nie znam odpowiedzi",
+      "wrong": [
+        "wczoraj nie znałem odpowiedzi",
+        "na pewno poznam odpowiedź",
+        "znałem odpowiedź, ale zapomniałem"
+      ],
+      "why": "I wish + Past Simple → teraźniejszość."
+    },
+    {
+      "id": "tc-10",
+      "q": "„I wish I had known the answer.” oznacza, że:",
+      "correct": "wtedy nie znałem odpowiedzi i żałuję",
+      "wrong": [
+        "teraz nie znam odpowiedzi",
+        "jutro poznam odpowiedź",
+        "znałem odpowiedź i się cieszę"
+      ],
+      "why": "I wish + Past Perfect → przeszłość."
+    },
+    {
+      "id": "tc-11",
+      "q": "If I ___ you, I would talk to the teacher.",
+      "correct": "were",
+      "wrong": [
+        "had been",
+        "would be",
+        "have been"
+      ],
+      "why": "Rada dotycząca teraz → second conditional: If I were you."
+    },
+    {
+      "id": "tc-12",
+      "q": "Które słowo w zdaniu najczęściej wskazuje na third conditional?",
+      "correct": "yesterday",
+      "wrong": [
+        "now",
+        "tomorrow",
+        "one day"
+      ],
+      "why": "Przeszłość → third conditional."
+    },
+    {
+      "id": "tc-13",
+      "q": "If he had driven more carefully, he ___ the accident.",
+      "correct": "could have avoided",
+      "wrong": [
+        "could avoid",
+        "can avoid",
+        "had avoided"
+      ],
+      "why": "Third conditional z could have + III forma."
+    },
+    {
+      "id": "tc-14",
+      "q": "Wybierz poprawne zdanie (third conditional):",
+      "correct": "If they had invited me, I would have come.",
+      "wrong": [
+        "If they invited me, I would have come.",
+        "If they had invited me, I would come yesterday.",
+        "If they would have invited me, I would have come."
+      ],
+      "why": "If + had + III, would have + III; nigdy would w części z if."
+    }
+  ]
+}
